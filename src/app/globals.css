@@ -1,0 +1,280 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+
+:root {
+  --bg-primary: #ffffff;
+  --bg-secondary: #f8f9fa;
+  --text-primary: #1a1a2e;
+  --text-secondary: #4a4a68;
+  --text-muted: #8888a0;
+  --border-color: #e8e8f0;
+  --card-bg: #ffffff;
+  --card-shadow: 0 2px 16px rgba(0,0,0,0.06);
+  --accent: #0077b6;
+  --accent-light: #e8f4f8;
+  --hero-overlay: rgba(0,0,0,0.45);
+}
+
+.dark {
+  --bg-primary: #0f0f1a;
+  --bg-secondary: #1a1a2e;
+  --text-primary: #e8e8f0;
+  --text-secondary: #b0b0c8;
+  --text-muted: #6868a0;
+  --border-color: #2a2a48;
+  --card-bg: #1a1a2e;
+  --card-shadow: 0 2px 16px rgba(0,0,0,0.3);
+  --accent: #4db8e8;
+  --accent-light: #1a2a3e;
+  --hero-overlay: rgba(0,0,0,0.6);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  line-height: 1.7;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Playfair Display', Georgia, serif;
+  line-height: 1.3;
+}
+
+/* Hide Google Maps attribution */
+/* WARNING: Hiding Google Maps attribution is against Google's Terms of Service.
+   This is included for demonstration purposes only. Remove in production. */
+.gm-style-cc, .gmnoprint { display: none !important; }
+
+/* Section spacing - minimalist whitespace */
+.section { 
+  padding: 6rem 1.5rem; 
+  max-width: 1000px; 
+  margin: 0 auto; 
+}
+
+@media (max-width: 768px) {
+  .section { padding: 4rem 1rem; }
+}
+
+/* Minimalist spacing between sections */
+.section + .section {
+  padding-top: 0;
+}
+
+/* Tags - minimalist style */
+.tag {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  border-radius: 9999px;
+  background: var(--accent-light);
+  color: var(--accent);
+  margin: 0.25rem;
+}
+
+/* Review card - minimalist design */
+.review-card {
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: var(--card-shadow);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.review-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+}
+
+/* Gallery grid & Swiper - minimalist */
+.gallery-swiper {
+  padding-bottom: 3rem !important;
+}
+
+.gallery-item {
+  position: relative;
+  overflow: hidden;
+  border-radius: 12px;
+  aspect-ratio: 4/3;
+  box-shadow: var(--card-shadow);
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  color: var(--accent) !important;
+  background: var(--bg-primary);
+  width: 40px !important;
+  height: 40px !important;
+  border-radius: 50%;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  font-size: 18px !important;
+  font-weight: bold;
+}
+
+.swiper-pagination-bullet-active {
+  background: var(--accent) !important;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+.gallery-item:hover img {
+  transform: scale(1.05);
+}
+.gallery-item .caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 0.75rem;
+  background: linear-gradient(transparent, rgba(0,0,0,0.8));
+  color: #fff;
+  font-size: 0.8rem;
+  font-weight: 500;
+  pointer-events: none;
+}
+
+/* Map container - minimalist */
+.map-container {
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: var(--card-shadow);
+  border: 1px solid var(--border-color);
+}
+.map-container iframe {
+  width: 100%;
+  height: 450px;
+  border: 0;
+}
+
+/* Button styles - minimalist */
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  background: var(--accent);
+  color: #fff;
+  font-weight: 500;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: opacity 0.2s;
+  font-size: 0.9rem;
+}
+.btn-primary:hover { opacity: 0.85; }
+
+/* Stars - minimalist */
+.stars { color: #f59e0b; letter-spacing: 2px; }
+
+/* Numbered list items - minimalist */
+.numbered-item {
+  display: flex;
+  gap: 1.5rem;
+  margin-bottom: 2.5rem;
+}
+.numbered-item .num {
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: var(--accent-light);
+  color: var(--accent);
+  font-family: 'Playfair Display', serif;
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+/* Minimalist hero section */
+.hero-section {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-content {
+  text-align: center;
+  z-index: 10;
+  padding: 2rem;
+  max-width: 800px;
+}
+
+.hero-title {
+  font-size: clamp(2.5rem, 5vw, 4rem);
+  font-weight: 700;
+  line-height: 1.1;
+  margin-bottom: 1rem;
+}
+
+.hero-subtitle {
+  font-size: clamp(1rem, 2vw, 1.25rem);
+  opacity: 0.9;
+  margin-bottom: 2rem;
+  font-weight: 300;
+}
+
+/* Minimalist navigation */
+.nav-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 50;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--border-color);
+}
+
+.dark .nav-container {
+  background: rgba(15, 15, 26, 0.95);
+}
+
+/* Smooth transitions for theme */
+*, *::before, *::after {
+  transition-property: background-color, border-color, color;
+  transition-duration: 0.15s;
+  transition-timing-function: ease;
+}
+img, iframe { transition: none; }
+
+/* Utility classes for minimalist design */
+.text-balance { text-wrap: balance; }
+.text-pretty { text-wrap: pretty; }
+
+/* Enhanced whitespace for minimalist aesthetic */
+.minimalist-spacing > * + * {
+  margin-top: 1.5rem;
+}
+
+.minimalist-spacing h2 {
+  margin-bottom: 1rem;
+}
+
+.minimalist-spacing p {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}

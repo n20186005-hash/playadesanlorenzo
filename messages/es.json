@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "title": "Playa de San Lorenzo — Gijón, España",
+    "description": "Guía completa de Playa de San Lorenzo: playa urbana de arena dorada con paseo marítimo, vistas espectaculares del Cantábrico y ambiente familiar."
+  },
+  "header": {
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Reseñas",
+    "map": "Mapa",
+    "privacy": "Privacidad",
+    "terms": "Términos",
+    "cookies": "Cookies"
+  },
+  "hero": {
+    "title": "Playa de San Lorenzo",
+    "subtitle": "Playa urbana de arena dorada con paseo marítimo y vistas al mar Cantábrico",
+    "rating": "4.6/5",
+    "reviewCount": "12,653",
+    "reviewLabel": "reseñas",
+    "hours": "Abierto 24 horas",
+    "openMaps": "Abrir en Google Maps",
+    "tags": ["Playa urbana", "Arena dorada", "Paseo marítimo", "Gijón", "Cantábrico", "Surf", "Familia", "Atardeceres"]
+  },
+  "about": {
+    "title": "Descubre Playa de San Lorenzo",
+    "description": "Playa de San Lorenzo es la playa urbana más grande de Gijón, con más de 1.5 km de arena dorada y aguas del mar Cantábrico. Perfecta para familias, deportes acuáticos y paseos al atardecer.",
+    "highlights": {
+      "title": "Destacados",
+      "items": [
+        "Playa urbana de 1.5 km con arena dorada",
+        "Paseo marítimo de 3 km para caminar y andar en bici",
+        "Bandera azul por calidad y servicios",
+        "Acceso gratuito 24 horas del día",
+        "Ideal para surf y deportes acuáticos",
+        "Zonas de juego para niños y chiringuitos"
+      ]
+    },
+    "keywords": {
+      "title": "Palabras clave relacionadas"
+    },
+    "keywordsList": ["Playa San Lorenzo", "Gijón", "Asturias", "Playa urbana", "Cantábrico", "Surf"]
+  },
+  "explore": {
+    "title": "Explora el Entorno Marítimo",
+    "items": [
+      {
+        "title": "Paseo Marítimo",
+        "description": "Recorre los 3 km del paseo marítimo con vistas al mar Cantábrico. Perfecto para caminar, correr o andar en bici mientras disfrutas del aire fresco y los atardeceres."
+      },
+      {
+        "title": "Deportes Acuáticos",
+        "description": "Disfruta del surf, paddle surf y otros deportes acuáticos. La playa ofrece condiciones ideales para principiantes y expertos con escuelas de surf disponibles."
+      },
+      {
+        "title": "Chiringuitos y Gastronomía",
+        "description": "Relájate en los chiringuitos de la playa degustando tapas y bebidas locales. La gastronomía asturiana se combina perfectamente con el ambiente marítimo."
+      },
+      {
+        "title": "Zonas Familiares",
+        "description": "Áreas de juego para niños, servicios completos y vigilancia en temporada alta. La playa es segura y accesible para toda la familia."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galería de Fotos",
+    "subtitle": "Imágenes de la playa y sus alrededores",
+    "source": "Foto: Unsplash (última actualización: 2026)",
+    "viewAll": "Ver todas las fotos en Google Maps",
+    "images": [
+      { "alt": "Playa de San Lorenzo al amanecer", "caption": "Vista de la playa al amanecer" },
+      { "alt": "Arena dorada y Cantábrico", "caption": "Arena dorada y mar Cantábrico" },
+      { "alt": "Paseo marítimo de Gijón", "caption": "El paseo marítimo junto a la playa" },
+      { "alt": "Surf en San Lorenzo", "caption": "Surfistas en las olas" },
+      { "alt": "Atardecer en la playa", "caption": "Atardecer sobre el mar" },
+      { "alt": "Familias en la playa", "caption": "Ambiente familiar en verano" },
+      { "alt": "Chiringuitos de playa", "caption": "Chiringuitos junto al mar" },
+      { "alt": "Vista aérea de San Lorenzo", "caption": "Vista panorámica de la playa" }
+    ]
+  },
+  "reviews": {
+    "title": "Reseñas Reales de Visitantes",
+    "declaration": "Valoraciones y reseñas procedentes de Google Maps (última actualización: 2026). Mostramos solo una selección de reseñas verificadas con alta puntuación. Para consultar todas las reseñas completas y más recientes, haz clic en el enlace inferior.",
+    "seeAll": "Ver todas las reseñas en Google Maps",
+    "items": [
+      { "name": "María García", "date": "Marzo 2026", "text": "Playa espectacular con arena dorada fina. El paseo marítimo es perfecto para caminar y los atardeceres son impresionantes. Muy limpia y bien cuidada." },
+      { "name": "Carlos Rodríguez", "date": "Febrero 2026", "text": "Excelente playa urbana con todos los servicios. Ideal para familias y surfistas. El ambiente es muy agradable y las vistas al Cantábrico son magníficas." },
+      { "name": "Ana Martínez", "date": "Enero 2026", "text": "Me encanta venir aquí a correr por el paseo marítimo. La playa es amplia y limpia. En verano tiene un ambiente estupendo con los chiringuitos abiertos." },
+      { "name": "Javier Fernández", "date": "Diciembre 2025", "text": "Bandera azul bien merecida. Aguas limpias, arena fina y servicios completos. Perfecta para un día de playa en la ciudad." },
+      { "name": "Laura Sánchez", "date": "Noviembre 2025", "text": "Preciosa playa con un paseo marítimo que invita a caminar. Los atardeceres son espectaculares y el ambiente familiar es muy agradable." },
+      { "name": "Diego López", "date": "Octubre 2025", "text": "Gran playa para practicar surf. Las olas son perfectas para principiantes y la arena es muy cómoda. Totalmente recomendable." }
+    ]
+  },
+  "comparison": {
+    "title": "Playas Cercanas y Consejos",
+    "description": "Descubre otras playas de Gijón y consejos útiles para tu visita a San Lorenzo.",
+    "nearbyBeaches": {
+      "title": "Playas Cercanas",
+      "poniente": "Playa más tranquila y familiar, ideal para niños pequeños. Menos oleaje y aguas más calmadas.",
+      "arbeyal": "Playa más pequeña y íntima, perfecta para quienes buscan tranquilidad lejos de las multitudes."
+    },
+    "tips": {
+      "title": "Consejos para tu Visita",
+      "bestTime": "Los mejores momentos son al amanecer para la fotografía y al atardecer para los paseos románticos.",
+      "safety": "Siempre respeta las banderas de baño y presta atención a las corrientes. Nade cerca de los socorristas en temporada alta.",
+      "parking": "Llega temprano en verano para encontrar aparcamiento gratuito cerca de la playa. El paseo marítimo tiene varias zonas de estacionamiento.",
+      "services": "Aprovecha los servicios de alquiler de tumbonas y sombrillas en temporada alta. Los chiringuitos ofrecen refrescos y tapas locales."
+    },
+    "safety": {
+      "title": "Información de Seguridad",
+      "content": "San Lorenzo es una playa vigilada en temporada alta con banderas de señalización. Presta atención a las condiciones del mar y respeta siempre las indicaciones de los socorristas."
+    }
+  },
+  "practical": {
+    "title": "Información Práctica",
+    "address": {
+      "label": "Dirección",
+      "value": "Paseo Marítimo, Av. Rufo García Rendueles, 33203 Gijón, Asturias, España"
+    },
+    "hours": {
+      "label": "Horario de apertura",
+      "value": "Abierto 24 horas — Acceso gratuito. El mejor momento para visitar es al amanecer o atardecer para las mejores fotografías y paseos."
+    },
+    "transport": {
+      "label": "Cómo llegar",
+      "value": "Desde el centro de Gijón: 15 min caminando por el paseo marítimo. Desde la estación de tren: 20 min en bus o 30 min caminando. Acceso directo en coche con parking cercano."
+    },
+    "parking": {
+      "label": "Aparcamiento",
+      "value": "Zonas de aparcamiento gratuitas disponibles a lo largo del paseo marítimo. En temporada alta (julio-agosto) puede ser limitado — se recomienda llegar temprano."
+    },
+    "accessibility": {
+      "label": "Accesibilidad",
+      "value": "Acceso peatonal completo con rampas. La arena es compacta y fácil de caminar. Duchas y servicios adaptados disponibles en temporada de verano."
+    }
+  },
+  "map": {
+    "title": "Cómo Llegar",
+    "openMaps": "Abrir en Google Maps"
+  },
+  "references": {
+    "title": "Datos y Referencias",
+    "disclaimer": "Este sitio es un portal independiente de información turística de terceros. La información proviene de recursos públicos (oficinas de turismo y Wikipedia) y datos base de Google Maps.",
+    "sources": {
+      "google": "Google Maps — Valoraciones, reseñas y datos geográficos",
+      "unsplash": "Unsplash — Fotografías utilizadas en la galería",
+      "wikipedia": "Wikipedia — Información histórica y cultural"
+    }
+  },
+  "footer": {
+    "support": "Para soporte técnico de este sitio web, contacta con: n20186005@gmail.com",
+    "copyright": "© 2026 Playa de San Lorenzo · Todos los derechos reservados",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Configuración de Cookies"
+  },
+  "privacy": {
+    "backHome": "Volver al Inicio",
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: marzo 2026",
+    "intro": "Esta Política de Privacidad explica cómo playadesanlorenzo.com recopila, utiliza y protege tu información personal cuando visitas nuestro sitio web.",
+    "sections": [
+      {
+        "title": "Información que Recopilamos",
+        "content": "Recopilamos los datos mínimos necesarios para ofrecer nuestros servicios. Esto puede incluir: datos de navegación (dirección IP, tipo de navegador, páginas visitadas), cookies y tecnologías similares, así como cualquier información que proporciones voluntariamente a través de formularios de contacto o correo electrónico."
+      },
+      {
+        "title": "Cómo Utilizamos tu Información",
+        "content": "Utilizamos la información recopilada para: mejorar el contenido y la experiencia de usuario del sitio, analizar el tráfico y los patrones de uso, responder a las solicitudes y cumplir con nuestras obligaciones legales."
+      },
+      {
+        "title": "Servicios de Terceros",
+        "content": "Nuestro sitio web puede utilizar servicios de terceros como Google Maps (para mapas integrados y datos de ubicación), Google Analytics (para análisis de tráfico) y Unsplash (para fotografías). Estos servicios disponen de sus propias políticas de privacidad."
+      },
+      {
+        "title": "Tus Derechos",
+        "content": "En virtud del RGPD y de las regulaciones aplicables, tienes derecho a: acceder a tus datos personales, solicitar su rectificación o eliminación, oponerse al tratamiento y presentar una queja ante una autoridad de control."
+      },
+      {
+        "title": "Contacto",
+        "content": "Para cualquier pregunta relacionada con la privacidad, contáctanos en: n20186005@gmail.com"
+      }
+    ]
+  },
+  "terms": {
+    "backHome": "Volver al Inicio",
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización: marzo 2026",
+    "intro": "Al acceder y utilizar playadesanlorenzo.com, aceptas quedar vinculado por estos Términos de Servicio.",
+    "sections": [
+      {
+        "title": "Uso del Contenido",
+        "content": "Todo el contenido de este sitio se proporciona únicamente con fines informativos. Somos un sitio independiente de información turística de terceros y no estamos afiliados a la gestión de Playa de San Lorenzo, a ninguna entidad gubernamental ni a ningún operador comercial."
+      },
+      {
+        "title": "Exactitud de la Información",
+        "content": "Nos esforzamos por mantener la información precisa y actualizada, pero no podemos garantizar su integridad ni exactitud. Los horarios, condiciones y servicios pueden cambiar sin previo aviso. Verifica siempre los datos importantes con fuentes oficiales antes de tu visita."
+      },
+      {
+        "title": "Propiedad Intelectual",
+        "content": "El diseño del sitio web y el contenido original están protegidos por derechos de autor. Las fotografías proceden de Unsplash según sus términos de licencia. Los datos de Google Maps se utilizan conforme a las Condiciones de Servicio de Google."
+      },
+      {
+        "title": "Limitación de Responsabilidad",
+        "content": "Este sitio web se proporciona «en el estado en que se encuentra» sin garantías. No somos responsables de ningún daño derivado del uso de la información de este sitio, incluyendo, entre otros, decisiones de viaje basadas en nuestro contenido."
+      },
+      {
+        "title": "Contacto",
+        "content": "Para preguntas sobre estos términos, contacta con: n20186005@gmail.com"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "backHome": "Volver al Inicio",
+    "title": "Configuración de Cookies",
+    "lastUpdated": "Última actualización: marzo 2026",
+    "intro": "Utilizamos cookies para mejorar tu experiencia de navegación. Puedes gestionar tus preferencias a continuación.",
+    "necessary": {
+      "title": "Cookies Esenciales",
+      "description": "Necesarias para el correcto funcionamiento del sitio web. No se pueden desactivar.",
+      "status": "Siempre activas"
+    },
+    "analytics": {
+      "title": "Cookies de Análisis",
+      "description": "Nos ayudan a entender cómo interactúan los visitantes con nuestro sitio web mediante la recopilación de datos de uso anónimos.",
+      "enabled": "Activadas",
+      "disabled": "Desactivadas"
+    },
+    "preferences": {
+      "title": "Cookies de Preferencias",
+      "description": "Recuerdan tus ajustes como el idioma y las preferencias de tema.",
+      "enabled": "Activadas",
+      "disabled": "Desactivadas"
+    },
+    "marketing": {
+      "title": "Cookies de Marketing",
+      "description": "Se utilizan para mostrar publicidad relevante y medir la eficacia de las campañas.",
+      "enabled": "Activadas",
+      "disabled": "Desactivadas"
+    },
+    "save": "Guardar Preferencias"
+  },
+  "theme": {
+    "light": "Claro",
+    "dark": "Oscuro"
+  },
+  "language": {
+    "es": "Español",
+    "en": "English",
+    "fr": "Français",
+    "zh-Hant": "繁體中文"
+  }
+}

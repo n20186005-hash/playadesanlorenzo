@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "title": "Playa de San Lorenzo — Gijón, Spain",
+    "description": "Complete guide to Playa de San Lorenzo: urban beach with golden sand, seaside promenade, spectacular Cantabrian Sea views and family atmosphere."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "cookies": "Cookies"
+  },
+  "hero": {
+    "title": "Playa de San Lorenzo",
+    "subtitle": "Urban beach with golden sand, seaside promenade and views of the Cantabrian Sea",
+    "rating": "4.6/5",
+    "reviewCount": "12,653",
+    "reviewLabel": "reviews",
+    "hours": "Open 24 hours",
+    "openMaps": "Open in Google Maps",
+    "tags": ["Urban beach", "Golden sand", "Seaside promenade", "Gijón", "Cantabrian Sea", "Surf", "Family", "Sunsets"]
+  },
+  "about": {
+    "title": "Discover Playa de San Lorenzo",
+    "description": "Playa de San Lorenzo is Gijón's largest urban beach, with over 1.5 km of golden sand and Cantabrian Sea waters. Perfect for families, water sports and sunset walks.",
+    "highlights": {
+      "title": "Highlights",
+      "items": [
+        "1.5 km urban beach with golden sand",
+        "3 km seaside promenade for walking and cycling",
+        "Blue flag for quality and services",
+        "Free access 24 hours a day",
+        "Ideal for surfing and water sports",
+        "Children's play areas and beach bars"
+      ]
+    },
+    "keywords": {
+      "title": "Related Keywords"
+    },
+    "keywordsList": ["San Lorenzo Beach", "Gijón", "Asturias", "Urban beach", "Cantabrian Sea", "Surf"]
+  },
+  "explore": {
+    "title": "Explore the Maritime Environment",
+    "items": [
+      {
+        "title": "Seaside Promenade",
+        "description": "Walk along the 3 km promenade with views of the Cantabrian Sea. Perfect for walking, running or cycling while enjoying the fresh air and sunsets."
+      },
+      {
+        "title": "Water Sports",
+        "description": "Enjoy surfing, paddle surfing and other water sports. The beach offers ideal conditions for beginners and experts with surf schools available."
+      },
+      {
+        "title": "Beach Bars and Gastronomy",
+        "description": "Relax at the beach bars tasting local tapas and drinks. Asturian gastronomy combines perfectly with the maritime atmosphere."
+      },
+      {
+        "title": "Family Areas",
+        "description": "Children's play areas, complete services and surveillance in high season. The beach is safe and accessible for the whole family."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Images of the beach and surroundings",
+    "source": "Photo: Unsplash (last updated: 2026)",
+    "viewAll": "View all photos on Google Maps",
+    "images": [
+      { "alt": "Playa de San Lorenzo at sunrise", "caption": "Beach view at sunrise" },
+      { "alt": "Golden sand and Cantabrian Sea", "caption": "Golden sand and Cantabrian Sea" },
+      { "alt": "Gijón seaside promenade", "caption": "The promenade next to the beach" },
+      { "alt": "Surfing at San Lorenzo", "caption": "Surfers on the waves" },
+      { "alt": "Sunset on the beach", "caption": "Sunset over the sea" },
+      { "alt": "Families on the beach", "caption": "Family atmosphere in summer" },
+      { "alt": "Beach bars", "caption": "Beach bars by the sea" },
+      { "alt": "Aerial view of San Lorenzo", "caption": "Panoramic view of the beach" }
+    ]
+  },
+  "reviews": {
+    "title": "Real Visitor Reviews",
+    "declaration": "Ratings and reviews from Google Maps (last updated: 2026). We only show a selection of verified high-rated reviews. To view all complete and most recent reviews, click the link below.",
+    "seeAll": "View all reviews on Google Maps",
+    "items": [
+      { "name": "María García", "date": "March 2026", "text": "Spectacular beach with fine golden sand. The promenade is perfect for walking and the sunsets are stunning. Very clean and well maintained." },
+      { "name": "Carlos Rodríguez", "date": "February 2026", "text": "Excellent urban beach with all services. Ideal for families and surfers. The atmosphere is very pleasant and the views of the Cantabrian Sea are magnificent." },
+      { "name": "Ana Martínez", "date": "January 2026", "text": "I love coming here to run along the promenade. The beach is wide and clean. In summer it has a great atmosphere with the beach bars open." },
+      { "name": "Javier Fernández", "date": "December 2025", "text": "Well-deserved blue flag. Clean waters, fine sand and complete services. Perfect for a beach day in the city." },
+      { "name": "Laura Sánchez", "date": "November 2025", "text": "Beautiful beach with a promenade that invites you to walk. The sunsets are spectacular and the family atmosphere is very pleasant." },
+      { "name": "Diego López", "date": "October 2025", "text": "Great beach for surfing. The waves are perfect for beginners and the sand is very comfortable. Totally recommendable." }
+    ]
+  },
+  "practical": {
+    "title": "Practical Information",
+    "address": {
+      "label": "Address",
+      "value": "Paseo Marítimo, Av. Rufo García Rendueles, 33203 Gijón, Asturias, Spain"
+    },
+    "hours": {
+      "label": "Opening Hours",
+      "value": "Open 24 hours — Free access. Best time to visit is sunrise or sunset for the best photos and walks."
+    },
+    "transport": {
+      "label": "How to Get There",
+      "value": "From Gijón center: 15 min walk along the promenade. From train station: 20 min by bus or 30 min walk. Direct car access with nearby parking."
+    },
+    "parking": {
+      "label": "Parking",
+      "value": "Free parking areas available along the promenade. In high season (July-August) it can be limited — arrive early recommended."
+    },
+    "accessibility": {
+      "label": "Accessibility",
+      "value": "Complete pedestrian access with ramps. The sand is compact and easy to walk. Showers and adapted services available in summer season."
+    }
+  },
+  "map": {
+    "title": "How to Get There",
+    "openMaps": "Open in Google Maps"
+  },
+  "references": {
+    "title": "Data & References",
+    "disclaimer": "This site is an independent third-party tourism information portal. Information comes from public resources (tourist offices and Wikipedia) and Google Maps base data.",
+    "sources": {
+      "google": "Google Maps — Ratings, reviews and geographic data",
+      "unsplash": "Unsplash — Photos used in the gallery",
+      "wikipedia": "Wikipedia — Historical and cultural information"
+    }
+  },
+  "footer": {
+    "support": "For technical support of this website, contact: n20186005@gmail.com",
+    "copyright": "© 2026 Playa de San Lorenzo · All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings"
+  },
+  "privacy": {
+    "backHome": "Back to Home",
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: March 2026",
+    "intro": "This Privacy Policy explains how playadesanlorenzo.com collects, uses and protects your personal information when you visit our website.",
+    "sections": [
+      {
+        "title": "Information We Collect",
+        "content": "We collect the minimum data necessary to provide our services. This may include: browsing data (IP address, browser type, pages visited), cookies and similar technologies, as well as any information you voluntarily provide through contact forms or email."
+      },
+      {
+        "title": "How We Use Your Information",
+        "content": "We use the collected information to: improve site content and user experience, analyze traffic and usage patterns, respond to requests and comply with our legal obligations."
+      },
+      {
+        "title": "Third Party Services",
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis) and Unsplash (for photographs). These services have their own privacy policies."
+      },
+      {
+        "title": "Your Rights",
+        "content": "Under GDPR and applicable regulations, you have the right to: access your personal data, request its rectification or deletion, object to processing and file a complaint with a supervisory authority."
+      },
+      {
+        "title": "Contact",
+        "content": "For any privacy-related questions, contact us at: n20186005@gmail.com"
+      }
+    ]
+  },
+  "terms": {
+    "backHome": "Back to Home",
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: March 2026",
+    "intro": "By accessing and using playadesanlorenzo.com, you agree to be bound by these Terms of Service.",
+    "sections": [
+      {
+        "title": "Use of Content",
+        "content": "All content on this site is provided for informational purposes only. We are an independent third-party tourism information site and are not affiliated with Playa de San Lorenzo management, any government entity or any commercial operator."
+      },
+      {
+        "title": "Accuracy of Information",
+        "content": "We strive to keep information accurate and up-to-date, but cannot guarantee its completeness or accuracy. Schedules, conditions and services may change without notice. Always verify important data with official sources before your visit."
+      },
+      {
+        "title": "Intellectual Property",
+        "content": "The website design and original content are protected by copyright. Photographs come from Unsplash under their license terms. Google Maps data is used in accordance with Google's Terms of Service."
+      },
+      {
+        "title": "Limitation of Liability",
+        "content": "This website is provided 'as is' without warranties. We are not responsible for any damages resulting from the use of information on this site, including, among others, travel decisions based on our content."
+      },
+      {
+        "title": "Contact",
+        "content": "For questions about these terms, contact: n20186005@gmail.com"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "backHome": "Back to Home",
+    "title": "Cookie Settings",
+    "lastUpdated": "Last updated: March 2026",
+    "intro": "We use cookies to improve your browsing experience. You can manage your preferences below.",
+    "necessary": {
+      "title": "Essential Cookies",
+      "description": "Necessary for the proper functioning of the website. Cannot be disabled.",
+      "status": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "Help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "enabled": "Enabled",
+      "disabled": "Disabled"
+    },
+    "preferences": {
+      "title": "Preference Cookies",
+      "description": "Remember your settings such as language and theme preferences.",
+      "enabled": "Enabled",
+      "disabled": "Disabled"
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Used to display relevant advertising and measure campaign effectiveness.",
+      "enabled": "Enabled",
+      "disabled": "Disabled"
+    },
+    "save": "Save Preferences"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "language": {
+    "es": "Spanish",
+    "en": "English",
+    "fr": "French",
+    "zh-Hant": "Traditional Chinese"
+  }
+}

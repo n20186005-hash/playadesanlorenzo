@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "title": "Playa de San Lorenzo — 希洪，西班牙",
+    "description": "Playa de San Lorenzo 完整指南：金色沙灘城市海灘，擁有海濱長廊、坎塔布里亞海的壯麗景色和家庭氛圍。"
+  },
+  "header": {
+    "home": "首頁",
+    "gallery": "圖片庫",
+    "reviews": "評價",
+    "map": "地圖",
+    "privacy": "隱私",
+    "terms": "條款",
+    "cookies": "Cookie 設置"
+  },
+  "hero": {
+    "title": "Playa de San Lorenzo",
+    "subtitle": "金色沙灘城市海灘，擁有海濱長廊和坎塔布里亞海美景",
+    "rating": "4.6/5",
+    "reviewCount": "12,653",
+    "reviewLabel": "評價",
+    "hours": "24 小時開放",
+    "openMaps": "在 Google 地圖中打開",
+    "tags": ["城市海灘", "金色沙灘", "海濱長廊", "希洪", "坎塔布里亞海", "衝浪", "家庭", "日落"]
+  },
+  "about": {
+    "title": "探索 San Lorenzo 海灘",
+    "description": "San Lorenzo 海灘是希洪最大的城市海灘，擁有超過 1.5 公里的金色沙灘和坎塔布里亞海海水。非常適合家庭、水上運動和日落漫步。",
+    "highlights": {
+      "title": "亮點",
+      "items": [
+        "1.5 公里城市海灘，擁有金色沙灘",
+        "3 公里海濱長廊，適合散步和騎行",
+        "藍旗獎認證，品質和服務保證",
+        "24 小時免費開放",
+        "衝浪和水上運動的理想場所",
+        "兒童遊樂區和海灘酒吧"
+      ]
+    },
+    "keywords": {
+      "title": "相關關鍵詞"
+    },
+    "keywordsList": ["San Lorenzo 海灘", "希洪", "阿斯圖里亞斯", "城市海灘", "坎塔布里亞海", "衝浪"]
+  },
+  "explore": {
+    "title": "探索海洋環境",
+    "items": [
+      {
+        "title": "海濱長廊",
+        "description": "沿著 3 公里長的海濱長廊漫步，欣賞坎塔布里亞海美景。非常適合散步、跑步或騎行，同時享受新鮮空氣和日落美景。"
+      },
+      {
+        "title": "水上運動",
+        "description": "享受衝浪、槳板衝浪和其他水上運動。海灘為初學者和專家提供理想條件，還有衝浪學校可供選擇。"
+      },
+      {
+        "title": "海灘酒吧和美食",
+        "description": "在海灘酒吧放鬆身心，品嚐當地小吃和飲品。阿斯圖里亞斯美食與海洋氛圍完美結合。"
+      },
+      {
+        "title": "家庭區域",
+        "description": "兒童遊樂區、完善服務設施和旺季安全監督。海灘安全且適合全家遊玩。"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "圖片庫",
+    "subtitle": "海灘和周邊環境的照片",
+    "source": "照片：Unsplash（最後更新：2026 年）",
+    "viewAll": "在 Google 地圖上查看所有照片",
+    "images": [
+      { "alt": "日出時分的 San Lorenzo 海灘", "caption": "日出時分的海灘景色" },
+      { "alt": "金色沙灘和坎塔布里亞海", "caption": "金色沙灘和坎塔布里亞海" },
+      { "alt": "希洪海濱長廊", "caption": "海灘旁邊的海濱長廊" },
+      { "alt": "San Lorenzo 的衝浪活動", "caption": "海浪上的衝浪者" },
+      { "alt": "海灘上的日落", "caption": "海上的日落" },
+      { "alt": "海灘上的家庭", "caption": "夏季的家庭氛圍" },
+      { "alt": "海灘酒吧", "caption": "海邊的海灘酒吧" },
+      { "alt": "San Lorenzo 的空中俯瞰圖", "caption": "海灘的全景視圖" }
+    ]
+  },
+  "reviews": {
+    "title": "真實遊客評價",
+    "declaration": "評分和評價來自 Google 地圖（最後更新：2026 年）。我們只展示經過驗證的精選高分評價。如需查看所有完整和最新評價，請點擊下方連結。",
+    "seeAll": "在 Google 地圖上查看所有評價",
+    "items": [
+      { "name": "María García", "date": "2026 年 3 月", "text": "金色沙灘細膩的壯觀海灘。海濱長廊非常適合散步，日落美景令人驚嘆。非常乾淨且維護良好。" },
+      { "name": "Carlos Rodríguez", "date": "2026 年 2 月", "text": "擁有完善服務的優秀城市海灘。非常適合家庭和衝浪者。氛圍非常愉快，坎塔布里亞海的景色壯麗。" },
+      { "name": "Ana Martínez", "date": "2026 年 1 月", "text": "我喜歡來這裡沿著海濱長廊跑步。海灘寬闊且乾淨。夏季海灘酒吧開放時氛圍很棒。" },
+      { "name": "Javier Fernández", "date": "2025 年 12 月", "text": "藍旗獎實至名歸。海水清澈，沙灘細膩，服務完善。在城市中度過海灘日的完美選擇。" },
+      { "name": "Laura Sánchez", "date": "2025 年 11 月", "text": "美麗的海灘，擁有誘人漫步的海濱長廊。日落壯觀，家庭氛圍非常愉快。" },
+      { "name": "Diego López", "date": "2025 年 10 月", "text": "衝浪的絕佳海灘。海浪非常適合初學者，沙灘也很舒適。完全推薦。" }
+    ]
+  },
+  "comparison": {
+    "title": "附近海灘和遊覽建議",
+    "description": "發現希洪的其他海灘以及遊覽 San Lorenzo 的實用建議。",
+    "nearbyBeaches": {
+      "title": "附近海灘",
+      "poniente": "更安靜的家庭海灘，非常適合小孩。海浪較小，海水更平靜。",
+      "arbeyal": "更小更私密的海灘，非常適合尋求遠離人群寧靜的人。"
+    },
+    "tips": {
+      "title": "遊覽建議",
+      "bestTime": "最佳時間是日出時分拍照，以及日落時分浪漫散步。",
+      "safety": "始終遵守海灘旗幟標誌，注意海流。旺季時在救生員附近游泳。",
+      "parking": "夏季早點到達，在靠近海灘的地方找到免費停車位。海濱長廊有幾個停車區。",
+      "services": "充分利用旺季的躺椅和遮陽傘租賃服務。海灘酒吧提供清涼飲料和當地小吃。"
+    },
+    "safety": {
+      "title": "安全資訊",
+      "content": "San Lorenzo 是旺季有救生員值守的海灘，配有安全標誌旗。注意海況，始終遵守救生員的指示。"
+    }
+  },
+  "practical": {
+    "title": "實用資訊",
+    "address": {
+      "label": "地址",
+      "value": "Paseo Marítimo, Av. Rufo García Rendueles, 33203 Gijón, Asturias, Spain"
+    },
+    "hours": {
+      "label": "開放時間",
+      "value": "24 小時開放 — 免費進入。最佳參觀時間是日出或日落時分，可欣賞最佳照片和漫步體驗。"
+    },
+    "transport": {
+      "label": "如何到達",
+      "value": "從希洪市中心：沿著海濱長廊步行 15 分鐘。從火車站：搭乘巴士 20 分鐘或步行 30 分鐘。開車可直接到達，附近有停車場。"
+    },
+    "parking": {
+      "label": "停車場",
+      "value": "海濱長廊沿線設有免費停車區。旺季（7 月-8 月）可能有限 — 建議早點到達。"
+    },
+    "accessibility": {
+      "label": "無障礙設施",
+      "value": "設有坡道的完整步行通道。沙灘緊實且易於行走。夏季提供淋浴和無障礙服務設施。"
+    }
+  },
+  "map": {
+    "title": "如何到達",
+    "openMaps": "在 Google 地圖中打開"
+  },
+  "references": {
+    "title": "數據和參考資料",
+    "disclaimer": "本網站是獨立的第三方旅遊資訊入口網站。資訊來自公共資源（旅遊局和維基百科）和 Google 地圖基礎數據。",
+    "sources": {
+      "google": "Google 地圖 — 評分、評價和地理數據",
+      "unsplash": "Unsplash — 圖片庫中使用的照片",
+      "wikipedia": "維基百科 — 歷史和文化資訊"
+    }
+  },
+  "footer": {
+    "support": "如需本網站的技術支援，請聯繫：n20186005@gmail.com",
+    "copyright": "© 2026 Playa de San Lorenzo · 版權所有",
+    "privacy": "隱私政策",
+    "terms": "服務條款",
+    "cookies": "Cookie 設置"
+  },
+  "privacy": {
+    "backHome": "返回首頁",
+    "title": "隱私政策",
+    "lastUpdated": "最後更新：2026 年 3 月",
+    "intro": "本隱私政策說明 playadesanlorenzo.com 在您訪問我們的網站時如何收集、使用和保護您的個人資訊。",
+    "sections": [
+      {
+        "title": "我們收集的資訊",
+        "content": "我們收集提供服務所需的最少數據。這可能包括：瀏覽數據（IP 地址、瀏覽器類型、訪問的頁面）、Cookie 和類似技術，以及您通過聯繫表格或電子郵件自願提供的任何資訊。"
+      },
+      {
+        "title": "我們如何使用您的資訊",
+        "content": "我們使用收集的資訊來：改善網站內容和用戶體驗、分析流量和使用模式、回應請求並履行我們的法律義務。"
+      },
+      {
+        "title": "第三方服務",
+        "content": "我們的網站可能使用第三方服務，如 Google 地圖（用於嵌入式地圖和位置數據）、Google Analytics（用於流量分析）和 Unsplash（用於照片）。這些服務有自己的隱私政策。"
+      },
+      {
+        "title": "您的權利",
+        "content": "根據 GDPR 和適用法規，您有權：訪問您的個人數據、要求更正或刪除、反對處理以及向監管機構提出投訴。"
+      },
+      {
+        "title": "聯繫方式",
+        "content": "如有任何與隱私相關的問題，請聯繫我們：n20186005@gmail.com"
+      }
+    ]
+  },
+  "terms": {
+    "backHome": "返回首頁",
+    "title": "服務條款",
+    "lastUpdated": "最後更新：2026 年 3 月",
+    "intro": "通過訪問和使用 playadesanlorenzo.com，您同意受這些服務條款的約束。",
+    "sections": [
+      {
+        "title": "內容使用",
+        "content": "本網站上的所有內容僅供參考。我們是獨立的第三方旅遊資訊網站，不隸屬於 Playa de San Lorenzo 管理機構、任何政府實體或任何商業運營商。"
+      },
+      {
+        "title": "資訊準確性",
+        "content": "我們努力保持資訊準確和最新，但無法保證其完整性或準確性。時間表、條件和服務可能會更改，恕不另行通知。在訪問前，請務必與官方來源核實重要數據。"
+      },
+      {
+        "title": "知識產權",
+        "content": "網站設計和原創內容受版權保護。照片來自 Unsplash，根據其許可條款。Google 地圖數據根據 Google 的服務條款使用。"
+      },
+      {
+        "title": "責任限制",
+        "content": "本網站按「原樣」提供，不提供任何保證。對於因使用本網站資訊而導致的任何損害，包括但不限於基於我們內容的旅行決定，我們概不負責。"
+      },
+      {
+        "title": "聯繫方式",
+        "content": "如有關於這些條款的問題，請聯繫：n20186005@gmail.com"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "backHome": "返回首頁",
+    "title": "Cookie 設置",
+    "lastUpdated": "最後更新：2026 年 3 月",
+    "intro": "我們使用 Cookie 來改善您的瀏覽體驗。您可以在下方管理您的偏好設置。",
+    "necessary": {
+      "title": "基本 Cookie",
+      "description": "網站正常運行所必需。無法禁用。",
+      "status": "始終啟用"
+    },
+    "analytics": {
+      "title": "分析 Cookie",
+      "description": "通過收集匿名使用數據，幫助我們了解訪問者如何與我們的網站互動。",
+      "enabled": "已啟用",
+      "disabled": "已禁用"
+    },
+    "preferences": {
+      "title": "偏好 Cookie",
+      "description": "記住您的設置，如語言和主題偏好。",
+      "enabled": "已啟用",
+      "disabled": "已禁用"
+    },
+    "marketing": {
+      "title": "營銷 Cookie",
+      "description": "用於顯示相關廣告和衡量活動效果。",
+      "enabled": "已啟用",
+      "disabled": "已禁用"
+    },
+    "save": "保存偏好設置"
+  },
+  "theme": {
+    "light": "淺色",
+    "dark": "深色"
+  },
+  "language": {
+    "es": "西班牙語",
+    "en": "英語",
+    "fr": "法語",
+    "zh-Hant": "繁體中文"
+  }
+}

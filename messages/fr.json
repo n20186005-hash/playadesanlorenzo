@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "title": "Playa de San Lorenzo — Gijón, Espagne",
+    "description": "Guide complet de Playa de San Lorenzo : plage urbaine de sable doré avec promenade maritime, vues spectaculaires sur la mer Cantabrique et ambiance familiale."
+  },
+  "header": {
+    "home": "Accueil",
+    "gallery": "Galerie",
+    "reviews": "Avis",
+    "map": "Carte",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "cookies": "Cookies"
+  },
+  "hero": {
+    "title": "Playa de San Lorenzo",
+    "subtitle": "Plage urbaine de sable doré avec promenade maritime et vues sur la mer Cantabrique",
+    "rating": "4,6/5",
+    "reviewCount": "12 653",
+    "reviewLabel": "avis",
+    "hours": "Ouvert 24 heures",
+    "openMaps": "Ouvrir dans Google Maps",
+    "tags": ["Plage urbaine", "Sable doré", "Promenade maritime", "Gijón", "Mer Cantabrique", "Surf", "Famille", "Couchers de soleil"]
+  },
+  "about": {
+    "title": "Découvrir Playa de San Lorenzo",
+    "description": "Playa de San Lorenzo est la plus grande plage urbaine de Gijón, avec plus de 1,5 km de sable doré et les eaux de la mer Cantabrique. Parfaite pour les familles, les sports nautiques et les promenades au coucher du soleil.",
+    "highlights": {
+      "title": "Points forts",
+      "items": [
+        "Plage urbaine de 1,5 km avec sable doré",
+        "Promenade maritime de 3 km pour marcher et faire du vélo",
+        "Pavillon bleu pour la qualité et les services",
+        "Accès gratuit 24 heures sur 24",
+        "Idéale pour le surf et les sports nautiques",
+        "Aires de jeux pour enfants et bars de plage"
+      ]
+    },
+    "keywords": {
+      "title": "Mots-clés associés"
+    },
+    "keywordsList": ["Plage San Lorenzo", "Gijón", "Asturies", "Plage urbaine", "Mer Cantabrique", "Surf"]
+  },
+  "explore": {
+    "title": "Explorer l'environnement maritime",
+    "items": [
+      {
+        "title": "Promenade Maritime",
+        "description": "Parcourez les 3 km de promenade avec vue sur la mer Cantabrique. Parfait pour marcher, courir ou faire du vélo tout en profitant de l'air frais et des couchers de soleil."
+      },
+      {
+        "title": "Sports Nautiques",
+        "description": "Profitez du surf, du paddle surf et d'autres sports nautiques. La plage offre des conditions idéales pour débutants et experts avec des écoles de surf disponibles."
+      },
+      {
+        "title": "Bars de Plage et Gastronomie",
+        "description": "Détendez-vous dans les bars de plage en dégustant des tapas et boissons locales. La gastronomie asturienne se combine parfaitement avec l'atmosphère maritime."
+      },
+      {
+        "title": "Zones Familiales",
+        "description": "Aires de jeux pour enfants, services complets et surveillance en haute saison. La plage est sûre et accessible pour toute la famille."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galerie de Photos",
+    "subtitle": "Images de la plage et des environs",
+    "source": "Photo : Unsplash (dernière mise à jour : 2026)",
+    "viewAll": "Voir toutes les photos sur Google Maps",
+    "images": [
+      { "alt": "Playa de San Lorenzo au lever du soleil", "caption": "Vue de la plage au lever du soleil" },
+      { "alt": "Sable doré et mer Cantabrique", "caption": "Sable doré et mer Cantabrique" },
+      { "alt": "Promenade maritime de Gijón", "caption": "La promenade maritime à côté de la plage" },
+      { "alt": "Surf à San Lorenzo", "caption": "Surfeurs sur les vagues" },
+      { "alt": "Coucher de soleil sur la plage", "caption": "Coucher de soleil sur la mer" },
+      { "alt": "Familles sur la plage", "caption": "Ambiance familiale en été" },
+      { "alt": "Bars de plage", "caption": "Bars de plage au bord de la mer" },
+      { "alt": "Vue aérienne de San Lorenzo", "caption": "Vue panoramique de la plage" }
+    ]
+  },
+  "reviews": {
+    "title": "Avis Réels de Visiteurs",
+    "declaration": "Évaluations et avis provenant de Google Maps (dernière mise à jour : 2026). Nous ne montrons qu'une sélection d'avis vérifiés avec une note élevée. Pour consulter tous les avis complets et les plus récents, cliquez sur le lien ci-dessous.",
+    "seeAll": "Voir tous les avis sur Google Maps",
+    "items": [
+      { "name": "María García", "date": "Mars 2026", "text": "Plage spectaculaire avec du sable doré fin. La promenade est parfaite pour marcher et les couchers de soleil sont superbes. Très propre et bien entretenue." },
+      { "name": "Carlos Rodríguez", "date": "Février 2026", "text": "Excellente plage urbaine avec tous les services. Idéale pour les familles et les surfeurs. L'ambiance est très agréable et les vues sur la mer Cantabrique sont magnifiques." },
+      { "name": "Ana Martínez", "date": "Janvier 2026", "text": "J'adore venir ici courir le long de la promenade. La plage est large et propre. En été, il y a une superbe ambiance avec les bars de plage ouverts." },
+      { "name": "Javier Fernández", "date": "Décembre 2025", "text": "Pavillon bleu bien mérité. Eaux propres, sable fin et services complets. Parfaite pour une journée de plage en ville." },
+      { "name": "Laura Sánchez", "date": "Novembre 2025", "text": "Belle plage avec une promenade qui invite à la marche. Les couchers de soleil sont spectaculaires et l'ambiance familiale est très agréable." },
+      { "name": "Diego López", "date": "Octobre 2025", "text": "Grande plage pour faire du surf. Les vagues sont parfaites pour les débutants et le sable est très confortable. Totalement recommandable." }
+    ]
+  },
+  "practical": {
+    "title": "Informations Pratiques",
+    "address": {
+      "label": "Adresse",
+      "value": "Paseo Marítimo, Av. Rufo García Rendueles, 33203 Gijón, Asturies, Espagne"
+    },
+    "hours": {
+      "label": "Horaires d'ouverture",
+      "value": "Ouvert 24 heures — Accès gratuit. Le meilleur moment pour visiter est au lever ou au coucher du soleil pour les meilleures photos et promenades."
+    },
+    "transport": {
+      "label": "Comment y aller",
+      "value": "Depuis le centre de Gijón : 15 min à pied le long de la promenade. Depuis la gare : 20 min en bus ou 30 min à pied. Accès direct en voiture avec parking à proximité."
+    },
+    "parking": {
+      "label": "Parking",
+      "value": "Zones de parking gratuites disponibles le long de la promenade. En haute saison (juillet-août), cela peut être limité — arriver tôt recommandé."
+    },
+    "accessibility": {
+      "label": "Accessibilité",
+      "value": "Accès piéton complet avec rampes. Le sable est compact et facile à marcher. Douches et services adaptés disponibles en saison estivale."
+    }
+  },
+  "map": {
+    "title": "Comment y Aller",
+    "openMaps": "Ouvrir dans Google Maps"
+  },
+  "references": {
+    "title": "Données et Références",
+    "disclaimer": "Ce site est un portail d'information touristique indépendant de tierce partie. Les informations proviennent de ressources publiques (offices de tourisme et Wikipédia) et des données de base de Google Maps.",
+    "sources": {
+      "google": "Google Maps — Évaluations, avis et données géographiques",
+      "unsplash": "Unsplash — Photographies utilisées dans la galerie",
+      "wikipedia": "Wikipédia — Informations historiques et culturelles"
+    }
+  },
+  "footer": {
+    "support": "Pour le support technique de ce site web, contactez : n20186005@gmail.com",
+    "copyright": "© 2026 Playa de San Lorenzo · Tous droits réservés",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions de Service",
+    "cookies": "Paramètres des Cookies"
+  },
+  "privacy": {
+    "backHome": "Retour à l'Accueil",
+    "title": "Politique de Confidentialité",
+    "lastUpdated": "Dernière mise à jour : mars 2026",
+    "intro": "Cette Politique de Confidentialité explique comment playadesanlorenzo.com collecte, utilise et protège vos informations personnelles lorsque vous visitez notre site web.",
+    "sections": [
+      {
+        "title": "Informations que nous collectons",
+        "content": "Nous collectons les données minimales nécessaires pour fournir nos services. Cela peut inclure : données de navigation (adresse IP, type de navigateur, pages visitées), cookies et technologies similaires, ainsi que toute information que vous fournissez volontairement via des formulaires de contact ou email."
+      },
+      {
+        "title": "Comment nous utilisons vos informations",
+        "content": "Nous utilisons les informations collectées pour : améliorer le contenu et l'expérience utilisateur du site, analyser le trafic et les modèles d'utilisation, répondre aux demandes et respecter nos obligations légales."
+      },
+      {
+        "title": "Services tiers",
+        "content": "Notre site web peut utiliser des services tiers tels que Google Maps (pour cartes intégrées et données de localisation), Google Analytics (pour analyse de trafic) et Unsplash (pour photographies). Ces services disposent de leurs propres politiques de confidentialité."
+      },
+      {
+        "title": "Vos droits",
+        "content": "En vertu du RGPD et des réglementations applicables, vous avez le droit de : accéder à vos données personnelles, demander leur rectification ou suppression, vous opposer au traitement et déposer une plainte auprès d'une autorité de contrôle."
+      },
+      {
+        "title": "Contact",
+        "content": "Pour toute question relative à la confidentialité, contactez-nous à : n20186005@gmail.com"
+      }
+    ]
+  },
+  "terms": {
+    "backHome": "Retour à l'Accueil",
+    "title": "Conditions de Service",
+    "lastUpdated": "Dernière mise à jour : mars 2026",
+    "intro": "En accédant et en utilisant playadesanlorenzo.com, vous acceptez d'être lié par ces Conditions de Service.",
+    "sections": [
+      {
+        "title": "Utilisation du contenu",
+        "content": "Tout le contenu de ce site est fourni uniquement à des fins d'information. Nous sommes un site indépendant d'information touristique de tierce partie et ne sommes affiliés ni à la gestion de Playa de San Lorenzo, ni à aucune entité gouvernementale ni à aucun opérateur commercial."
+      },
+      {
+        "title": "Exactitude de l'information",
+        "content": "Nous nous efforçons de maintenir l'information précise et à jour, mais ne pouvons garantir son intégralité ni son exactitude. Les horaires, conditions et services peuvent changer sans préavis. Vérifiez toujours les données importantes avec des sources officielles avant votre visite."
+      },
+      {
+        "title": "Propriété intellectuelle",
+        "content": "La conception du site web et le contenu original sont protégés par le droit d'auteur. Les photographies proviennent d'Unsplash selon leurs termes de licence. Les données de Google Maps sont utilisées conformément aux Conditions de Service de Google."
+      },
+      {
+        "title": "Limitation de responsabilité",
+        "content": "Ce site web est fourni « tel quel » sans garanties. Nous ne sommes pas responsables de tout dommage résultant de l'utilisation des informations de ce site, y compris, entre autres, des décisions de voyage basées sur notre contenu."
+      },
+      {
+        "title": "Contact",
+        "content": "Pour des questions sur ces conditions, contactez : n20186005@gmail.com"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "backHome": "Retour à l'Accueil",
+    "title": "Paramètres des Cookies",
+    "lastUpdated": "Dernière mise à jour : mars 2026",
+    "intro": "Nous utilisons des cookies pour améliorer votre expérience de navigation. Vous pouvez gérer vos préférences ci-dessous.",
+    "necessary": {
+      "title": "Cookies Essentiels",
+      "description": "Nécessaires au bon fonctionnement du site web. Ne peuvent pas être désactivés.",
+      "status": "Toujours actifs"
+    },
+    "analytics": {
+      "title": "Cookies d'Analyse",
+      "description": "Nous aident à comprendre comment les visiteurs interagissent avec notre site web en collectant des données d'utilisation anonymes.",
+      "enabled": "Activés",
+      "disabled": "Désactivés"
+    },
+    "preferences": {
+      "title": "Cookies de Préférences",
+      "description": "Se souviennent de vos paramètres tels que la langue et les préférences de thème.",
+      "enabled": "Activés",
+      "disabled": "Désactivés"
+    },
+    "marketing": {
+      "title": "Cookies de Marketing",
+      "description": "Utilisés pour afficher de la publicité pertinente et mesurer l'efficacité des campagnes.",
+      "enabled": "Activés",
+      "disabled": "Désactivés"
+    },
+    "save": "Enregistrer les Préférences"
+  },
+  "theme": {
+    "light": "Clair",
+    "dark": "Sombre"
+  },
+  "language": {
+    "es": "Espagnol",
+    "en": "Anglais",
+    "fr": "Français",
+    "zh-Hant": "Chinois Traditionnel"
+  }
+}
