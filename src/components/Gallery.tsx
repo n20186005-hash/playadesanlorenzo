@@ -74,9 +74,9 @@ export default function Gallery() {
       <p className="mt-6 text-sm text-center" style={{ color: 'var(--text-muted)' }}>
         {t('source')}{' '}
         <a
-          href="https://maps.app.goo.gl/S185ouarQPJMV5s37"
-          target="_blank"
-          rel="noopener noreferrer"
+            href="https://maps.app.goo.gl/aqnvo1aDhdaWHtMQA"
+            target="_blank"
+            rel="noopener noreferrer"
           style={{ color: 'var(--accent)' }}
           className="hover:underline"
         >

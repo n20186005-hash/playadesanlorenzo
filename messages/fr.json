@@ -91,6 +91,26 @@
       { "name": "Diego López", "date": "Octobre 2025", "text": "Grande plage pour faire du surf. Les vagues sont parfaites pour les débutants et le sable est très confortable. Totalement recommandable." }
     ]
   },
+  "comparison": {
+    "title": "Plages à proximité et conseils",
+    "description": "Découvrez d'autres plages de Gijón et des conseils utiles pour votre visite à San Lorenzo.",
+    "nearbyBeaches": {
+      "title": "Plages à proximité",
+      "poniente": "Plage familiale plus calme, idéale pour les jeunes enfants. Moins de vagues et eaux plus calmes.",
+      "arbeyal": "Plage plus petite et intime, parfaite pour ceux qui recherchent la tranquillité loin des foules."
+    },
+    "tips": {
+      "title": "Conseils pour votre visite",
+      "bestTime": "Les meilleurs moments sont au lever du soleil pour la photographie et au coucher du soleil pour des promenades romantiques.",
+      "safety": "Respectez toujours les drapeaux de baignade et faites attention aux courants. Nagez près des sauveteurs en haute saison.",
+      "parking": "Arrivez tôt en été pour trouver un parking gratuit près de la plage. La promenade dispose de plusieurs zones de stationnement.",
+      "services": "Profitez des services de location de chaises longues et de parasols en haute saison. Les bars de plage proposent des rafraîchissements et des tapas locales."
+    },
+    "safety": {
+      "title": "Informations de sécurité",
+      "content": "San Lorenzo est une plage surveillée en haute saison avec des drapeaux de signalisation. Faites attention aux conditions de la mer et respectez toujours les instructions des sauveteurs."
+    }
+  },
   "practical": {
     "title": "Informations Pratiques",
     "address": {

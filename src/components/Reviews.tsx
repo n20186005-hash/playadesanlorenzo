@@ -47,7 +47,7 @@ export default function Reviews() {
         {/* See all link */}
         <div className="mt-8 text-center">
           <a
-            href="https://maps.app.goo.gl/uyyo6isCirshqbQL6"
+            href="https://maps.app.goo.gl/aqnvo1aDhdaWHtMQA"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 text-sm font-medium hover:opacity-70 transition-opacity"

@@ -91,6 +91,26 @@
       { "name": "Diego López", "date": "October 2025", "text": "Great beach for surfing. The waves are perfect for beginners and the sand is very comfortable. Totally recommendable." }
     ]
   },
+  "comparison": {
+    "title": "Nearby Beaches and Tips",
+    "description": "Discover other beaches in Gijón and useful tips for your visit to San Lorenzo.",
+    "nearbyBeaches": {
+      "title": "Nearby Beaches",
+      "poniente": "Quieter family beach, ideal for small children. Less waves and calmer waters.",
+      "arbeyal": "Smaller and more intimate beach, perfect for those seeking tranquility away from the crowds."
+    },
+    "tips": {
+      "title": "Tips for Your Visit",
+      "bestTime": "Best times are sunrise for photography and sunset for romantic walks.",
+      "safety": "Always respect the beach flags and pay attention to currents. Swim near lifeguards in high season.",
+      "parking": "Arrive early in summer to find free parking near the beach. The promenade has several parking areas.",
+      "services": "Take advantage of sunbed and umbrella rental services in high season. Beach bars offer refreshments and local tapas."
+    },
+    "safety": {
+      "title": "Safety Information",
+      "content": "San Lorenzo is a guarded beach in high season with signaling flags. Pay attention to sea conditions and always respect lifeguard instructions."
+    }
+  },
   "practical": {
     "title": "Practical Information",
     "address": {

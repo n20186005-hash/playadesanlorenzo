@@ -14,21 +14,22 @@ export default function MapEmbed() {
           Bajada San Martín, 45004 Toledo, Spain
         </p>
 
-        <div className="map-container">
+        <div className="map-container mb-6">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3062.7828580849337!2d-4.036743323097131!3d39.85669897153502!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd6a0b092ce34d4b%3A0x2ca2d3c13da2b239!2sSan%20Martin&#39;s%20Bridge!5e0!3m2!1sen!2sus!4v1774838799906!5m2!1sen!2sus"
-            width="600"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5784.227243450758!2d-5.6575575005332635!3d43.54167338443032!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd367c65c8371d6d%3A0x3e27c7e855627809!2sPlaya%20de%20San%20Lorenzo!5e0!3m2!1sen!2sus!4v1774853177499!5m2!1sen!2sus"
+            width="100%"
             height="450"
             style={{ border: 0 }}
-            allowFullScreen
+            allowFullScreen={true}
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
+            title="Google Maps"
           />
         </div>
 
-        <div className="mt-6">
+        <div className="text-center">
           <a
-            href="https://maps.app.goo.gl/S185ouarQPJMV5s37"
+            href="https://maps.app.goo.gl/aqnvo1aDhdaWHtMQA"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary"
