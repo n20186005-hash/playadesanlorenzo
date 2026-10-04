@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Playa de San Lorenzo — Gijón, España",
-    "description": "Guía completa de Playa de San Lorenzo: playa urbana de arena dorada con paseo marítimo, vistas espectaculares del Cantábrico y ambiente familiar."
+    "title": "Playa de San Lorenzo, Gijón: Cómo Llegar, Mapa y Servicios",
+    "description": "Guía práctica de Playa de San Lorenzo en Gijón, Asturias: ubicación, cómo llegar, mapa, longitud, servicios, accesibilidad, surf y consejos para la visita."
   },
   "header": {
     "home": "Inicio",
@@ -13,31 +13,31 @@
     "cookies": "Cookies"
   },
   "hero": {
-    "title": "Playa de San Lorenzo",
-    "subtitle": "Playa urbana de arena dorada con paseo marítimo y vistas al mar Cantábrico",
-    "rating": "4.6/5",
-    "reviewCount": "12,653",
+    "title": "Playa de San Lorenzo en Gijón, Asturias",
+    "subtitle": "Guía de la playa urbana más emblemática de Gijón, junto al Paseo del Muro y el mar Cantábrico",
+    "rating": "4.7/5",
+    "reviewCount": "3,269",
     "reviewLabel": "reseñas",
-    "hours": "Abierto 24 horas",
+    "hours": "Acceso libre",
     "openMaps": "Abrir en Google Maps",
-    "tags": ["Playa urbana", "Arena dorada", "Paseo marítimo", "Gijón", "Cantábrico", "Surf", "Familia", "Atardeceres"]
+    "tags": ["Gijón", "Asturias", "Paseo del Muro", "Mapa", "Cómo llegar", "Surf", "Servicios", "Atardeceres"]
   },
   "about": {
     "title": "Descubre Playa de San Lorenzo",
-    "description": "Playa de San Lorenzo es la playa urbana más grande de Gijón, con más de 1.5 km de arena dorada y aguas del mar Cantábrico. Perfecta para familias, deportes acuáticos y paseos al atardecer.",
+    "description": "La Playa de San Lorenzo es una de las playas más emblemáticas de Gijón, Asturias. Situada en pleno centro de la ciudad y junto al Paseo del Muro, cuenta con aproximadamente 1.550 metros de longitud y una característica forma de concha. Aquí encontrarás información útil sobre acceso, mapa, servicios, surf, accesibilidad y recomendaciones para visitar la playa.",
     "highlights": {
       "title": "Destacados",
       "items": [
-        "Playa urbana de 1.5 km con arena dorada",
-        "Paseo marítimo de 3 km para caminar y andar en bici",
-        "Bandera azul por calidad y servicios",
-        "Acceso gratuito 24 horas del día",
-        "Ideal para surf y deportes acuáticos",
-        "Zonas de juego para niños y chiringuitos"
+        "Playa urbana de unos 1.550 metros en el centro de Gijón",
+        "Ubicada junto al Paseo del Muro y abierta al Cantábrico",
+        "Muy popular para pasear, correr, surfear y ver el atardecer",
+        "Accesos peatonales y servicios de temporada en verano",
+        "Entorno con transporte urbano, taxis y accesos en coche",
+        "Zona ideal para combinar playa, paseo marítimo y ciudad"
       ]
     },
     "keywords": {
-      "title": "Palabras clave relacionadas"
+      "title": "Planifica tu visita"
     },
     "keywordsList": ["Playa San Lorenzo", "Gijón", "Asturias", "Playa urbana", "Cantábrico", "Surf"]
   },
@@ -64,32 +64,39 @@
   },
   "gallery": {
     "title": "Galería de Fotos",
-    "subtitle": "Imágenes de la playa y sus alrededores",
+    "subtitle": "Vistas de Playa de San Lorenzo, el Paseo del Muro y el entorno costero de Gijón",
     "source": "Foto: Unsplash (última actualización: 2026)",
     "viewAll": "Ver todas las fotos en Google Maps",
     "images": [
       { "alt": "Playa de San Lorenzo al amanecer", "caption": "Vista de la playa al amanecer" },
-      { "alt": "Arena dorada y Cantábrico", "caption": "Arena dorada y mar Cantábrico" },
-      { "alt": "Paseo marítimo de Gijón", "caption": "El paseo marítimo junto a la playa" },
-      { "alt": "Surf en San Lorenzo", "caption": "Surfistas en las olas" },
-      { "alt": "Atardecer en la playa", "caption": "Atardecer sobre el mar" },
-      { "alt": "Familias en la playa", "caption": "Ambiente familiar en verano" },
-      { "alt": "Chiringuitos de playa", "caption": "Chiringuitos junto al mar" },
-      { "alt": "Vista aérea de San Lorenzo", "caption": "Vista panorámica de la playa" }
+      { "alt": "Arena y orilla en Playa de San Lorenzo", "caption": "Arena dorada junto al mar Cantábrico" },
+      { "alt": "Paseo del Muro frente a Playa de San Lorenzo", "caption": "El paseo marítimo junto a la playa" },
+      { "alt": "Surf en Playa de San Lorenzo en Gijón", "caption": "Surfistas aprovechando las olas" },
+      { "alt": "Atardecer sobre Playa de San Lorenzo", "caption": "Luz de tarde sobre la bahía" },
+      { "alt": "Familias paseando por Playa de San Lorenzo", "caption": "Ambiente urbano y familiar en verano" },
+      { "alt": "Accesos a Playa de San Lorenzo", "caption": "Entradas y zona de arena junto al paseo" },
+      { "alt": "Vista panorámica de Playa de San Lorenzo", "caption": "Panorámica de la playa urbana de Gijón" },
+      { "alt": "Olas del Cantábrico en San Lorenzo", "caption": "Mar abierto y espuma en la orilla" },
+      { "alt": "Paseo marítimo de San Lorenzo", "caption": "Recorrido junto al mar y la ciudad" },
+      { "alt": "Playa de San Lorenzo en Gijón", "caption": "Vista amplia de la playa y su entorno" },
+      { "alt": "Bajamar en Playa de San Lorenzo", "caption": "Zona de arena visible durante la marea baja" },
+      { "alt": "Fachada urbana junto a Playa de San Lorenzo", "caption": "La ciudad de Gijón frente a la playa" }
     ]
   },
   "reviews": {
-    "title": "Reseñas Reales de Visitantes",
-    "declaration": "Valoraciones y reseñas procedentes de Google Maps (última actualización: 2026). Mostramos solo una selección de reseñas verificadas con alta puntuación. Para consultar todas las reseñas completas y más recientes, haz clic en el enlace inferior.",
-    "seeAll": "Ver todas las reseñas en Google Maps",
-    "items": [
-      { "name": "María García", "date": "Marzo 2026", "text": "Playa espectacular con arena dorada fina. El paseo marítimo es perfecto para caminar y los atardeceres son impresionantes. Muy limpia y bien cuidada." },
-      { "name": "Carlos Rodríguez", "date": "Febrero 2026", "text": "Excelente playa urbana con todos los servicios. Ideal para familias y surfistas. El ambiente es muy agradable y las vistas al Cantábrico son magníficas." },
-      { "name": "Ana Martínez", "date": "Enero 2026", "text": "Me encanta venir aquí a correr por el paseo marítimo. La playa es amplia y limpia. En verano tiene un ambiente estupendo con los chiringuitos abiertos." },
-      { "name": "Javier Fernández", "date": "Diciembre 2025", "text": "Bandera azul bien merecida. Aguas limpias, arena fina y servicios completos. Perfecta para un día de playa en la ciudad." },
-      { "name": "Laura Sánchez", "date": "Noviembre 2025", "text": "Preciosa playa con un paseo marítimo que invita a caminar. Los atardeceres son espectaculares y el ambiente familiar es muy agradable." },
-      { "name": "Diego López", "date": "Octubre 2025", "text": "Gran playa para practicar surf. Las olas son perfectas para principiantes y la arena es muy cómoda. Totalmente recomendable." }
-    ]
+    "title": "Valoraciones y opiniones",
+    "declaration": "Mostramos un resumen de la valoración pública disponible en Google Maps y enlazamos a la fuente para consultar reseñas, fotos y actualizaciones más recientes.",
+    "summary": "Playa de San Lorenzo mantiene una valoración muy alta entre quienes la visitan por su ubicación urbana, el paseo marítimo, las vistas al Cantábrico y el ambiente para caminar, surfear o pasar el día en Gijón.",
+    "rating": "4.7/5",
+    "ratingLabel": "Valoración",
+    "reviewCount": "3,269",
+    "reviewCountLabel": "Reseñas",
+    "updatedLabel": "Actualizado",
+    "updatedAt": "Octubre de 2026",
+    "ctaTitle": "Consulta las reseñas en la fuente original",
+    "ctaText": "Para ver opiniones completas, fotografías recientes y horarios o avisos que puedan cambiar, abre directamente la ficha de Google Maps de Playa de San Lorenzo.",
+    "sourceNote": "Este sitio no publica reseñas inventadas ni extractos no verificables. La información social se resume y se remite a Google Maps para su consulta actualizada.",
+    "seeAll": "Ver reseñas en Google Maps"
   },
   "comparison": {
     "title": "Playas Cercanas y Consejos",
@@ -115,28 +122,312 @@
     "title": "Información Práctica",
     "address": {
       "label": "Dirección",
-      "value": "Paseo Marítimo, Av. Rufo García Rendueles, 33203 Gijón, Asturias, España"
+      "value": "Paseo del Muro y Av. Rufo García Rendueles, 33203 Gijón, Asturias, España"
     },
     "hours": {
-      "label": "Horario de apertura",
-      "value": "Abierto 24 horas — Acceso gratuito. El mejor momento para visitar es al amanecer o atardecer para las mejores fotografías y paseos."
+      "label": "Acceso y temporada",
+      "value": "La playa tiene acceso libre. Los servicios de socorrismo, duchas y apoyo al baño pueden variar según la temporada y la operativa municipal."
     },
     "transport": {
       "label": "Cómo llegar",
-      "value": "Desde el centro de Gijón: 15 min caminando por el paseo marítimo. Desde la estación de tren: 20 min en bus o 30 min caminando. Acceso directo en coche con parking cercano."
+      "value": "Se llega fácilmente a pie desde el centro de Gijón por el Paseo del Muro. También hay paradas de autobús urbano en el entorno y acceso directo para taxi o coche."
     },
     "parking": {
       "label": "Aparcamiento",
-      "value": "Zonas de aparcamiento gratuitas disponibles a lo largo del paseo marítimo. En temporada alta (julio-agosto) puede ser limitado — se recomienda llegar temprano."
+      "value": "El entorno cuenta con aparcamientos subterráneos y plazas en calles cercanas. En verano, festivos y fines de semana conviene llegar con antelación."
     },
     "accessibility": {
       "label": "Accesibilidad",
-      "value": "Acceso peatonal completo con rampas. La arena es compacta y fácil de caminar. Duchas y servicios adaptados disponibles en temporada de verano."
+      "value": "Dispone de accesos peatonales, rampas y servicios adaptados en temporada. Consulta la operativa vigente si necesitas apoyo al baño accesible."
     }
   },
   "map": {
-    "title": "Cómo Llegar",
+    "title": "Ubicación y cómo llegar",
+    "address": "Playa de San Lorenzo, Gijón, Asturias, España",
+    "description": "La playa se sitúa frente al Paseo del Muro, en el corazón de Gijón. Usa Google Maps para abrir la ubicación exacta y elegir la mejor ruta a pie, en coche o en transporte urbano.",
+    "iframeTitle": "Mapa de Playa de San Lorenzo en Gijón",
     "openMaps": "Abrir en Google Maps"
+  },
+  "faq": {
+    "title": "Preguntas frecuentes sobre Playa de San Lorenzo",
+    "items": [
+      {
+        "q": "¿Dónde está Playa de San Lorenzo?",
+        "a": "Playa de San Lorenzo está en Gijón, Asturias, junto al Paseo del Muro y frente al mar Cantábrico, en una de las zonas más conocidas de la ciudad."
+      },
+      {
+        "q": "¿Cuánto mide Playa de San Lorenzo?",
+        "a": "La playa principal tiene aproximadamente 1.550 metros de longitud, lo que la convierte en una de las playas urbanas más representativas del norte de España."
+      },
+      {
+        "q": "¿Cómo llegar a Playa de San Lorenzo?",
+        "a": "Se puede llegar andando desde el centro de Gijón, en transporte urbano o en coche. Google Maps es la forma más práctica de calcular la ruta según tu punto de partida."
+      },
+      {
+        "q": "¿Dónde aparcar cerca de Playa de San Lorenzo?",
+        "a": "Hay aparcamientos y plazas en calles próximas al paseo marítimo. En verano y en días de mucha afluencia conviene ir con tiempo porque la demanda aumenta."
+      },
+      {
+        "q": "¿Se puede hacer surf en Playa de San Lorenzo?",
+        "a": "Sí. San Lorenzo es una playa conocida por el surf y otros deportes de mar, especialmente cuando hay buenas condiciones de oleaje en el Cantábrico."
+      },
+      {
+        "q": "¿Qué servicios tiene la playa?",
+        "a": "Según la temporada, puede contar con socorrismo, duchas, accesos peatonales, puntos adaptados y otros servicios de apoyo al baño. Conviene revisar la información vigente antes de la visita."
+      }
+    ]
+  },
+  "guideLinks": {
+    "title": "Guías útiles para planificar la visita",
+    "description": "Además de la guía general, hemos separado los temas con más intención de búsqueda en páginas específicas para facilitar el acceso desde Google y resolver mejor cada duda.",
+    "cards": [
+      {
+        "slug": "como-llegar",
+        "title": "Cómo llegar a Playa de San Lorenzo",
+        "description": "Opciones para llegar a pie, en coche, en taxi o con transporte urbano desde distintos puntos de Gijón.",
+        "cta": "Abrir guía"
+      },
+      {
+        "slug": "parking",
+        "title": "Dónde aparcar cerca de Playa de San Lorenzo",
+        "description": "Qué esperar al buscar aparcamiento, cuándo conviene llegar y qué zonas suelen resultar más prácticas.",
+        "cta": "Ver parking"
+      },
+      {
+        "slug": "servicios",
+        "title": "Servicios de Playa de San Lorenzo",
+        "description": "Resumen de accesos, socorrismo, duchas, apoyo al baño, surf y otros servicios que pueden variar según temporada.",
+        "cta": "Ver servicios"
+      }
+    ]
+  },
+  "guideHowToGet": {
+    "meta": {
+      "title": "Cómo llegar a Playa de San Lorenzo en Gijón",
+      "description": "Guía para llegar a Playa de San Lorenzo: rutas a pie, acceso en coche, Google Maps, transporte urbano y consejos prácticos para moverse por Gijón."
+    },
+    "backHome": "Volver al inicio",
+    "lastUpdated": "Actualizado: octubre de 2026",
+    "title": "Cómo llegar a Playa de San Lorenzo en Gijón",
+    "description": "Playa de San Lorenzo está junto al Paseo del Muro, en una de las zonas más conocidas de Gijón. La forma más cómoda de llegar depende de dónde salgas, de si vienes con coche propio y de la época del año, ya que los fines de semana y el verano concentran más tráfico y más peatones.",
+    "highlightsTitle": "Lo esencial antes de salir",
+    "highlights": [
+      "Desde el centro de Gijón se puede llegar andando con facilidad.",
+      "Google Maps ayuda a elegir entre acceso a pie, coche o taxi según tu punto de salida.",
+      "En verano conviene salir con margen por el aumento de tráfico y aparcamiento.",
+      "El Paseo del Muro es la referencia más útil para orientarse al llegar."
+    ],
+    "sections": [
+      {
+        "title": "Llegar andando desde el centro y los barrios cercanos",
+        "paragraphs": [
+          "Si ya estás en el centro de Gijón, lo más sencillo suele ser bajar caminando hacia el frente marítimo. El paseo es directo, agradable y permite entrar a la playa por varios accesos distribuidos a lo largo del Paseo del Muro.",
+          "Para muchas visitas urbanas, ir a pie ahorra tiempo frente a buscar aparcamiento y además deja la playa mejor conectada con otras zonas de paseo como Cimavilla o el entorno del casco urbano."
+        ],
+        "items": [
+          "Es una buena opción si te alojas en el centro o cerca del paseo marítimo.",
+          "Permite elegir después la zona de arena o acceso que más te convenga.",
+          "También es la forma más cómoda si quieres combinar playa, paseo y restaurantes."
+        ]
+      },
+      {
+        "title": "Llegar en coche, taxi o transporte urbano",
+        "paragraphs": [
+          "En coche se puede acceder fácilmente al entorno de la playa, aunque en temporada alta el tiempo total del trayecto depende mucho de la disponibilidad de aparcamiento al final del recorrido.",
+          "El taxi y el transporte urbano son opciones útiles si prefieres llegar directamente al paseo y evitar vueltas adicionales. En el entorno hay paradas y puntos habituales de subida y bajada bien conectados con el resto de la ciudad."
+        ],
+        "items": [
+          "Si vienes en coche, revisa también la guía específica de parking antes de salir.",
+          "En días de mucha afluencia es habitual que el último tramo sea más lento.",
+          "Si priorizas comodidad, el taxi o el transporte urbano suelen reducir incertidumbre."
+        ]
+      },
+      {
+        "title": "Usar Google Maps para abrir la ubicación exacta",
+        "paragraphs": [
+          "La manera más práctica de llegar sin equivocarse es abrir la ubicación exacta de Playa de San Lorenzo en Google Maps y calcular la ruta desde tu posición real. Así puedes cambiar entre ir andando, en coche o en transporte según el momento.",
+          "También es útil para compartir la ubicación con otras personas del grupo y fijar un punto de encuentro concreto en la zona del paseo."
+        ],
+        "items": [
+          "Abre la ubicación antes de empezar el trayecto para evitar correcciones de última hora.",
+          "Comprueba si el acceso que te propone te deja en la parte de playa que prefieres.",
+          "Si viajas en verano, revisa el tráfico antes de iniciar el último tramo."
+        ]
+      }
+    ],
+    "faqTitle": "Preguntas frecuentes sobre cómo llegar",
+    "faqItems": [
+      {
+        "q": "¿Se puede llegar andando a Playa de San Lorenzo?",
+        "a": "Sí. Desde el centro de Gijón es una de las formas más cómodas, especialmente si te alojas cerca del casco urbano o del paseo marítimo."
+      },
+      {
+        "q": "¿Es mejor ir en coche o en transporte urbano?",
+        "a": "Depende del día y de la temporada. El coche puede ser práctico, pero en verano y fines de semana el transporte urbano o el taxi suelen evitar la incertidumbre del aparcamiento."
+      },
+      {
+        "q": "¿Qué punto debo poner en el navegador?",
+        "a": "Lo más útil es abrir directamente la ficha de Playa de San Lorenzo en Google Maps para calcular la ruta exacta desde tu ubicación real."
+      },
+      {
+        "q": "¿Qué zona de referencia ayuda a orientarse al llegar?",
+        "a": "El Paseo del Muro es la referencia principal para ubicar la playa y moverte por sus distintos accesos."
+      }
+    ],
+    "mapCta": "Abrir ruta en Google Maps",
+    "relatedTitle": "Más guías prácticas"
+  },
+  "guideParking": {
+    "meta": {
+      "title": "Dónde aparcar cerca de Playa de San Lorenzo, Gijón",
+      "description": "Consejos para aparcar cerca de Playa de San Lorenzo: qué esperar en verano, zonas cercanas, parkings, horarios de mayor afluencia y recomendaciones para llegar con margen."
+    },
+    "backHome": "Volver al inicio",
+    "lastUpdated": "Actualizado: octubre de 2026",
+    "title": "Dónde aparcar cerca de Playa de San Lorenzo",
+    "description": "Encontrar aparcamiento cerca de Playa de San Lorenzo depende mucho del día, de la hora y de la época del año. El entorno urbano ofrece varias opciones, pero en verano, festivos y fines de semana conviene planificar con algo más de margen y asumir que el punto perfecto junto a la arena no siempre estará libre.",
+    "highlightsTitle": "Qué conviene tener en cuenta",
+    "highlights": [
+      "La dificultad para aparcar aumenta claramente en verano y fines de semana.",
+      "Los parkings cercanos reducen vueltas cuando la calle está más saturada.",
+      "Llegar temprano suele ser la forma más sencilla de ahorrar tiempo.",
+      "Conviene combinar coche y paseo corto en lugar de buscar la plaza más cercana."
+    ],
+    "sections": [
+      {
+        "title": "Qué esperar al buscar aparcamiento en la zona",
+        "paragraphs": [
+          "Al tratarse de una playa urbana muy conocida, la demanda de plazas sube bastante en las horas centrales del día y durante la temporada de baño. Por eso, aunque el entorno tiene oferta de aparcamiento, no siempre compensa intentar dejar el coche justo al lado del acceso principal.",
+          "La experiencia suele mejorar cuando se acepta caminar unos minutos desde una zona próxima en vez de insistir en la primera línea del paseo."
+        ],
+        "items": [
+          "Los momentos más exigentes suelen ser verano, festivos y fines de semana.",
+          "La entrada y salida de coches puede ser más lenta cerca del mediodía y al atardecer.",
+          "Un pequeño paseo adicional suele ahorrar tiempo total de búsqueda."
+        ]
+      },
+      {
+        "title": "Street parking y parkings cercanos",
+        "paragraphs": [
+          "En el entorno de San Lorenzo hay plazas en calles cercanas y también parkings que pueden ser la alternativa más cómoda cuando la ocupación en superficie es alta.",
+          "Si prefieres una llegada más previsible, suele ser mejor valorar directamente un parking y completar el último tramo andando hasta la playa."
+        ],
+        "items": [
+          "El street parking puede funcionar bien si llegas pronto.",
+          "Un parking cercano suele ser más estable cuando hay mucha afluencia.",
+          "Antes de salir, revisa el tráfico y el tiempo estimado del último tramo."
+        ]
+      },
+      {
+        "title": "Consejos para aparcar con menos estrés",
+        "paragraphs": [
+          "Lo más práctico es definir con antelación tu estrategia: llegar temprano, asumir un pequeño paseo o ir directamente a un parking. Esa decisión previa suele marcar la diferencia entre una llegada ágil y una larga vuelta por la zona.",
+          "Si viajas con niños, personas mayores o mucho equipo de playa, compensa aún más priorizar comodidad y previsibilidad frente a la plaza aparentemente más cercana."
+        ],
+        "items": [
+          "Llega con tiempo si visitas la playa en temporada alta.",
+          "Ten una segunda opción preparada por si la primera zona está completa.",
+          "Guarda en el móvil tanto la ubicación de la playa como la del coche al estacionar."
+        ]
+      }
+    ],
+    "faqTitle": "Preguntas frecuentes sobre parking",
+    "faqItems": [
+      {
+        "q": "¿Es fácil aparcar junto a Playa de San Lorenzo?",
+        "a": "No siempre. En verano y en horas de más afluencia puede costar encontrar plaza inmediata junto al paseo."
+      },
+      {
+        "q": "¿Merece la pena usar un parking cercano?",
+        "a": "Sí, especialmente cuando quieres una llegada más previsible y evitar dar vueltas buscando aparcamiento en superficie."
+      },
+      {
+        "q": "¿A qué hora conviene llegar si voy en coche?",
+        "a": "Cuanto antes mejor, sobre todo en temporada alta, fines de semana y días festivos."
+      },
+      {
+        "q": "¿Es buena idea aparcar un poco más lejos y caminar?",
+        "a": "Normalmente sí. A menudo es la estrategia más rápida y cómoda cuando la zona inmediata está muy demandada."
+      }
+    ],
+    "mapCta": "Abrir zona en Google Maps",
+    "relatedTitle": "Más guías prácticas"
+  },
+  "guideServices": {
+    "meta": {
+      "title": "Servicios de Playa de San Lorenzo en Gijón",
+      "description": "Qué servicios puede ofrecer Playa de San Lorenzo según la temporada: accesos, socorrismo, duchas, accesibilidad, surf, paseo marítimo y recomendaciones antes de ir."
+    },
+    "backHome": "Volver al inicio",
+    "lastUpdated": "Actualizado: octubre de 2026",
+    "title": "Servicios de Playa de San Lorenzo",
+    "description": "Playa de San Lorenzo es una playa urbana muy preparada para la visita, pero algunos servicios dependen de la temporada y de la operativa local. Por eso conviene diferenciar entre lo que suele estar disponible de forma estable, como los accesos o el paseo, y lo que puede cambiar, como socorrismo, duchas o apoyo al baño.",
+    "highlightsTitle": "Lo más importante sobre los servicios",
+    "highlights": [
+      "Los accesos peatonales y el Paseo del Muro son parte central de la experiencia.",
+      "Los servicios de temporada pueden variar según la fecha y la operativa municipal.",
+      "La playa es conocida por su ambiente de surf, paseo y uso urbano diario.",
+      "Si necesitas servicios concretos, conviene verificarlos antes de la visita."
+    ],
+    "sections": [
+      {
+        "title": "Accesos, paseo y uso diario de la playa",
+        "paragraphs": [
+          "Uno de los puntos fuertes de San Lorenzo es su integración con la ciudad. Los accesos peatonales y el Paseo del Muro hacen que sea una playa cómoda tanto para una visita breve como para pasar más tiempo caminando, descansando o entrando y saliendo de la arena.",
+          "Esa conexión urbana también facilita combinar la playa con cafeterías, restaurantes, compras o un paseo por otras zonas de Gijón."
+        ],
+        "items": [
+          "Los accesos repartidos a lo largo del paseo ayudan a elegir mejor la zona de entrada.",
+          "Es una playa cómoda para pasear incluso si no vas a bañarte.",
+          "La cercanía con la ciudad amplía mucho las opciones alrededor de la visita."
+        ]
+      },
+      {
+        "title": "Servicios que pueden cambiar según la temporada",
+        "paragraphs": [
+          "Aspectos como socorrismo, duchas, apoyo al baño accesible y otros servicios de atención dependen de la época del año y de la organización local. Por eso es mejor tratarlos como servicios sujetos a temporada y no como elementos permanentes todo el año.",
+          "Si tu visita depende de alguno de estos puntos, conviene comprobar la información más reciente antes de desplazarte."
+        ],
+        "items": [
+          "La temporada de verano suele concentrar la mayor parte de los servicios activos.",
+          "La accesibilidad y el apoyo al baño pueden requerir comprobación previa.",
+          "Siempre es mejor confirmar horarios y disponibilidad en la fecha real de tu visita."
+        ]
+      },
+      {
+        "title": "Surf, paseo y otros usos habituales",
+        "paragraphs": [
+          "San Lorenzo también destaca por su ambiente vinculado al surf y a la actividad cotidiana del frente marítimo. Muchas personas la visitan para caminar, correr, hacer fotos o disfrutar del ambiente costero incluso cuando no van a pasar todo el día en la arena.",
+          "Eso hace que la playa funcione bien tanto como destino principal como dentro de una visita más amplia por Gijón."
+        ],
+        "items": [
+          "Es una playa conocida por el surf cuando el mar ofrece buenas condiciones.",
+          "El paseo marítimo la convierte en un espacio muy activo durante todo el día.",
+          "Puede disfrutarse también como parada urbana sin necesidad de organizar una jornada completa de playa."
+        ]
+      }
+    ],
+    "faqTitle": "Preguntas frecuentes sobre servicios",
+    "faqItems": [
+      {
+        "q": "¿Playa de San Lorenzo tiene socorrismo?",
+        "a": "Puede contar con socorrismo en temporada, pero la disponibilidad exacta depende de la fecha y de la organización local."
+      },
+      {
+        "q": "¿Hay duchas y servicios de apoyo al baño?",
+        "a": "Pueden estar disponibles en temporada, por lo que conviene confirmar su operativa antes de la visita si son importantes para tu plan."
+      },
+      {
+        "q": "¿Es una playa adecuada para pasear aunque no me bañe?",
+        "a": "Sí. El Paseo del Muro y la integración con la ciudad hacen que sea muy recomendable también para caminar, correr o disfrutar del frente marítimo."
+      },
+      {
+        "q": "¿Se puede hacer surf en San Lorenzo?",
+        "a": "Sí. Es una playa muy conocida por el surf, siempre en función de las condiciones del mar y de la seguridad del momento."
+      }
+    ],
+    "mapCta": "Abrir ubicación en Google Maps",
+    "relatedTitle": "Más guías prácticas"
   },
   "references": {
     "title": "Datos y Referencias",

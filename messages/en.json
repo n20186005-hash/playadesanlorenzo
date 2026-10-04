@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Playa de San Lorenzo — Gijón, Spain",
-    "description": "Complete guide to Playa de San Lorenzo: urban beach with golden sand, seaside promenade, spectacular Cantabrian Sea views and family atmosphere."
+    "title": "Playa de San Lorenzo, Gijón: Map, Access and Services",
+    "description": "Practical guide to Playa de San Lorenzo in Gijón, Asturias: location, how to get there, map, length, services, accessibility, surf and useful visit tips."
   },
   "header": {
     "home": "Home",
@@ -13,27 +13,27 @@
     "cookies": "Cookies"
   },
   "hero": {
-    "title": "Playa de San Lorenzo",
-    "subtitle": "Urban beach with golden sand, seaside promenade and views of the Cantabrian Sea",
-    "rating": "4.6/5",
-    "reviewCount": "12,653",
+    "title": "Playa de San Lorenzo in Gijón, Asturias",
+    "subtitle": "Guide to Gijón's iconic urban beach beside Paseo del Muro and the Cantabrian Sea",
+    "rating": "4.7/5",
+    "reviewCount": "3,269",
     "reviewLabel": "reviews",
-    "hours": "Open 24 hours",
+    "hours": "Open public access",
     "openMaps": "Open in Google Maps",
-    "tags": ["Urban beach", "Golden sand", "Seaside promenade", "Gijón", "Cantabrian Sea", "Surf", "Family", "Sunsets"]
+    "tags": ["Gijón", "Asturias", "Paseo del Muro", "Map", "How to get there", "Surf", "Services", "Sunsets"]
   },
   "about": {
     "title": "Discover Playa de San Lorenzo",
-    "description": "Playa de San Lorenzo is Gijón's largest urban beach, with over 1.5 km of golden sand and Cantabrian Sea waters. Perfect for families, water sports and sunset walks.",
+    "description": "Playa de San Lorenzo is one of the most emblematic beaches in Gijón, Asturias. Located in the heart of the city beside Paseo del Muro, it stretches for about 1,550 metres in a characteristic shell shape. This guide covers access, map, services, surf, accessibility and practical tips for visiting the beach.",
     "highlights": {
       "title": "Highlights",
       "items": [
-        "1.5 km urban beach with golden sand",
-        "3 km seaside promenade for walking and cycling",
-        "Blue flag for quality and services",
-        "Free access 24 hours a day",
-        "Ideal for surfing and water sports",
-        "Children's play areas and beach bars"
+        "About 1,550 metres of urban beach in central Gijón",
+        "Located beside Paseo del Muro facing the Cantabrian Sea",
+        "Popular for walks, running, surfing and sunsets",
+        "Pedestrian access points and seasonal summer services",
+        "Well connected by city transport, taxi and road access",
+        "Easy to combine with the seafront promenade and city centre"
       ]
     },
     "keywords": {
@@ -64,32 +64,39 @@
   },
   "gallery": {
     "title": "Photo Gallery",
-    "subtitle": "Images of the beach and surroundings",
+    "subtitle": "Views of Playa de San Lorenzo, Paseo del Muro and Gijón's seafront setting",
     "source": "Photo: Unsplash (last updated: 2026)",
     "viewAll": "View all photos on Google Maps",
     "images": [
       { "alt": "Playa de San Lorenzo at sunrise", "caption": "Beach view at sunrise" },
-      { "alt": "Golden sand and Cantabrian Sea", "caption": "Golden sand and Cantabrian Sea" },
-      { "alt": "Gijón seaside promenade", "caption": "The promenade next to the beach" },
-      { "alt": "Surfing at San Lorenzo", "caption": "Surfers on the waves" },
-      { "alt": "Sunset on the beach", "caption": "Sunset over the sea" },
-      { "alt": "Families on the beach", "caption": "Family atmosphere in summer" },
-      { "alt": "Beach bars", "caption": "Beach bars by the sea" },
-      { "alt": "Aerial view of San Lorenzo", "caption": "Panoramic view of the beach" }
+      { "alt": "Sand and shoreline at Playa de San Lorenzo", "caption": "Golden sand beside the Cantabrian Sea" },
+      { "alt": "Paseo del Muro facing Playa de San Lorenzo", "caption": "The promenade running next to the beach" },
+      { "alt": "Surf at Playa de San Lorenzo in Gijón", "caption": "Surfers making the most of the waves" },
+      { "alt": "Sunset over Playa de San Lorenzo", "caption": "Evening light over the bay" },
+      { "alt": "Families walking along Playa de San Lorenzo", "caption": "Summer atmosphere by the urban beach" },
+      { "alt": "Access points to Playa de San Lorenzo", "caption": "Beach entrances and sand beside the promenade" },
+      { "alt": "Panoramic view of Playa de San Lorenzo", "caption": "Wide view of Gijón's urban beach" },
+      { "alt": "Cantabrian waves at San Lorenzo", "caption": "Open sea and foam rolling into shore" },
+      { "alt": "San Lorenzo seafront promenade", "caption": "Walking route between the sea and the city" },
+      { "alt": "Playa de San Lorenzo in Gijón", "caption": "Wide beach view with the city behind" },
+      { "alt": "Low tide at Playa de San Lorenzo", "caption": "Extra sand visible during low tide" },
+      { "alt": "Gijón seafront beside Playa de San Lorenzo", "caption": "Urban frontage looking onto the beach" }
     ]
   },
   "reviews": {
-    "title": "Real Visitor Reviews",
-    "declaration": "Ratings and reviews from Google Maps (last updated: 2026). We only show a selection of verified high-rated reviews. To view all complete and most recent reviews, click the link below.",
-    "seeAll": "View all reviews on Google Maps",
-    "items": [
-      { "name": "María García", "date": "March 2026", "text": "Spectacular beach with fine golden sand. The promenade is perfect for walking and the sunsets are stunning. Very clean and well maintained." },
-      { "name": "Carlos Rodríguez", "date": "February 2026", "text": "Excellent urban beach with all services. Ideal for families and surfers. The atmosphere is very pleasant and the views of the Cantabrian Sea are magnificent." },
-      { "name": "Ana Martínez", "date": "January 2026", "text": "I love coming here to run along the promenade. The beach is wide and clean. In summer it has a great atmosphere with the beach bars open." },
-      { "name": "Javier Fernández", "date": "December 2025", "text": "Well-deserved blue flag. Clean waters, fine sand and complete services. Perfect for a beach day in the city." },
-      { "name": "Laura Sánchez", "date": "November 2025", "text": "Beautiful beach with a promenade that invites you to walk. The sunsets are spectacular and the family atmosphere is very pleasant." },
-      { "name": "Diego López", "date": "October 2025", "text": "Great beach for surfing. The waves are perfect for beginners and the sand is very comfortable. Totally recommendable." }
-    ]
+    "title": "Ratings and reviews",
+    "declaration": "We show a summary of the public rating available on Google Maps and link to the source so visitors can check the latest reviews, photos and updates directly.",
+    "summary": "Playa de San Lorenzo is consistently rated very highly for its central location, seaside promenade, Cantabrian views and atmosphere for walking, surfing or spending a day in Gijón.",
+    "rating": "4.7/5",
+    "ratingLabel": "Rating",
+    "reviewCount": "3,269",
+    "reviewCountLabel": "Reviews",
+    "updatedLabel": "Updated",
+    "updatedAt": "October 2026",
+    "ctaTitle": "Check reviews at the original source",
+    "ctaText": "For full opinions, recent photos and notices that may change, open the official Google Maps listing for Playa de San Lorenzo.",
+    "sourceNote": "This site does not publish invented reviews or unverifiable excerpts. Social proof is summarised here and referred back to Google Maps for the live source.",
+    "seeAll": "View reviews on Google Maps"
   },
   "comparison": {
     "title": "Nearby Beaches and Tips",
@@ -115,28 +122,312 @@
     "title": "Practical Information",
     "address": {
       "label": "Address",
-      "value": "Paseo Marítimo, Av. Rufo García Rendueles, 33203 Gijón, Asturias, Spain"
+      "value": "Paseo del Muro and Av. Rufo García Rendueles, 33203 Gijón, Asturias, Spain"
     },
     "hours": {
-      "label": "Opening Hours",
-      "value": "Open 24 hours — Free access. Best time to visit is sunrise or sunset for the best photos and walks."
+      "label": "Access and season",
+      "value": "The beach has open public access. Lifeguards, showers and assisted bathing services may vary depending on the season and municipal operations."
     },
     "transport": {
       "label": "How to Get There",
-      "value": "From Gijón center: 15 min walk along the promenade. From train station: 20 min by bus or 30 min walk. Direct car access with nearby parking."
+      "value": "It is easy to reach on foot from central Gijón via Paseo del Muro. There are also nearby city bus stops and direct access for taxi or car."
     },
     "parking": {
       "label": "Parking",
-      "value": "Free parking areas available along the promenade. In high season (July-August) it can be limited — arrive early recommended."
+      "value": "The surrounding area has underground car parks and street parking nearby. In summer, on holidays and at weekends, arriving early is usually the best option."
     },
     "accessibility": {
       "label": "Accessibility",
-      "value": "Complete pedestrian access with ramps. The sand is compact and easy to walk. Showers and adapted services available in summer season."
+      "value": "The beach has pedestrian access points, ramps and seasonal adapted services. Check the current local operation if you need assisted accessible bathing."
     }
   },
   "map": {
-    "title": "How to Get There",
+    "title": "Location and how to get there",
+    "address": "Playa de San Lorenzo, Gijón, Asturias, Spain",
+    "description": "The beach sits along Paseo del Muro in the heart of Gijón. Use Google Maps to open the exact location and choose the best route on foot, by car or with local transport.",
+    "iframeTitle": "Map of Playa de San Lorenzo in Gijón",
     "openMaps": "Open in Google Maps"
+  },
+  "faq": {
+    "title": "Frequently asked questions about Playa de San Lorenzo",
+    "items": [
+      {
+        "q": "Where is Playa de San Lorenzo?",
+        "a": "Playa de San Lorenzo is in Gijón, Asturias, beside Paseo del Muro and facing the Cantabrian Sea in one of the city's best-known areas."
+      },
+      {
+        "q": "How long is Playa de San Lorenzo?",
+        "a": "The main beach is about 1,550 metres long, making it one of the most representative urban beaches in northern Spain."
+      },
+      {
+        "q": "How do I get to Playa de San Lorenzo?",
+        "a": "You can reach it on foot from central Gijón, by local transport or by car. Google Maps is the easiest way to calculate the best route from your starting point."
+      },
+      {
+        "q": "Where can I park near Playa de San Lorenzo?",
+        "a": "There are car parks and street spaces near the seafront promenade. In summer and on busy days it is best to arrive early because demand increases."
+      },
+      {
+        "q": "Can you surf at Playa de San Lorenzo?",
+        "a": "Yes. San Lorenzo is well known for surfing and other sea sports, especially when the Cantabrian swell conditions are favourable."
+      },
+      {
+        "q": "What services does the beach have?",
+        "a": "Depending on the season, the beach may have lifeguards, showers, pedestrian access points, adapted areas and other support services. It is worth checking the current information before visiting."
+      }
+    ]
+  },
+  "guideLinks": {
+    "title": "Useful guides to plan your visit",
+    "description": "Alongside the main overview, we split the strongest search-intent topics into dedicated pages so each question is easier to find from Google and easier to answer properly.",
+    "cards": [
+      {
+        "slug": "como-llegar",
+        "title": "How to get to Playa de San Lorenzo",
+        "description": "Ways to reach the beach on foot, by car, taxi or local transport from different parts of Gijón.",
+        "cta": "Open guide"
+      },
+      {
+        "slug": "parking",
+        "title": "Where to park near Playa de San Lorenzo",
+        "description": "What to expect when parking, when to arrive and which nearby options are usually more practical.",
+        "cta": "View parking"
+      },
+      {
+        "slug": "servicios",
+        "title": "Services at Playa de San Lorenzo",
+        "description": "A summary of access, lifeguards, showers, accessible support, surf and other services that may vary by season.",
+        "cta": "View services"
+      }
+    ]
+  },
+  "guideHowToGet": {
+    "meta": {
+      "title": "How to get to Playa de San Lorenzo in Gijón",
+      "description": "Guide to reaching Playa de San Lorenzo: walking routes, car access, Google Maps, local transport and practical tips for moving around Gijón."
+    },
+    "backHome": "Back to home",
+    "lastUpdated": "Updated: October 2026",
+    "title": "How to get to Playa de San Lorenzo in Gijón",
+    "description": "Playa de San Lorenzo lies beside Paseo del Muro in one of the best-known parts of Gijón. The best way to reach it depends on where you start, whether you are driving and the time of year, because weekends and summer bring more traffic and more pedestrians.",
+    "highlightsTitle": "What matters before you leave",
+    "highlights": [
+      "From central Gijón, walking is often the easiest option.",
+      "Google Maps helps you compare walking, driving and taxi routes from your exact starting point.",
+      "In summer, leaving with extra time usually makes the arrival smoother.",
+      "Paseo del Muro is the most useful landmark once you are close to the beach."
+    ],
+    "sections": [
+      {
+        "title": "Walking from the centre and nearby districts",
+        "paragraphs": [
+          "If you are already in central Gijón, walking down to the seafront is usually the simplest choice. The route is direct and pleasant, with several beach access points spread along Paseo del Muro.",
+          "For many urban visits, walking saves time compared with looking for parking and makes it easier to combine the beach with places such as Cimavilla or the city centre."
+        ],
+        "items": [
+          "A good option if you are staying in the centre or near the promenade.",
+          "It lets you choose the access point or stretch of beach that suits you best.",
+          "It works especially well if you want to combine the beach with food, sightseeing or a seafront walk."
+        ]
+      },
+      {
+        "title": "Arriving by car, taxi or local transport",
+        "paragraphs": [
+          "Driving to the area is straightforward, although in peak season the final part of the journey depends heavily on parking availability.",
+          "Taxi and local transport are useful if you want to arrive directly at the seafront and avoid doing extra loops through the area. Nearby stops and drop-off points connect the beach well with the rest of the city."
+        ],
+        "items": [
+          "If you plan to drive, check the separate parking guide before setting off.",
+          "On busy days the final approach can be slower than expected.",
+          "If comfort matters most, taxi or local transport often means less uncertainty."
+        ]
+      },
+      {
+        "title": "Using Google Maps for the exact location",
+        "paragraphs": [
+          "The most practical way to avoid mistakes is to open the exact Playa de San Lorenzo location in Google Maps and calculate the route from your real position. That makes it easy to switch between walking, driving and transport options.",
+          "It is also useful for sharing the location with other people and setting a clear meeting point along the promenade."
+        ],
+        "items": [
+          "Open the location before starting the trip to avoid late corrections.",
+          "Check whether the suggested access point matches the part of the beach you want.",
+          "In summer, review traffic conditions before the final part of the trip."
+        ]
+      }
+    ],
+    "faqTitle": "Getting there: common questions",
+    "faqItems": [
+      {
+        "q": "Can I walk to Playa de San Lorenzo?",
+        "a": "Yes. From central Gijón it is often one of the easiest ways to reach the beach, especially if you are staying near the urban centre or the seafront."
+      },
+      {
+        "q": "Is it better to go by car or local transport?",
+        "a": "It depends on the day and season. A car can be convenient, but in summer and on weekends local transport or taxi often avoids parking uncertainty."
+      },
+      {
+        "q": "What should I enter in the navigator?",
+        "a": "The most practical option is to open the Playa de San Lorenzo listing directly in Google Maps and calculate the exact route from your current position."
+      },
+      {
+        "q": "Which landmark helps most when arriving?",
+        "a": "Paseo del Muro is the main landmark for understanding where the beach is and how its access points are distributed."
+      }
+    ],
+    "mapCta": "Open route in Google Maps",
+    "relatedTitle": "More practical guides"
+  },
+  "guideParking": {
+    "meta": {
+      "title": "Where to park near Playa de San Lorenzo, Gijón",
+      "description": "Parking tips for Playa de San Lorenzo: what to expect in summer, nearby options, busy times and practical advice for arriving with less stress."
+    },
+    "backHome": "Back to home",
+    "lastUpdated": "Updated: October 2026",
+    "title": "Where to park near Playa de San Lorenzo",
+    "description": "Finding parking near Playa de San Lorenzo depends heavily on the day, the time and the season. The urban area offers several options, but in summer, on holidays and at weekends it helps to leave more margin and accept that the closest spot to the sand may not be available.",
+    "highlightsTitle": "What to keep in mind",
+    "highlights": [
+      "Parking becomes clearly harder in summer and at weekends.",
+      "Nearby car parks can save time when street spaces are busy.",
+      "Arriving earlier is usually the simplest way to reduce stress.",
+      "A short walk often works better than insisting on the closest possible space."
+    ],
+    "sections": [
+      {
+        "title": "What to expect when parking in the area",
+        "paragraphs": [
+          "Because San Lorenzo is such a popular urban beach, demand for spaces rises sharply in the middle of the day and during bathing season. Even though the surrounding area has parking options, trying to stop right next to the main beach access is not always the quickest approach.",
+          "The overall experience is often better when you accept a short walk from a nearby area instead of focusing only on the very first line of the promenade."
+        ],
+        "items": [
+          "The toughest moments are usually summer, holidays and weekends.",
+          "Traffic can slow down near midday and again around sunset.",
+          "A slightly longer walk often saves total search time."
+        ]
+      },
+      {
+        "title": "Street parking and nearby car parks",
+        "paragraphs": [
+          "There are street spaces in the surrounding neighbourhoods and also nearby car parks that may be the easiest alternative when surface parking is busy.",
+          "If you prefer a more predictable arrival, choosing a car park early and walking the final stretch is often the most practical decision."
+        ],
+        "items": [
+          "Street parking can work well if you arrive early.",
+          "A nearby car park is often more reliable when visitor numbers are high.",
+          "Before leaving, check both traffic and the likely duration of the final approach."
+        ]
+      },
+      {
+        "title": "Parking with less stress",
+        "paragraphs": [
+          "The most useful approach is to decide your strategy in advance: arrive early, accept a short walk or go directly to a car park. That early decision usually makes the difference between a smooth arrival and a long loop around the area.",
+          "If you are travelling with children, older visitors or lots of beach gear, comfort and predictability are often worth more than the closest possible space."
+        ],
+        "items": [
+          "Leave extra time if you are visiting in peak season.",
+          "Keep a second option ready in case your first area is full.",
+          "Save both the beach location and your parked-car location on your phone."
+        ]
+      }
+    ],
+    "faqTitle": "Parking: common questions",
+    "faqItems": [
+      {
+        "q": "Is it easy to park right by Playa de San Lorenzo?",
+        "a": "Not always. In summer and during busy periods it can be difficult to find an immediate space beside the promenade."
+      },
+      {
+        "q": "Is a nearby car park worth it?",
+        "a": "Yes, especially when you want a more predictable arrival and do not want to spend time circling for street spaces."
+      },
+      {
+        "q": "What time should I arrive if I am driving?",
+        "a": "Earlier is usually better, especially in peak season, on weekends and on public holidays."
+      },
+      {
+        "q": "Is it sensible to park a little farther away and walk?",
+        "a": "Usually yes. It is often the quickest and least frustrating option when the immediate area is busy."
+      }
+    ],
+    "mapCta": "Open area in Google Maps",
+    "relatedTitle": "More practical guides"
+  },
+  "guideServices": {
+    "meta": {
+      "title": "Services at Playa de San Lorenzo in Gijón",
+      "description": "What services Playa de San Lorenzo may offer depending on season: access, lifeguards, showers, accessibility, surf, promenade and useful visit advice."
+    },
+    "backHome": "Back to home",
+    "lastUpdated": "Updated: October 2026",
+    "title": "Services at Playa de San Lorenzo",
+    "description": "Playa de San Lorenzo is a very visitor-friendly urban beach, but some services depend on the season and local operations. It helps to distinguish between what is usually stable, such as access points and the promenade, and what may change, such as lifeguards, showers or assisted bathing services.",
+    "highlightsTitle": "Key service points",
+    "highlights": [
+      "Pedestrian access and Paseo del Muro are central to the beach experience.",
+      "Seasonal services may vary depending on date and municipal operation.",
+      "The beach is well known for surfing, walking and everyday urban use.",
+      "If you need specific services, it is best to confirm them before visiting."
+    ],
+    "sections": [
+      {
+        "title": "Access points, promenade and everyday use",
+        "paragraphs": [
+          "One of San Lorenzo's main strengths is how well it connects with the city. Pedestrian access points and Paseo del Muro make it comfortable both for a quick stop and for spending longer periods walking, resting or going in and out of the sand.",
+          "That urban connection also makes it easy to combine the beach with cafes, restaurants, shopping or a wider walk around Gijón."
+        ],
+        "items": [
+          "Access points along the promenade make it easier to choose where to enter.",
+          "It is a good beach for walking even if you do not plan to swim.",
+          "Its closeness to the city expands what you can do around the visit."
+        ]
+      },
+      {
+        "title": "Services that may change by season",
+        "paragraphs": [
+          "Items such as lifeguards, showers, accessible bathing assistance and other support services depend on the time of year and the local setup. They are best treated as seasonal services rather than permanent year-round guarantees.",
+          "If your visit depends on one of those services, checking the latest local information before travelling is the safest approach."
+        ],
+        "items": [
+          "Summer is usually when the broadest set of services is active.",
+          "Accessibility support may require checking current arrangements in advance.",
+          "It is always best to confirm timings and availability for your exact visit date."
+        ]
+      },
+      {
+        "title": "Surf, promenade and other common uses",
+        "paragraphs": [
+          "San Lorenzo also stands out for its surf culture and the everyday activity of the seafront. Many people come here to walk, run, take photos or enjoy the coastal atmosphere even when they are not spending a full day on the sand.",
+          "That makes the beach work well both as a main destination and as part of a wider visit around Gijón."
+        ],
+        "items": [
+          "It is a well-known surf beach when sea conditions are favourable.",
+          "The promenade keeps the area lively throughout the day.",
+          "It also works well as an urban stop without organising a full beach day."
+        ]
+      }
+    ],
+    "faqTitle": "Services: common questions",
+    "faqItems": [
+      {
+        "q": "Does Playa de San Lorenzo have lifeguards?",
+        "a": "It may have lifeguard coverage in season, but exact availability depends on the date and local operation."
+      },
+      {
+        "q": "Are showers and assisted bathing services available?",
+        "a": "They may be available in season, so it is worth confirming the current setup if they are important for your visit."
+      },
+      {
+        "q": "Is it a good beach for walking even if I do not swim?",
+        "a": "Yes. Paseo del Muro and the urban setting make it highly recommended for walking, running or simply enjoying the seafront."
+      },
+      {
+        "q": "Can you surf at San Lorenzo?",
+        "a": "Yes. It is a well-known surf beach, always depending on sea conditions and the safety situation on the day."
+      }
+    ],
+    "mapCta": "Open location in Google Maps",
+    "relatedTitle": "More practical guides"
   },
   "references": {
     "title": "Data & References",

@@ -4,7 +4,6 @@ import { useTranslations } from 'next-intl';
 export default function About() {
   const t = useTranslations('about');
   const highlights: string[] = t.raw('highlights.items');
-  const keywords: string[] = t.raw('keywordsList');
 
   return (
     <section id="about" className="section">
@@ -28,15 +27,6 @@ export default function About() {
           </li>
         ))}
       </ul>
-
-      <h3 className="font-serif text-lg font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
-        {t('keywords.title')}
-      </h3>
-      <div className="flex flex-wrap gap-2">
-        {keywords.map((kw: string, i: number) => (
-          <span key={i} className="tag">{kw}</span>
-        ))}
-      </div>
     </section>
   );
 }

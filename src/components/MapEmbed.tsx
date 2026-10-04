@@ -10,8 +10,11 @@ export default function MapEmbed() {
         <h2 className="font-serif text-3xl md:text-4xl font-bold mb-2" style={{ color: 'var(--text-primary)' }}>
           {t('title')}
         </h2>
-        <p className="mb-6 text-sm" style={{ color: 'var(--text-muted)' }}>
-          Bajada San Martín, 45004 Toledo, Spain
+        <p className="text-sm mb-2" style={{ color: 'var(--text-muted)' }}>
+          {t('address')}
+        </p>
+        <p className="mb-6 text-sm leading-relaxed max-w-2xl" style={{ color: 'var(--text-secondary)' }}>
+          {t('description')}
         </p>
 
         <div className="map-container mb-6">
@@ -23,7 +26,7 @@ export default function MapEmbed() {
             allowFullScreen={true}
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps"
+            title={t('iframeTitle')}
           />
         </div>
 

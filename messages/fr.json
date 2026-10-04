@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Playa de San Lorenzo — Gijón, Espagne",
-    "description": "Guide complet de Playa de San Lorenzo : plage urbaine de sable doré avec promenade maritime, vues spectaculaires sur la mer Cantabrique et ambiance familiale."
+    "title": "Playa de San Lorenzo, Gijón : accès, carte et services",
+    "description": "Guide pratique de Playa de San Lorenzo à Gijón, Asturies : localisation, accès, carte, longueur, services, accessibilité, surf et conseils utiles pour la visite."
   },
   "header": {
     "home": "Accueil",
@@ -13,27 +13,27 @@
     "cookies": "Cookies"
   },
   "hero": {
-    "title": "Playa de San Lorenzo",
-    "subtitle": "Plage urbaine de sable doré avec promenade maritime et vues sur la mer Cantabrique",
-    "rating": "4,6/5",
-    "reviewCount": "12 653",
+    "title": "Playa de San Lorenzo à Gijón, Asturies",
+    "subtitle": "Guide de la plage urbaine emblématique de Gijón, au bord du Paseo del Muro et de la mer Cantabrique",
+    "rating": "4,7/5",
+    "reviewCount": "3 269",
     "reviewLabel": "avis",
-    "hours": "Ouvert 24 heures",
+    "hours": "Accès libre",
     "openMaps": "Ouvrir dans Google Maps",
-    "tags": ["Plage urbaine", "Sable doré", "Promenade maritime", "Gijón", "Mer Cantabrique", "Surf", "Famille", "Couchers de soleil"]
+    "tags": ["Gijón", "Asturies", "Paseo del Muro", "Carte", "Accès", "Surf", "Services", "Couchers de soleil"]
   },
   "about": {
     "title": "Découvrir Playa de San Lorenzo",
-    "description": "Playa de San Lorenzo est la plus grande plage urbaine de Gijón, avec plus de 1,5 km de sable doré et les eaux de la mer Cantabrique. Parfaite pour les familles, les sports nautiques et les promenades au coucher du soleil.",
+    "description": "Playa de San Lorenzo est l'une des plages les plus emblématiques de Gijón, dans les Asturies. Située en plein centre-ville à côté du Paseo del Muro, elle s'étend sur environ 1 550 mètres avec une forme de coquillage caractéristique. Ce guide présente l'accès, la carte, les services, le surf, l'accessibilité et des conseils pratiques pour la visite.",
     "highlights": {
       "title": "Points forts",
       "items": [
-        "Plage urbaine de 1,5 km avec sable doré",
-        "Promenade maritime de 3 km pour marcher et faire du vélo",
-        "Pavillon bleu pour la qualité et les services",
-        "Accès gratuit 24 heures sur 24",
-        "Idéale pour le surf et les sports nautiques",
-        "Aires de jeux pour enfants et bars de plage"
+        "Environ 1 550 mètres de plage urbaine au centre de Gijón",
+        "Située le long du Paseo del Muro face à la mer Cantabrique",
+        "Très appréciée pour la promenade, la course, le surf et le coucher du soleil",
+        "Accès piétons et services saisonniers en été",
+        "Bonne desserte par transports urbains, taxi et voiture",
+        "Facile à combiner avec la promenade du front de mer et le centre-ville"
       ]
     },
     "keywords": {
@@ -64,32 +64,39 @@
   },
   "gallery": {
     "title": "Galerie de Photos",
-    "subtitle": "Images de la plage et des environs",
+    "subtitle": "Vues de Playa de San Lorenzo, du Paseo del Muro et du front de mer de Gijón",
     "source": "Photo : Unsplash (dernière mise à jour : 2026)",
     "viewAll": "Voir toutes les photos sur Google Maps",
     "images": [
       { "alt": "Playa de San Lorenzo au lever du soleil", "caption": "Vue de la plage au lever du soleil" },
-      { "alt": "Sable doré et mer Cantabrique", "caption": "Sable doré et mer Cantabrique" },
-      { "alt": "Promenade maritime de Gijón", "caption": "La promenade maritime à côté de la plage" },
-      { "alt": "Surf à San Lorenzo", "caption": "Surfeurs sur les vagues" },
-      { "alt": "Coucher de soleil sur la plage", "caption": "Coucher de soleil sur la mer" },
-      { "alt": "Familles sur la plage", "caption": "Ambiance familiale en été" },
-      { "alt": "Bars de plage", "caption": "Bars de plage au bord de la mer" },
-      { "alt": "Vue aérienne de San Lorenzo", "caption": "Vue panoramique de la plage" }
+      { "alt": "Sable et rivage de Playa de San Lorenzo", "caption": "Sable doré au bord de la mer Cantabrique" },
+      { "alt": "Paseo del Muro face à Playa de San Lorenzo", "caption": "La promenade longeant la plage" },
+      { "alt": "Surf à Playa de San Lorenzo à Gijón", "caption": "Des surfeurs profitent des vagues" },
+      { "alt": "Coucher de soleil sur Playa de San Lorenzo", "caption": "Lumière du soir sur la baie" },
+      { "alt": "Familles se promenant sur Playa de San Lorenzo", "caption": "Ambiance estivale de la plage urbaine" },
+      { "alt": "Accès à Playa de San Lorenzo", "caption": "Entrées de plage et sable près de la promenade" },
+      { "alt": "Vue panoramique de Playa de San Lorenzo", "caption": "Large vue de la plage urbaine de Gijón" },
+      { "alt": "Vagues cantabriques à San Lorenzo", "caption": "Mer ouverte et écume arrivant au rivage" },
+      { "alt": "Promenade maritime de San Lorenzo", "caption": "Parcours entre la mer et la ville" },
+      { "alt": "Playa de San Lorenzo à Gijón", "caption": "Vue large avec la ville en arrière-plan" },
+      { "alt": "Marée basse à Playa de San Lorenzo", "caption": "Plus de sable visible à marée basse" },
+      { "alt": "Façade urbaine face à Playa de San Lorenzo", "caption": "Le front urbain de Gijón face à la plage" }
     ]
   },
   "reviews": {
-    "title": "Avis Réels de Visiteurs",
-    "declaration": "Évaluations et avis provenant de Google Maps (dernière mise à jour : 2026). Nous ne montrons qu'une sélection d'avis vérifiés avec une note élevée. Pour consulter tous les avis complets et les plus récents, cliquez sur le lien ci-dessous.",
-    "seeAll": "Voir tous les avis sur Google Maps",
-    "items": [
-      { "name": "María García", "date": "Mars 2026", "text": "Plage spectaculaire avec du sable doré fin. La promenade est parfaite pour marcher et les couchers de soleil sont superbes. Très propre et bien entretenue." },
-      { "name": "Carlos Rodríguez", "date": "Février 2026", "text": "Excellente plage urbaine avec tous les services. Idéale pour les familles et les surfeurs. L'ambiance est très agréable et les vues sur la mer Cantabrique sont magnifiques." },
-      { "name": "Ana Martínez", "date": "Janvier 2026", "text": "J'adore venir ici courir le long de la promenade. La plage est large et propre. En été, il y a une superbe ambiance avec les bars de plage ouverts." },
-      { "name": "Javier Fernández", "date": "Décembre 2025", "text": "Pavillon bleu bien mérité. Eaux propres, sable fin et services complets. Parfaite pour une journée de plage en ville." },
-      { "name": "Laura Sánchez", "date": "Novembre 2025", "text": "Belle plage avec une promenade qui invite à la marche. Les couchers de soleil sont spectaculaires et l'ambiance familiale est très agréable." },
-      { "name": "Diego López", "date": "Octobre 2025", "text": "Grande plage pour faire du surf. Les vagues sont parfaites pour les débutants et le sable est très confortable. Totalement recommandable." }
-    ]
+    "title": "Notes et avis",
+    "declaration": "Nous affichons un résumé de la note publique disponible sur Google Maps et un lien vers la source afin de consulter directement les avis, photos et mises à jour les plus récentes.",
+    "summary": "Playa de San Lorenzo est très bien notée pour sa situation centrale, sa promenade maritime, ses vues sur la mer Cantabrique et son ambiance propice à la marche, au surf et aux journées à Gijón.",
+    "rating": "4,7/5",
+    "ratingLabel": "Note",
+    "reviewCount": "3 269",
+    "reviewCountLabel": "Avis",
+    "updatedLabel": "Mise à jour",
+    "updatedAt": "Octobre 2026",
+    "ctaTitle": "Consulter les avis à la source",
+    "ctaText": "Pour lire les avis complets, voir des photos récentes et vérifier les informations susceptibles d'évoluer, ouvrez directement la fiche Google Maps de Playa de San Lorenzo.",
+    "sourceNote": "Ce site ne publie pas d'avis inventés ni d'extraits impossibles à vérifier. Les signaux sociaux sont résumés ici puis renvoyés vers Google Maps pour la source en direct.",
+    "seeAll": "Voir les avis sur Google Maps"
   },
   "comparison": {
     "title": "Plages à proximité et conseils",
@@ -115,28 +122,312 @@
     "title": "Informations Pratiques",
     "address": {
       "label": "Adresse",
-      "value": "Paseo Marítimo, Av. Rufo García Rendueles, 33203 Gijón, Asturies, Espagne"
+      "value": "Paseo del Muro et Av. Rufo García Rendueles, 33203 Gijón, Asturies, Espagne"
     },
     "hours": {
-      "label": "Horaires d'ouverture",
-      "value": "Ouvert 24 heures — Accès gratuit. Le meilleur moment pour visiter est au lever ou au coucher du soleil pour les meilleures photos et promenades."
+      "label": "Accès et saison",
+      "value": "La plage est en accès libre. La surveillance, les douches et les services d'aide à la baignade peuvent varier selon la saison et l'organisation municipale."
     },
     "transport": {
       "label": "Comment y aller",
-      "value": "Depuis le centre de Gijón : 15 min à pied le long de la promenade. Depuis la gare : 20 min en bus ou 30 min à pied. Accès direct en voiture avec parking à proximité."
+      "value": "L'accès se fait facilement à pied depuis le centre de Gijón par le Paseo del Muro. On trouve aussi des arrêts de bus urbains à proximité ainsi qu'un accès direct en taxi ou en voiture."
     },
     "parking": {
       "label": "Parking",
-      "value": "Zones de parking gratuites disponibles le long de la promenade. En haute saison (juillet-août), cela peut être limité — arriver tôt recommandé."
+      "value": "Le secteur dispose de parkings souterrains et de places dans les rues voisines. En été, les week-ends et les jours fériés, il vaut mieux arriver à l'avance."
     },
     "accessibility": {
       "label": "Accessibilité",
-      "value": "Accès piéton complet avec rampes. Le sable est compact et facile à marcher. Douches et services adaptés disponibles en saison estivale."
+      "value": "La plage dispose d'accès piétons, de rampes et de services adaptés en saison. Vérifiez l'organisation locale en cours si vous avez besoin d'un bain assisté."
     }
   },
   "map": {
-    "title": "Comment y Aller",
+    "title": "Localisation et accès",
+    "address": "Playa de San Lorenzo, Gijón, Asturies, Espagne",
+    "description": "La plage se trouve le long du Paseo del Muro, au cœur de Gijón. Utilisez Google Maps pour ouvrir l'emplacement exact et choisir le meilleur itinéraire à pied, en voiture ou en transport urbain.",
+    "iframeTitle": "Carte de Playa de San Lorenzo à Gijón",
     "openMaps": "Ouvrir dans Google Maps"
+  },
+  "faq": {
+    "title": "Questions fréquentes sur Playa de San Lorenzo",
+    "items": [
+      {
+        "q": "Où se trouve Playa de San Lorenzo ?",
+        "a": "Playa de San Lorenzo se trouve à Gijón, dans les Asturies, le long du Paseo del Muro et face à la mer Cantabrique, dans l'un des secteurs les plus connus de la ville."
+      },
+      {
+        "q": "Quelle est la longueur de Playa de San Lorenzo ?",
+        "a": "La plage principale mesure environ 1 550 mètres, ce qui en fait l'une des plages urbaines les plus représentatives du nord de l'Espagne."
+      },
+      {
+        "q": "Comment aller à Playa de San Lorenzo ?",
+        "a": "On peut y aller à pied depuis le centre de Gijón, en transport urbain ou en voiture. Google Maps reste le moyen le plus simple pour calculer le meilleur trajet."
+      },
+      {
+        "q": "Où se garer près de Playa de San Lorenzo ?",
+        "a": "Il existe des parkings et des places dans les rues proches de la promenade. En été et lors des journées très fréquentées, il est préférable d'arriver tôt."
+      },
+      {
+        "q": "Peut-on faire du surf à Playa de San Lorenzo ?",
+        "a": "Oui. San Lorenzo est connue pour le surf et d'autres sports de mer, surtout lorsque les conditions de houle cantabrique sont favorables."
+      },
+      {
+        "q": "Quels services sont disponibles sur la plage ?",
+        "a": "Selon la saison, la plage peut proposer surveillance, douches, accès piétons, zones adaptées et autres services d'appui à la baignade. Il vaut mieux vérifier l'information actuelle avant la visite."
+      }
+    ]
+  },
+  "guideLinks": {
+    "title": "Guides utiles pour préparer la visite",
+    "description": "En plus de la page générale, nous avons séparé les sujets avec la plus forte intention de recherche en pages dédiées afin qu'ils soient plus faciles à trouver depuis Google et mieux traités.",
+    "cards": [
+      {
+        "slug": "como-llegar",
+        "title": "Comment aller à Playa de San Lorenzo",
+        "description": "Options pour rejoindre la plage à pied, en voiture, en taxi ou en transport urbain depuis différents secteurs de Gijón.",
+        "cta": "Ouvrir le guide"
+      },
+      {
+        "slug": "parking",
+        "title": "Où se garer près de Playa de San Lorenzo",
+        "description": "À quoi s'attendre pour le stationnement, quand arriver et quelles solutions voisines sont souvent les plus pratiques.",
+        "cta": "Voir le parking"
+      },
+      {
+        "slug": "servicios",
+        "title": "Services de Playa de San Lorenzo",
+        "description": "Résumé des accès, de la surveillance, des douches, de l'aide à la baignade, du surf et d'autres services qui peuvent varier selon la saison.",
+        "cta": "Voir les services"
+      }
+    ]
+  },
+  "guideHowToGet": {
+    "meta": {
+      "title": "Comment aller à Playa de San Lorenzo à Gijón",
+      "description": "Guide pour rejoindre Playa de San Lorenzo : itinéraires à pied, accès en voiture, Google Maps, transport urbain et conseils pratiques pour se déplacer à Gijón."
+    },
+    "backHome": "Retour à l'accueil",
+    "lastUpdated": "Mise à jour : octobre 2026",
+    "title": "Comment aller à Playa de San Lorenzo à Gijón",
+    "description": "Playa de San Lorenzo se situe le long du Paseo del Muro, dans l'un des secteurs les plus connus de Gijón. La meilleure façon d'y aller dépend du point de départ, du fait de venir ou non en voiture et de la période, car les week-ends et l'été attirent davantage de circulation et de visiteurs.",
+    "highlightsTitle": "À savoir avant de partir",
+    "highlights": [
+      "Depuis le centre de Gijón, la marche est souvent l'option la plus simple.",
+      "Google Maps permet de comparer facilement marche, voiture et taxi depuis votre position réelle.",
+      "En été, partir avec un peu d'avance rend l'arrivée plus confortable.",
+      "Le Paseo del Muro est le repère le plus utile une fois dans le secteur."
+    ],
+    "sections": [
+      {
+        "title": "Venir à pied depuis le centre et les quartiers proches",
+        "paragraphs": [
+          "Si vous êtes déjà dans le centre de Gijón, descendre à pied vers le front de mer est généralement le choix le plus simple. L'itinéraire est direct, agréable et permet d'accéder à la plage par plusieurs entrées le long du Paseo del Muro.",
+          "Pour beaucoup de visites urbaines, la marche fait gagner du temps par rapport à la recherche d'une place et facilite la combinaison avec Cimavilla ou le centre-ville."
+        ],
+        "items": [
+          "Une bonne option si vous logez dans le centre ou près de la promenade.",
+          "Elle permet de choisir plus librement la zone d'accès ou la partie de plage souhaitée.",
+          "Elle fonctionne très bien si vous combinez plage, promenade et restauration."
+        ]
+      },
+      {
+        "title": "Arriver en voiture, en taxi ou en transport urbain",
+        "paragraphs": [
+          "L'accès en voiture jusqu'au secteur est simple, même si la dernière partie du trajet dépend beaucoup du stationnement disponible en haute saison.",
+          "Le taxi et les transports urbains sont utiles si vous voulez arriver directement sur le front de mer sans multiplier les détours. Des arrêts et points de dépose proches relient bien la plage au reste de la ville."
+        ],
+        "items": [
+          "Si vous venez en voiture, consultez aussi le guide parking avant le départ.",
+          "Les jours de forte affluence, la dernière approche peut être plus lente que prévu.",
+          "Si vous privilégiez la simplicité, taxi et transport urbain réduisent souvent l'incertitude."
+        ]
+      },
+      {
+        "title": "Utiliser Google Maps pour l'emplacement exact",
+        "paragraphs": [
+          "La solution la plus pratique pour éviter les erreurs consiste à ouvrir l'emplacement exact de Playa de San Lorenzo dans Google Maps et à calculer l'itinéraire depuis votre position réelle. Vous pouvez ainsi comparer marche, voiture et transport.",
+          "C'est également utile pour partager facilement le point de rendez-vous avec d'autres personnes le long de la promenade."
+        ],
+        "items": [
+          "Ouvrez l'emplacement avant de partir pour éviter les corrections de dernière minute.",
+          "Vérifiez si l'accès proposé correspond à la partie de plage qui vous intéresse.",
+          "En été, regardez l'état du trafic avant le dernier tronçon."
+        ]
+      }
+    ],
+    "faqTitle": "Questions fréquentes sur l'accès",
+    "faqItems": [
+      {
+        "q": "Peut-on aller à Playa de San Lorenzo à pied ?",
+        "a": "Oui. Depuis le centre de Gijón, c'est souvent l'un des moyens les plus simples, surtout si vous séjournez près du centre urbain ou du front de mer."
+      },
+      {
+        "q": "Vaut-il mieux venir en voiture ou en transport urbain ?",
+        "a": "Cela dépend du jour et de la saison. La voiture peut être pratique, mais en été et le week-end le transport urbain ou le taxi évitent souvent l'incertitude du stationnement."
+      },
+      {
+        "q": "Quel point faut-il entrer dans le navigateur ?",
+        "a": "Le plus pratique est d'ouvrir directement la fiche Playa de San Lorenzo dans Google Maps et de calculer l'itinéraire depuis votre position réelle."
+      },
+      {
+        "q": "Quel repère aide le plus en arrivant ?",
+        "a": "Le Paseo del Muro est le repère principal pour comprendre où se trouve la plage et comment ses accès sont répartis."
+      }
+    ],
+    "mapCta": "Ouvrir l'itinéraire dans Google Maps",
+    "relatedTitle": "Autres guides pratiques"
+  },
+  "guideParking": {
+    "meta": {
+      "title": "Où se garer près de Playa de San Lorenzo, Gijón",
+      "description": "Conseils de stationnement pour Playa de San Lorenzo : attentes en été, options proches, périodes de forte affluence et recommandations pour arriver avec moins de stress."
+    },
+    "backHome": "Retour à l'accueil",
+    "lastUpdated": "Mise à jour : octobre 2026",
+    "title": "Où se garer près de Playa de San Lorenzo",
+    "description": "Trouver une place près de Playa de San Lorenzo dépend beaucoup du jour, de l'heure et de la saison. Le secteur urbain offre plusieurs possibilités, mais en été, les week-ends et les jours fériés il vaut mieux prévoir un peu plus de marge et accepter que la place parfaite au bord du sable ne soit pas toujours libre.",
+    "highlightsTitle": "Ce qu'il faut garder en tête",
+    "highlights": [
+      "Le stationnement devient nettement plus difficile en été et le week-end.",
+      "Les parkings proches peuvent faire gagner du temps lorsque la rue est déjà bien occupée.",
+      "Arriver plus tôt reste généralement la solution la plus simple.",
+      "Une petite marche est souvent plus efficace que de chercher la place la plus proche."
+    ],
+    "sections": [
+      {
+        "title": "À quoi s'attendre pour se garer dans le secteur",
+        "paragraphs": [
+          "Comme San Lorenzo est une plage urbaine très fréquentée, la demande de places augmente beaucoup au milieu de la journée et pendant la saison balnéaire. Même si le secteur offre différentes solutions, vouloir absolument se garer juste à côté de l'accès principal n'est pas toujours le plus rapide.",
+          "L'expérience est souvent meilleure lorsqu'on accepte de marcher quelques minutes depuis une zone proche plutôt que de viser uniquement la première ligne de promenade."
+        ],
+        "items": [
+          "Les moments les plus chargés sont généralement l'été, les jours fériés et les week-ends.",
+          "La circulation peut ralentir près de midi et en fin de journée.",
+          "Marcher un peu plus économise souvent du temps de recherche."
+        ]
+      },
+      {
+        "title": "Places en rue et parkings proches",
+        "paragraphs": [
+          "On trouve des places dans les rues voisines ainsi que des parkings qui peuvent être l'alternative la plus pratique lorsque le stationnement en surface est tendu.",
+          "Si vous préférez une arrivée plus prévisible, il est souvent plus simple de viser directement un parking puis de faire le dernier tronçon à pied."
+        ],
+        "items": [
+          "Le stationnement en rue peut bien fonctionner si vous arrivez tôt.",
+          "Un parking proche est souvent plus fiable quand la fréquentation augmente.",
+          "Avant de partir, vérifiez le trafic et la durée probable de la dernière approche."
+        ]
+      },
+      {
+        "title": "Se garer avec moins de stress",
+        "paragraphs": [
+          "L'approche la plus utile consiste à décider votre stratégie à l'avance : arriver tôt, accepter une courte marche ou aller directement dans un parking. Ce choix préalable change souvent complètement la qualité de l'arrivée.",
+          "Si vous voyagez avec des enfants, des personnes âgées ou beaucoup d'équipement, le confort et la prévisibilité valent souvent plus que la place la plus proche possible."
+        ],
+        "items": [
+          "Prévoyez plus de temps si vous venez en haute saison.",
+          "Gardez une deuxième option prête si votre premier secteur est complet.",
+          "Enregistrez sur votre téléphone la plage et l'emplacement de votre voiture."
+        ]
+      }
+    ],
+    "faqTitle": "Questions fréquentes sur le parking",
+    "faqItems": [
+      {
+        "q": "Est-il facile de se garer juste à côté de Playa de San Lorenzo ?",
+        "a": "Pas toujours. En été et aux heures d'affluence, trouver une place immédiate près de la promenade peut être difficile."
+      },
+      {
+        "q": "Un parking proche vaut-il le coup ?",
+        "a": "Oui, surtout si vous voulez une arrivée plus prévisible et éviter de tourner pour trouver une place en rue."
+      },
+      {
+        "q": "À quelle heure vaut-il mieux arriver en voiture ?",
+        "a": "Le plus tôt possible, surtout en haute saison, le week-end et les jours fériés."
+      },
+      {
+        "q": "Est-il judicieux de se garer un peu plus loin et de marcher ?",
+        "a": "Oui, très souvent. C'est régulièrement l'option la plus rapide et la moins frustrante quand le secteur immédiat est chargé."
+      }
+    ],
+    "mapCta": "Ouvrir la zone dans Google Maps",
+    "relatedTitle": "Autres guides pratiques"
+  },
+  "guideServices": {
+    "meta": {
+      "title": "Services de Playa de San Lorenzo à Gijón",
+      "description": "Quels services Playa de San Lorenzo peut proposer selon la saison : accès, surveillance, douches, accessibilité, surf, promenade et conseils utiles avant la visite."
+    },
+    "backHome": "Retour à l'accueil",
+    "lastUpdated": "Mise à jour : octobre 2026",
+    "title": "Services de Playa de San Lorenzo",
+    "description": "Playa de San Lorenzo est une plage urbaine très accueillante, mais certains services dépendent de la saison et de l'organisation locale. Il est utile de distinguer ce qui est généralement stable, comme les accès ou la promenade, de ce qui peut évoluer, comme la surveillance, les douches ou l'aide à la baignade.",
+    "highlightsTitle": "Points clés sur les services",
+    "highlights": [
+      "Les accès piétons et le Paseo del Muro font partie de l'expérience centrale.",
+      "Les services saisonniers peuvent varier selon la date et l'organisation municipale.",
+      "La plage est connue pour le surf, la promenade et son usage urbain quotidien.",
+      "Si vous avez besoin d'un service précis, mieux vaut le confirmer avant la visite."
+    ],
+    "sections": [
+      {
+        "title": "Accès, promenade et usage quotidien",
+        "paragraphs": [
+          "L'un des grands atouts de San Lorenzo est sa connexion avec la ville. Les accès piétons et le Paseo del Muro la rendent confortable aussi bien pour une halte rapide que pour une visite plus longue avec marche, repos ou aller-retour sur le sable.",
+          "Cette intégration urbaine permet aussi de combiner facilement la plage avec cafés, restaurants, commerces ou balade plus large dans Gijón."
+        ],
+        "items": [
+          "Les accès répartis le long de la promenade aident à choisir l'entrée la plus adaptée.",
+          "C'est une plage agréable à parcourir même sans se baigner.",
+          "La proximité de la ville multiplie les possibilités autour de la visite."
+        ]
+      },
+      {
+        "title": "Services qui peuvent varier selon la saison",
+        "paragraphs": [
+          "Des éléments comme la surveillance, les douches, l'aide à la baignade accessible et d'autres services de soutien dépendent de la période et de l'organisation locale. Il vaut mieux les considérer comme saisonniers plutôt que comme garantis toute l'année.",
+          "Si votre visite dépend de l'un de ces services, le plus sûr est de vérifier les informations actualisées avant le déplacement."
+        ],
+        "items": [
+          "L'été concentre généralement la plus grande partie des services actifs.",
+          "L'accessibilité et l'aide à la baignade peuvent demander une vérification préalable.",
+          "Il est préférable de confirmer horaires et disponibilité pour votre date réelle de visite."
+        ]
+      },
+      {
+        "title": "Surf, promenade et autres usages habituels",
+        "paragraphs": [
+          "San Lorenzo se distingue aussi par sa culture surf et l'activité quotidienne du front de mer. Beaucoup de visiteurs viennent pour marcher, courir, prendre des photos ou profiter de l'ambiance côtière, même sans passer toute la journée sur le sable.",
+          "La plage fonctionne donc très bien à la fois comme destination principale et comme étape d'une visite plus large de Gijón."
+        ],
+        "items": [
+          "C'est une plage reconnue pour le surf quand les conditions sont favorables.",
+          "La promenade maintient le secteur vivant tout au long de la journée.",
+          "Elle peut aussi se vivre comme une halte urbaine sans organiser une journée complète de plage."
+        ]
+      }
+    ],
+    "faqTitle": "Questions fréquentes sur les services",
+    "faqItems": [
+      {
+        "q": "Y a-t-il des sauveteurs à Playa de San Lorenzo ?",
+        "a": "Il peut y avoir une surveillance en saison, mais la disponibilité exacte dépend de la date et de l'organisation locale."
+      },
+      {
+        "q": "Les douches et l'aide à la baignade sont-elles disponibles ?",
+        "a": "Elles peuvent l'être en saison, il vaut donc mieux confirmer l'organisation en cours si cela compte pour votre visite."
+      },
+      {
+        "q": "Est-ce une bonne plage pour se promener sans se baigner ?",
+        "a": "Oui. Le Paseo del Muro et le cadre urbain en font un lieu très recommandé pour marcher, courir ou simplement profiter du front de mer."
+      },
+      {
+        "q": "Peut-on surfer à San Lorenzo ?",
+        "a": "Oui. C'est une plage reconnue pour le surf, toujours selon l'état de la mer et les conditions de sécurité du moment."
+      }
+    ],
+    "mapCta": "Ouvrir l'emplacement dans Google Maps",
+    "relatedTitle": "Autres guides pratiques"
   },
   "references": {
     "title": "Données et Références",

@@ -26,6 +26,7 @@ const PHOTOS = [
 export default function Gallery() {
   const t = useTranslations('gallery');
   const [lightboxImage, setLightboxImage] = useState<string | null>(null);
+  const images = t.raw('images') as Array<{ alt: string; caption: string }>;
 
   const closeLightbox = () => setLightboxImage(null);
 
@@ -58,12 +59,12 @@ export default function Gallery() {
               >
                 <img 
                   src={src} 
-                  alt={i < 8 ? t(`images.${i}.alt`) : `Gallery image ${i + 1}`} 
+                  alt={images[i]?.alt ?? images[images.length - 1]?.alt ?? 'Playa de San Lorenzo'}
                   loading="lazy" 
                   className="w-full h-full object-cover select-none"
                 />
                 <div className="caption">
-                  {i < 8 ? t(`images.${i}.caption`) : `Image ${i + 1}`}
+                  {images[i]?.caption ?? images[images.length - 1]?.caption ?? 'Playa de San Lorenzo'}
                 </div>
               </div>
             </SwiperSlide>
@@ -100,7 +101,7 @@ export default function Gallery() {
             </button>
             <img 
               src={lightboxImage} 
-              alt="Enlarged view" 
+              alt="Playa de San Lorenzo"
               className="max-w-full max-h-full object-contain shadow-2xl rounded-lg cursor-default"
               onClick={(e) => e.stopPropagation()} // Prevent closing when clicking the image itself
             />

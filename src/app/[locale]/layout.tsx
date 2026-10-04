@@ -13,10 +13,13 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'meta' });
+  const canonicalPath = locale === 'es' ? '/' : `/${locale}`;
   return {
+    metadataBase: new URL('https://www.playadesanlorenzo.com'),
     title: t('title'),
     description: t('description'),
     alternates: {
+      canonical: canonicalPath,
       languages: {
         'es': '/',
         'en': '/en',
@@ -44,11 +47,6 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} suppressHydrationWarning>
       <head>
-        <link rel="alternate" hrefLang="es" href="https://sanmartinsbridge.com" />
-        <link rel="alternate" hrefLang="en" href="https://sanmartinsbridge.com/en" />
-        <link rel="alternate" hrefLang="fr" href="https://sanmartinsbridge.com/fr" />
-        <link rel="alternate" hrefLang="zh-Hant" href="https://sanmartinsbridge.com/zh-Hant" />
-        <link rel="alternate" hrefLang="x-default" href="https://sanmartinsbridge.com" />
         <script dangerouslySetInnerHTML={{
           __html: `
             (function() {

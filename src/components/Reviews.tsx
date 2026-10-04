@@ -1,11 +1,13 @@
 'use client';
 import { useTranslations } from 'next-intl';
 
-const COLORS = ['#0077b6', '#e94560', '#2d6a4f', '#e07c24', '#6c63ff', '#d63384', '#0d9488', '#b45309'];
-
 export default function Reviews() {
   const t = useTranslations('reviews');
-  const items = [0, 1, 2, 3, 4, 5];
+  const stats = [
+    { label: t('ratingLabel'), value: t('rating') },
+    { label: t('reviewCountLabel'), value: t('reviewCount') },
+    { label: t('updatedLabel'), value: t('updatedAt') },
+  ];
 
   return (
     <div style={{ backgroundColor: 'var(--bg-secondary)' }}>
@@ -17,46 +19,51 @@ export default function Reviews() {
           {t('declaration')}
         </p>
 
-        <div className="grid md:grid-cols-2 gap-4">
-          {items.map((i) => {
-            const name: string = t(`items.${i}.name`);
-            const initial = name.charAt(0).toUpperCase();
-            return (
-              <div key={i} className="review-card">
-                <div className="flex items-center gap-3 mb-3">
-                  <div
-                    className="w-10 h-10 rounded-full flex items-center justify-center text-white font-semibold text-sm"
-                    style={{ backgroundColor: COLORS[i % COLORS.length] }}
-                  >
-                    {initial}
+        <div className="grid md:grid-cols-2 gap-6 items-start">
+          <div className="bg-white dark:bg-gray-800 rounded-lg p-6 shadow-sm">
+            <div className="flex items-center gap-3 mb-4">
+              <span className="stars text-lg">★★★★★</span>
+              <span className="text-2xl font-semibold" style={{ color: 'var(--text-primary)' }}>
+                {t('rating')}
+              </span>
+            </div>
+            <p className="text-sm leading-relaxed mb-5" style={{ color: 'var(--text-secondary)' }}>
+              {t('summary')}
+            </p>
+            <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+              {stats.map((stat) => (
+                <div key={stat.label} className="rounded-lg p-4" style={{ backgroundColor: 'var(--bg-secondary)' }}>
+                  <div className="text-xs uppercase tracking-wide mb-1" style={{ color: 'var(--text-muted)' }}>
+                    {stat.label}
                   </div>
-                  <div>
-                    <div className="font-medium text-sm" style={{ color: 'var(--text-primary)' }}>{name}</div>
-                    <div className="text-xs" style={{ color: 'var(--text-muted)' }}>{t(`items.${i}.date`)}</div>
+                  <div className="font-semibold" style={{ color: 'var(--text-primary)' }}>
+                    {stat.value}
                   </div>
-                  <div className="ml-auto stars text-sm">★★★★★</div>
                 </div>
-                <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
-                  {t(`items.${i}.text`)}
-                </p>
-              </div>
-            );
-          })}
-        </div>
+              ))}
+            </div>
+          </div>
 
-        {/* See all link */}
-        <div className="mt-8 text-center">
-          <a
-            href="https://maps.app.goo.gl/aqnvo1aDhdaWHtMQA"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 text-sm font-medium hover:opacity-70 transition-opacity"
-            style={{ color: 'var(--accent)' }}
-            title={t('seeAll')}
-          >
-            {t('seeAll')}
-            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
-          </a>
+          <div className="bg-white dark:bg-gray-800 rounded-lg p-6 shadow-sm">
+            <h3 className="text-xl font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
+              {t('ctaTitle')}
+            </h3>
+            <p className="text-sm leading-relaxed mb-6" style={{ color: 'var(--text-secondary)' }}>
+              {t('ctaText')}
+            </p>
+            <a
+              href="https://maps.app.goo.gl/aqnvo1aDhdaWHtMQA"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn-primary"
+              title={t('seeAll')}
+            >
+              {t('seeAll')}
+            </a>
+            <p className="mt-4 text-xs leading-relaxed" style={{ color: 'var(--text-muted)' }}>
+              {t('sourceNote')}
+            </p>
+          </div>
         </div>
       </section>
     </div>
