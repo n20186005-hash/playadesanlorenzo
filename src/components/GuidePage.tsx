@@ -1,4 +1,7 @@
 import { Link } from '@/i18n/navigation';
+import { getLocale } from 'next-intl/server';
+import NearbyLinks from './NearbyLinks';
+import {getNearby} from '@/data/attractions';
 
 type GuideSection = {
   title: string;
@@ -33,7 +36,7 @@ type GuidePageProps = {
   relatedGuides: RelatedGuide[];
 };
 
-export default function GuidePage({
+export default async function GuidePage({
   backHome,
   title,
   description,
@@ -47,7 +50,9 @@ export default function GuidePage({
   relatedTitle,
   relatedGuides,
 }: GuidePageProps) {
+  const locale = await getLocale();
   return (
+    <>
     <div className="section pt-24">
       <Link href="/" className="inline-flex items-center gap-2 mb-8 text-sm font-medium hover:opacity-70 transition-opacity" style={{ color: 'var(--accent)' }}>
         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
@@ -158,5 +163,8 @@ export default function GuidePage({
         </div>
       </section>
     </div>
+    <section className="section text-sm"><h2 className="font-serif text-2xl mb-4">{getNearby(locale).labels.sources}</h2><a href="https://www.turismoasturias.es/en/descubre/costa/playas/playa-de-san-lorenzo" target="_blank" rel="noopener noreferrer" className="underline" style={{color: 'var(--accent)'}}>Turismo Asturias · Playa de San Lorenzo</a></section>
+    <NearbyLinks locale={locale} />
+    </>
   );
 }

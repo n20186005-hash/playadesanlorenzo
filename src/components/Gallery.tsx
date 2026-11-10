@@ -25,10 +25,10 @@ const PHOTOS = [
 
 export default function Gallery() {
   const t = useTranslations('gallery');
-  const [lightboxImage, setLightboxImage] = useState<string | null>(null);
+  const [lightboxIndex, setLightboxIndex] = useState<number | null>(null);
   const images = t.raw('images') as Array<{ alt: string; caption: string }>;
 
-  const closeLightbox = () => setLightboxImage(null);
+  const closeLightbox = () => setLightboxIndex(null);
 
   return (
     <section id="gallery" className="section">
@@ -55,7 +55,7 @@ export default function Gallery() {
             <SwiperSlide key={i}>
               <div 
                 className="gallery-item cursor-pointer"
-                onDoubleClick={() => setLightboxImage(src)}
+                onDoubleClick={() => setLightboxIndex(i)}
               >
                 <img 
                   src={src} 
@@ -86,7 +86,7 @@ export default function Gallery() {
       </p>
 
       {/* Lightbox */}
-      {lightboxImage && (
+      {lightboxIndex !== null && (
         <div 
           className="fixed inset-0 z-50 flex items-center justify-center bg-black/90 p-4 cursor-pointer"
           onClick={closeLightbox}
@@ -100,8 +100,8 @@ export default function Gallery() {
               <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
             </button>
             <img 
-              src={lightboxImage} 
-              alt="Playa de San Lorenzo"
+              src={PHOTOS[lightboxIndex]}
+              alt={images[lightboxIndex]?.alt ?? 'Playa de San Lorenzo'}
               className="max-w-full max-h-full object-contain shadow-2xl rounded-lg cursor-default"
               onClick={(e) => e.stopPropagation()} // Prevent closing when clicking the image itself
             />

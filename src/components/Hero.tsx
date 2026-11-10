@@ -19,7 +19,7 @@ export default function Hero() {
       </div>
 
       {/* Content */}
-      <div className="relative z-10 text-center text-white px-4 max-w-3xl mx-auto pt-16">
+      <div className="relative z-10 text-center text-white px-4 max-w-3xl mx-auto pt-24 pb-24">
         <h1 className="font-serif text-5xl md:text-7xl font-bold mb-4 leading-tight">
           {t('title')}
         </h1>
@@ -32,7 +32,7 @@ export default function Hero() {
           <div className="flex items-center gap-2">
             <span className="stars">★★★★★</span>
             <span className="font-semibold">{t('rating')}</span>
-            <span className="opacity-70">({t('reviewCount')} {t('reviewLabel')})</span>
+            <span className="opacity-70">({t('reviewCount')} {t('reviewLabel')}) · {t('ratingSource')}</span>
           </div>
           <span className="opacity-40">|</span>
           <span className="opacity-90">{t('hours')}</span>
@@ -60,7 +60,7 @@ export default function Hero() {
       </div>
 
       {/* Scroll indicator */}
-      <div className="absolute bottom-8 left-1/2 -translate-x-1/2 text-white/60 animate-bounce">
+      <div className="absolute bottom-14 left-1/2 -translate-x-1/2 text-white/60 animate-bounce">
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
       </div>
     </section>

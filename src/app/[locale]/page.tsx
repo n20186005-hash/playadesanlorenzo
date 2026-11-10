@@ -10,6 +10,7 @@ import MapEmbed from '@/components/MapEmbed';
 import References from '@/components/References';
 import Faq from '@/components/Faq';
 import GuideLinks from '@/components/GuideLinks';
+import NearbyLinks from '@/components/NearbyLinks';
 
 export default async function Home({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
@@ -31,17 +32,10 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
         sameAs: [
           'https://maps.app.goo.gl/aqnvo1aDhdaWHtMQA',
         ],
-        aggregateRating: {
-          '@type': 'AggregateRating',
-          ratingValue: '4.7',
-          reviewCount: '3269',
-        },
         address: {
           '@type': 'PostalAddress',
-          streetAddress: 'Paseo del Muro, Av. Rufo García Rendueles',
           addressLocality: 'Gijón',
           addressRegion: 'Asturias',
-          postalCode: '33203',
           addressCountry: 'ES',
         },
         geo: {
@@ -78,6 +72,7 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
       <Comparison />
       <Practical />
       <GuideLinks />
+      <NearbyLinks locale={locale} />
       <MapEmbed />
       <Faq />
       <References />

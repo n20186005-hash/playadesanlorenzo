@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { pageMetadata } from '@/lib/seo';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import GuidePage from '@/components/GuidePage';
 
@@ -23,21 +24,7 @@ type FaqItem = {
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'guideParking.meta' });
-  const canonical = locale === 'es' ? '/parking' : `/${locale}/parking`;
-
-  return {
-    title: t('title'),
-    description: t('description'),
-    alternates: {
-      canonical,
-      languages: {
-        es: '/parking',
-        en: '/en/parking',
-        fr: '/fr/parking',
-        'zh-Hant': '/zh-Hant/parking',
-      },
-    },
-  };
+  return pageMetadata(locale, '/parking', t('title'), t('description'));
 }
 
 export default async function ParkingPage({ params }: { params: Promise<{ locale: string }> }) {

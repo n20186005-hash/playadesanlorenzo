@@ -3,8 +3,7 @@ import {routing} from './i18n/routing';
 
 export default createMiddleware({
   ...routing,
-  // Completely disable automatic locale detection and redirection
-  // This is crucial for Google Search Console to index the site without "Redirect error"
+  // Keep language URLs stable regardless of browser preference.
   localeDetection: false,
 });
 

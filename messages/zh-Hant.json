@@ -10,25 +10,37 @@
     "map": "地圖",
     "privacy": "隱私",
     "terms": "條款",
-    "cookies": "Cookie 設置"
+    "cookies": "Cookie 設置",
+    "nearby": "周邊景點",
+    "menu": "導覽選單"
   },
   "hero": {
     "title": "位於希洪、阿斯圖里亞斯的 Playa de San Lorenzo",
     "subtitle": "探索希洪最具代表性的城市海灘，緊鄰 Paseo del Muro 與坎塔布里亞海",
     "rating": "4.7/5",
-    "reviewCount": "3,269",
+    "reviewCount": "3,302",
     "reviewLabel": "評價",
-    "hours": "自由開放海灘",
+    "hours": "請查當日公告與服務狀態",
     "openMaps": "在 Google 地圖中打開",
-    "tags": ["希洪", "阿斯圖里亞斯", "Paseo del Muro", "地圖", "交通方式", "衝浪", "服務", "日落"]
+    "tags": [
+      "希洪",
+      "阿斯圖里亞斯",
+      "Paseo del Muro",
+      "地圖",
+      "交通方式",
+      "衝浪",
+      "服務",
+      "日落"
+    ],
+    "ratingSource": "Google Maps · 2026/11/10"
   },
   "about": {
     "title": "探索 San Lorenzo 海灘",
-    "description": "Playa de San Lorenzo 是希洪最具代表性的海灘之一，位於城市中心、緊鄰 Paseo del Muro，海灘呈貝殼狀，長度約 1,550 公尺。這份指南整理了交通方式、地圖、服務、衝浪、無障礙設施與實用造訪資訊。",
+    "description": "Playa de San Lorenzo 是希洪最具代表性的海灘之一，位於城市中心、緊鄰 Paseo del Muro，海灘呈貝殼狀，長度約 1,500 公尺。這份指南整理了交通方式、地圖、服務、衝浪、無障礙設施與實用造訪資訊。",
     "highlights": {
       "title": "亮點",
       "items": [
-        "位於希洪市中心的約 1,550 公尺城市海灘",
+        "位於希洪市中心的約 1,500 公尺城市海灘",
         "沿著 Paseo del Muro 展開，面向坎塔布里亞海",
         "很適合散步、跑步、衝浪與欣賞夕陽",
         "夏季通常有季節性海灘服務與步行出入口",
@@ -39,26 +51,33 @@
     "keywords": {
       "title": "相關關鍵詞"
     },
-    "keywordsList": ["San Lorenzo 海灘", "希洪", "阿斯圖里亞斯", "城市海灘", "坎塔布里亞海", "衝浪"]
+    "keywordsList": [
+      "San Lorenzo 海灘",
+      "希洪",
+      "阿斯圖里亞斯",
+      "城市海灘",
+      "坎塔布里亞海",
+      "衝浪"
+    ]
   },
   "explore": {
     "title": "探索海洋環境",
     "items": [
       {
-        "title": "海濱長廊",
-        "description": "沿著 3 公里長的海濱長廊漫步，欣賞坎塔布里亞海美景。非常適合散步、跑步或騎行，同時享受新鮮空氣和日落美景。"
+        "title": "Paseo del Muro 海濱步道",
+        "description": "沿聖洛倫索旁的步道可觀察海灘與城市的關係，不必安排整天游泳。請依潮汐與自身行動需求選擇入口。"
       },
       {
-        "title": "水上運動",
-        "description": "享受衝浪、槳板衝浪和其他水上運動。海灘為初學者和專家提供理想條件，還有衝浪學校可供選擇。"
+        "title": "衝浪與海況",
+        "description": "聖洛倫索有衝浪文化，但是否適合活動取決於海況、經驗及當日指示。預訂前先向合格業者確認。"
       },
       {
-        "title": "海灘酒吧和美食",
-        "description": "在海灘酒吧放鬆身心，品嚐當地小吃和飲品。阿斯圖里亞斯美食與海洋氛圍完美結合。"
+        "title": "走向 Cimavilla",
+        "description": "由海灘西端可朝 San Pedro、Campo Valdés 與老城安排散步。周邊指南有助於選擇具體的文化參觀。"
       },
       {
-        "title": "家庭區域",
-        "description": "兒童遊樂區、完善服務設施和旺季安全監督。海灘安全且適合全家遊玩。"
+        "title": "確認所需服務",
+        "description": "救生、協助入浴與其他資源可能按季節運作。出發前確認實際需求；城市海灘不等於保證安全的泳區。"
       }
     ]
   },
@@ -68,34 +87,73 @@
     "source": "照片：Unsplash（最後更新：2026 年）",
     "viewAll": "在 Google 地圖上查看所有照片",
     "images": [
-      { "alt": "日出時分的 San Lorenzo 海灘", "caption": "日出時分的海灘景色" },
-      { "alt": "Playa de San Lorenzo 的沙灘與海岸線", "caption": "金色沙灘與坎塔布里亞海海岸" },
-      { "alt": "面向 Playa de San Lorenzo 的 Paseo del Muro", "caption": "沿著海灘延伸的海濱步道" },
-      { "alt": "希洪 Playa de San Lorenzo 的衝浪景象", "caption": "衝浪者利用海浪活動" },
-      { "alt": "Playa de San Lorenzo 的夕陽", "caption": "傍晚光線灑在海灣上" },
-      { "alt": "遊客漫步於 Playa de San Lorenzo", "caption": "夏季城市海灘的氣氛" },
-      { "alt": "Playa de San Lorenzo 的出入口", "caption": "海灘入口與步道旁的沙地" },
-      { "alt": "Playa de San Lorenzo 全景", "caption": "希洪城市海灘的寬闊視角" },
-      { "alt": "San Lorenzo 的坎塔布里亞海浪", "caption": "外海浪花拍向岸邊" },
-      { "alt": "San Lorenzo 海濱步道", "caption": "海與城市之間的散步路線" },
-      { "alt": "希洪的 Playa de San Lorenzo", "caption": "城市背景下的寬闊海灘景觀" },
-      { "alt": "Playa de San Lorenzo 的低潮景色", "caption": "退潮時露出的更多沙地" },
-      { "alt": "Playa de San Lorenzo 旁的城市海岸線", "caption": "希洪面向海灘的城市立面" }
+      {
+        "alt": "日出時分的 San Lorenzo 海灘",
+        "caption": "日出時分的海灘景色"
+      },
+      {
+        "alt": "Playa de San Lorenzo 的沙灘與海岸線",
+        "caption": "金色沙灘與坎塔布里亞海海岸"
+      },
+      {
+        "alt": "面向 Playa de San Lorenzo 的 Paseo del Muro",
+        "caption": "沿著海灘延伸的海濱步道"
+      },
+      {
+        "alt": "希洪 Playa de San Lorenzo 的衝浪景象",
+        "caption": "衝浪者利用海浪活動"
+      },
+      {
+        "alt": "Playa de San Lorenzo 的夕陽",
+        "caption": "傍晚光線灑在海灣上"
+      },
+      {
+        "alt": "遊客漫步於 Playa de San Lorenzo",
+        "caption": "夏季城市海灘的氣氛"
+      },
+      {
+        "alt": "Playa de San Lorenzo 的出入口",
+        "caption": "海灘入口與步道旁的沙地"
+      },
+      {
+        "alt": "Playa de San Lorenzo 全景",
+        "caption": "希洪城市海灘的寬闊視角"
+      },
+      {
+        "alt": "San Lorenzo 的坎塔布里亞海浪",
+        "caption": "外海浪花拍向岸邊"
+      },
+      {
+        "alt": "San Lorenzo 海濱步道",
+        "caption": "海與城市之間的散步路線"
+      },
+      {
+        "alt": "希洪的 Playa de San Lorenzo",
+        "caption": "城市背景下的寬闊海灘景觀"
+      },
+      {
+        "alt": "Playa de San Lorenzo 的低潮景色",
+        "caption": "退潮時露出的更多沙地"
+      },
+      {
+        "alt": "Playa de San Lorenzo 旁的城市海岸線",
+        "caption": "希洪面向海灘的城市立面"
+      }
     ]
   },
   "reviews": {
     "title": "評分與評論",
     "declaration": "此區塊僅摘要顯示 Google 地圖上的公開評分，並連回原始來源，方便查看最新評論、照片與更新資訊。",
-    "summary": "Playa de San Lorenzo 因市中心位置、海濱步道、坎塔布里亞海景觀，以及適合散步、衝浪與度過整天的氛圍，而長期獲得很高評價。",
+    "summary": "2026 年 11 月 10 日查閱時，Google Maps 顯示 4.7／5、3,302 則評論。數字屬該外部來源且可能變動，並非本網站自行蒐集的評分。",
     "rating": "4.7/5",
     "ratingLabel": "評分",
-    "reviewCount": "3,269",
+    "reviewCount": "3,302",
     "reviewCountLabel": "評論數",
     "updatedLabel": "更新時間",
-    "updatedAt": "2026 年 10 月",
+    "updatedAt": "2026 年 11 月 10 日",
     "ctaTitle": "到原始來源查看評論",
     "ctaText": "若要查看完整評論、近期照片，以及可能變動的通知或資訊，請直接打開 Playa de San Lorenzo 的 Google 地圖頁面。",
-    "sourceNote": "本站不展示虛構評論，也不刊登無法驗證的摘錄；社會評價僅做摘要，實際內容請以 Google 地圖為準。",
+    "sourceNote": "資料與審閱：Playa de San Lorenzo 編輯團隊 · 2026 年 11 月 10 日",
     "seeAll": "在 Google 地圖中查看評論"
   },
   "comparison": {
@@ -103,26 +161,26 @@
     "description": "發現希洪的其他海灘以及遊覽 San Lorenzo 的實用建議。",
     "nearbyBeaches": {
       "title": "附近海灘",
-      "poniente": "更安靜的家庭海灘，非常適合小孩。海浪較小，海水更平靜。",
-      "arbeyal": "更小更私密的海灘，非常適合尋求遠離人群寧靜的人。"
+      "poniente": "位於遊艇港周邊、1990 年代形成的另一座城市海灘，與聖洛倫索不同。獨立指南介紹歷史、無障礙與服務。",
+      "arbeyal": "若要將 Arbeyal 加入行程，請查該海灘的市政府資料，並確認所選日期的入口、服務與游泳公告。"
     },
     "tips": {
       "title": "遊覽建議",
       "bestTime": "最佳時間是日出時分拍照，以及日落時分浪漫散步。",
       "safety": "始終遵守海灘旗幟標誌，注意海流。旺季時在救生員附近游泳。",
-      "parking": "夏季早點到達，在靠近海灘的地方找到免費停車位。海濱長廊有幾個停車區。",
-      "services": "充分利用旺季的躺椅和遮陽傘租賃服務。海灘酒吧提供清涼飲料和當地小吃。"
+      "parking": "請查各停車處標示、費率與空位，不保證海灘旁有免費停車位。",
+      "services": "出發前確認當季服務，不預設有躺椅、遮陽傘出租或全年固定協助。"
     },
     "safety": {
       "title": "安全資訊",
-      "content": "San Lorenzo 是旺季有救生員值守的海灘，配有安全標誌旗。注意海況，始終遵守救生員的指示。"
+      "content": "請查當天旗號與公告。救生服務可能按季節提供；有人值守或海灘介紹都不構成游泳安全保證。"
     }
   },
   "practical": {
     "title": "實用資訊",
     "address": {
       "label": "地址",
-      "value": "Paseo del Muro 與 Av. Rufo García Rendueles, 33203 Gijón, Asturias, Spain"
+      "value": "Paseo del Muro · Playa de San Lorenzo, Gijón, Asturias, España"
     },
     "hours": {
       "label": "開放與季節資訊",
@@ -134,7 +192,7 @@
     },
     "parking": {
       "label": "停車場",
-      "value": "周邊有地下停車場與鄰近街道停車位。夏季、假日與週末需求較高，通常建議提早抵達。"
+      "value": "請查各停車處標示、費率與空位，不保證海灘旁有免費停車位。"
     },
     "accessibility": {
       "label": "無障礙設施",
@@ -143,7 +201,7 @@
   },
   "map": {
     "title": "位置與交通方式",
-    "address": "Playa de San Lorenzo, Gijón, Asturias, Spain",
+    "address": "Playa de San Lorenzo · Paseo del Muro · Gijón, Asturias",
     "description": "這片海灘位於希洪市中心的 Paseo del Muro 沿線。可透過 Google 地圖開啟精確位置，選擇步行、開車或大眾運輸路線。",
     "iframeTitle": "希洪 Playa de San Lorenzo 地圖",
     "openMaps": "在 Google 地圖中打開"
@@ -157,7 +215,7 @@
       },
       {
         "q": "Playa de San Lorenzo 有多長？",
-        "a": "主要海灘長度約為 1,550 公尺，是西班牙北部相當具代表性的城市海灘之一。"
+        "a": "主要海灘長度約為 1,500 公尺，是西班牙北部相當具代表性的城市海灘之一。"
       },
       {
         "q": "怎麼前往 Playa de San Lorenzo？",
@@ -207,7 +265,7 @@
       "description": "前往 Playa de San Lorenzo 的方式指南：步行、開車、Google 地圖、市區交通，以及在希洪移動時的實用建議。"
     },
     "backHome": "返回首頁",
-    "lastUpdated": "更新時間：2026 年 10 月",
+    "lastUpdated": "資料與審閱：Playa de San Lorenzo 編輯團隊 · 2026 年 11 月 10 日",
     "title": "如何前往希洪的 Playa de San Lorenzo",
     "description": "Playa de San Lorenzo 位於希洪最知名的區域之一，沿著 Paseo del Muro 展開。最適合的前往方式取決於你的出發點、是否自行開車，以及造訪季節，因為夏季與週末通常會有更多車流與人潮。",
     "highlightsTitle": "出發前先掌握這些重點",
@@ -283,7 +341,7 @@
       "description": "Playa de San Lorenzo 停車建議：夏季停車預期、周邊選項、尖峰時段，以及降低壓力的抵達方式。"
     },
     "backHome": "返回首頁",
-    "lastUpdated": "更新時間：2026 年 10 月",
+    "lastUpdated": "資料與審閱：Playa de San Lorenzo 編輯團隊 · 2026 年 11 月 10 日",
     "title": "Playa de San Lorenzo 附近哪裡停車",
     "description": "在 Playa de San Lorenzo 附近找停車位，很大程度取決於日期、時間與季節。周邊雖然有多種選擇，但在夏季、假日與週末，通常需要預留更多時間，也要接受最靠近沙灘的位置不一定有空位。",
     "highlightsTitle": "停車前先知道",
@@ -359,7 +417,7 @@
       "description": "Playa de San Lorenzo 依季節可能提供哪些服務：出入口、救生、淋浴、無障礙設施、衝浪、海濱步道與造訪前建議。"
     },
     "backHome": "返回首頁",
-    "lastUpdated": "更新時間：2026 年 10 月",
+    "lastUpdated": "資料與審閱：Playa de San Lorenzo 編輯團隊 · 2026 年 11 月 10 日",
     "title": "Playa de San Lorenzo 的服務",
     "description": "Playa de San Lorenzo 是一片對訪客相當友善的城市海灘，但部分服務會隨季節與在地安排而改變。最實用的理解方式，是把相對穩定的項目，例如出入口與步道，與可能變動的項目，例如救生、淋浴或協助下水服務分開看待。",
     "highlightsTitle": "服務重點整理",
@@ -431,11 +489,11 @@
   },
   "references": {
     "title": "數據和參考資料",
-    "disclaimer": "本網站是獨立的第三方旅遊資訊入口網站。資訊來自公共資源（旅遊局和維基百科）和 Google 地圖基礎數據。",
+    "disclaimer": "本站是獨立旅遊資訊網站。指南連結官方資料來源；Google Maps 數字屬註明日期的外部查閱結果。",
     "sources": {
       "google": "Google 地圖 — 評分、評價和地理數據",
       "unsplash": "Unsplash — 圖片庫中使用的照片",
-      "wikipedia": "維基百科 — 歷史和文化資訊"
+      "wikipedia": "資料與審閱：Playa de San Lorenzo 編輯團隊 · 2026 年 11 月 10 日"
     }
   },
   "footer": {
@@ -448,20 +506,20 @@
   "privacy": {
     "backHome": "返回首頁",
     "title": "隱私政策",
-    "lastUpdated": "最後更新：2026 年 3 月",
-    "intro": "本隱私政策說明 playadesanlorenzo.com 在您訪問我們的網站時如何收集、使用和保護您的個人資訊。",
+    "lastUpdated": "最後更新：2026 年 11 月 10 日",
+    "intro": "此頁說明 playadesanlorenzo.com 可見的資源與瀏覽偏好設定。",
     "sections": [
       {
         "title": "我們收集的資訊",
-        "content": "我們收集提供服務所需的最少數據。這可能包括：瀏覽數據（IP 地址、瀏覽器類型、訪問的頁面）、Cookie 和類似技術，以及您通過聯繫表格或電子郵件自願提供的任何資訊。"
+        "content": "本站提供公開旅遊內容，沒有聯絡表單、帳戶或預訂功能。載入外部資源時，提供者可能收到連線技術資料。"
       },
       {
         "title": "我們如何使用您的資訊",
-        "content": "我們使用收集的資訊來：改善網站內容和用戶體驗、分析流量和使用模式、回應請求並履行我們的法律義務。"
+        "content": "主題偏好儲存在瀏覽器中。此頁設定不應被理解為對外部服務或代管工具的控制。"
       },
       {
         "title": "第三方服務",
-        "content": "我們的網站可能使用第三方服務，如 Google 地圖（用於嵌入式地圖和位置數據）、Google Analytics（用於流量分析）和 Unsplash（用於照片）。這些服務有自己的隱私政策。"
+        "content": "嵌入地圖使用 Google Maps，字型使用 Google Fonts，相關提供者適用自身政策。圖庫照片由本站提供。"
       },
       {
         "title": "您的權利",
@@ -476,7 +534,7 @@
   "terms": {
     "backHome": "返回首頁",
     "title": "服務條款",
-    "lastUpdated": "最後更新：2026 年 3 月",
+    "lastUpdated": "最後更新：2026 年 11 月 10 日",
     "intro": "通過訪問和使用 playadesanlorenzo.com，您同意受這些服務條款的約束。",
     "sections": [
       {
@@ -489,7 +547,7 @@
       },
       {
         "title": "知識產權",
-        "content": "網站設計和原創內容受版權保護。照片來自 Unsplash，根據其許可條款。Google 地圖數據根據 Google 的服務條款使用。"
+        "content": "照片署名列於圖庫。外部資源與服務適用各自的使用條款。"
       },
       {
         "title": "責任限制",
@@ -504,28 +562,28 @@
   "cookieSettings": {
     "backHome": "返回首頁",
     "title": "Cookie 設置",
-    "lastUpdated": "最後更新：2026 年 3 月",
-    "intro": "我們使用 Cookie 來改善您的瀏覽體驗。您可以在下方管理您的偏好設置。",
+    "lastUpdated": "最後更新：2026 年 11 月 10 日",
+    "intro": "本站在瀏覽器儲存主題偏好。此頁沿用的切換項目只儲存本機選擇，不會啟用或停用外部服務。",
     "necessary": {
       "title": "基本 Cookie",
-      "description": "網站正常運行所必需。無法禁用。",
+      "description": "此處說明瀏覽資源與偏好，不宣稱本站安裝某種特定的必要 Cookie。",
       "status": "始終啟用"
     },
     "analytics": {
       "title": "分析 Cookie",
-      "description": "通過收集匿名使用數據，幫助我們了解訪問者如何與我們的網站互動。",
+      "description": "站點程式碼沒有分析工具初始化程式。此切換項目不控制代管提供者可能提供的服務。",
       "enabled": "已啟用",
       "disabled": "已禁用"
     },
     "preferences": {
       "title": "偏好 Cookie",
-      "description": "記住您的設置，如語言和主題偏好。",
+      "description": "主題選擇另外儲存，此沿用的切換項目不控制該儲存。",
       "enabled": "已啟用",
       "disabled": "已禁用"
     },
     "marketing": {
       "title": "營銷 Cookie",
-      "description": "用於顯示相關廣告和衡量活動效果。",
+      "description": "站點程式碼未初始化廣告服務，此切換項目只儲存本機選擇。",
       "enabled": "已啟用",
       "disabled": "已禁用"
     },

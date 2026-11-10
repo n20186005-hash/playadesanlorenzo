@@ -1,0 +1,324 @@
+{
+  "labels": {
+    "title": "À découvrir près de San Lorenzo",
+    "description": "Quatre visites pour poursuivre la découverte de l’histoire, de l’art et du littoral de Gijón.",
+    "back": "Retour à San Lorenzo",
+    "intro": "Découvrir le lieu",
+    "tips": "Conseils de visite",
+    "highlights": "Points forts",
+    "about": "À propos du lieu",
+    "facts": "Informations essentielles",
+    "hours": "Horaires",
+    "admission": "Entrée",
+    "transport": "Comment venir",
+    "appeal": "Les raisons de la visite",
+    "route": "Parcours proposé",
+    "notices": "Avant de partir",
+    "photo": "Photographie",
+    "stay": "Où séjourner",
+    "faq": "Questions fréquentes",
+    "map": "Adresse et carte",
+    "sources": "Sources et révision éditoriale",
+    "reviewed": "Révision par la rédaction de Playa de San Lorenzo · 10 novembre 2026",
+    "related": "Poursuivre la découverte",
+    "mapCta": "Ouvrir le lieu dans Google Maps",
+    "cta": "Lire le guide",
+    "practical": "Guides pratiques de San Lorenzo"
+  },
+  "pages": {
+    "cimavilla": {
+      "title": "Cimavilla : le quartier maritime historique de Gijón",
+      "tagline": "Rues, places et mémoire du travail près de San Lorenzo",
+      "description": "Découvrir Cimavilla depuis San Lorenzo : places historiques, pêcheurs et ouvrières du tabac, parcours à pied et liens vers la colline et les thermes.",
+      "intro": "Cimavilla, également écrit Cimadevilla, est le quartier haut de Gijón. Son intérêt réside dans les rues reliant la plage, les places et le port, plutôt que dans un seul monument. Pêcheurs, artisans, militaires et ouvrières du tabac participent à son histoire.",
+      "tips": [
+        "Prenez l’extrémité ouest de San Lorenzo et San Pedro comme repères de départ.",
+        "Le parcours officiel comporte des rues étroites et pentues : vérifiez votre itinéraire si vous devez éviter marches ou dénivelé.",
+        "Distinguez la promenade dans les rues publiques des visites de musées, églises et autres intérieurs."
+      ],
+      "highlights": [
+        "La Plaza de Jovellanos et son cadre patrimonial.",
+        "La Plaza del Lavaderu, officiellement Plaza Periodista Arturo Arias.",
+        "La mémoire des cigarreras et de l’ancienne Tabacalera.",
+        "La Plaza del Marqués, en liaison avec le port de plaisance."
+      ],
+      "about": "Les récits culturels municipaux situent ici une part essentielle de l’histoire maritime et sociale de Gijón. Les personnes nées dans le quartier sont appelées playos. Les parcours officiels relient San Pedro aux places intérieures et au port : une découverte culturelle complémentaire de la plage.",
+      "facts": [
+        [
+          "Lieu",
+          "Cimavilla / Cimadevilla, Gijón, Asturies"
+        ],
+        [
+          "Type de visite",
+          "Quartier historique et promenade urbaine"
+        ],
+        [
+          "Lien avec San Lorenzo",
+          "Par les abords de San Pedro"
+        ],
+        [
+          "Visites intérieures",
+          "Conditions propres à chaque lieu"
+        ]
+      ],
+      "transport": "À pied, San Pedro et Campo Valdés servent de repères entre San Lorenzo et les rues du quartier. Depuis un autre secteur, calculez le trajet vers votre première étape. Consultez les informations municipales actuelles pour les transports et les restrictions automobiles ; l’accès en voiture ne doit pas être supposé dans toutes les rues.",
+      "appeal": [
+        {
+          "title": "Un quartier façonné par les métiers",
+          "text": "Pêche, artisanat et industrie du tabac composent l’histoire locale. L’ancienne Tabacalera, auparavant un couvent, permet de comprendre le rôle du travail salarié des femmes. Le cadre extérieur de l’ancienne Tabacalera permet de reconnaître cette histoire pendant la promenade ; consultez les conditions d’accès pour toute visite intérieure."
+        },
+        {
+          "title": "Des places aux histoires différentes",
+          "text": "Jovellanos, Lavaderu et Marqués donnent trois repères à la promenade. Le palais de Revillagigedo, près de Marqués, est baroque malgré l’apparence médiévale de ses tours. Observer ces différences enrichit la visite au-delà d’une simple succession de façades."
+        }
+      ],
+      "route": [
+        "Depuis San Pedro, rejoignez Campo Valdés et décidez si vous visitez d’abord le musée des thermes.",
+        "Poursuivez vers la Plaza de Jovellanos, puis la Plaza del Lavaderu pour une autre lecture de l’histoire sociale.",
+        "Choisissez entre la colline de Santa Catalina ou la Plaza del Marqués et le port."
+      ],
+      "notices": [
+        "Le quartier est habité : laissez le passage dans les rues étroites et respectez la vie privée en photographiant les logements.",
+        "Adaptez les étapes à vos intérêts et à la mobilité du groupe, en consultant les accès et restrictions du jour."
+      ],
+      "photo": "Les places de Jovellanos et du Marqués présentent des échelles et des détails architecturaux différents. Photographiez depuis l’espace public sans obstruer les entrées ni supposer que les bâtiments se visitent.",
+      "stay": "Pour privilégier le quartier historique, comparez le centre et les abords de Cimavilla avec le front de San Lorenzo. Avant de réserver, vérifiez l’accès avec des bagages, les pentes du trajet et le bruit susceptible d’affecter votre séjour.",
+      "faq": [
+        {
+          "q": "Cimavilla et Cimadevilla sont-ils deux lieux ?",
+          "a": "Non. Les deux noms désignent le même quartier haut de Gijón."
+        },
+        {
+          "q": "Peut-on combiner la visite avec la plage ?",
+          "a": "Oui. Le parcours culturel municipal utilise San Pedro comme repère et relie le quartier au front de mer. Les thermes et la colline font l’objet de guides distincts."
+        },
+        {
+          "q": "Existe-t-il un billet ou un horaire unique ?",
+          "a": "Organisez les musées, églises et activités séparément de la promenade dans les rues : chaque lieu a ses horaires et ses conditions d’entrée."
+        }
+      ],
+      "address": "Cimavilla, Gijón, Asturies, Espagne"
+    },
+    "cerro-de-santa-catalina": {
+      "title": "Colline de Santa Catalina et Elogio del Horizonte",
+      "tagline": "La sculpture d’Eduardo Chillida face au paysage cantabrique",
+      "description": "Visiter Santa Catalina et Elogio del Horizonte à Gijón : histoire de l’œuvre, liaison avec Cimavilla et conseils pour cette promenade en plein air.",
+      "intro": "La colline de Santa Catalina prolonge Cimavilla vers la mer. Le promontoire et l’Elogio del Horizonte forment une même visite : l’espace ouvert permet de comprendre la place de cette sculpture dans le paysage de Gijón.",
+      "tips": [
+        "Associez la colline à Cimavilla en choisissant un parcours adapté à votre mobilité.",
+        "Consultez la météo et les avis locaux avant cette sortie en plein air.",
+        "Observez l’œuvre de l’extérieur puis depuis son espace intérieur en laissant de la place aux autres."
+      ],
+      "highlights": [
+        "Elogio del Horizonte, œuvre d’Eduardo Chillida de 1990.",
+        "Sculpture en béton armé coulée sur place.",
+        "Le promontoire de Santa Catalina, aussi nommé L’Atalaya dans le parcours culturel.",
+        "Une continuation du quartier historique et du front de San Lorenzo."
+      ],
+      "about": "La position de la colline eut une importance stratégique dans l’histoire de la ville. Aujourd’hui, son paysage dialogue avec l’œuvre de Chillida, inaugurée le 9 juin 1990. En parcourant le promontoire et en changeant de position devant la sculpture, vous verrez la mer et le ciel encadrés par sa structure ouverte.",
+      "facts": [
+        [
+          "Lieu",
+          "Cerro de Santa Catalina, Gijón"
+        ],
+        [
+          "Œuvre",
+          "Elogio del Horizonte"
+        ],
+        [
+          "Artiste et date",
+          "Eduardo Chillida Juantegui · 1990"
+        ],
+        [
+          "Matériau et dimensions",
+          "Béton armé · environ 10 m de haut et 500 tonnes"
+        ]
+      ],
+      "transport": "Les parcours officiels relient les rues de Cimavilla à la colline. Un autre parcours municipal descend de Santa Catalina vers San Lorenzo par les abords du Club de Regatas. Choisissez le sens selon votre point de départ et votre mobilité. Pour éviter marches ou pentes, renseignez-vous sur les caractéristiques du trajet avant de partir.",
+      "appeal": [
+        {
+          "title": "Une forme qui encadre l’horizon",
+          "text": "Deux appuis soutiennent une structure elliptique ouverte. La masse du béton contraste avec le ciel et la mer ; se déplacer modifie l’espace encadré. Cette échelle fait de l’œuvre à la fois une sculpture et un lieu où s’arrêter."
+        },
+        {
+          "title": "Regarder et écouter",
+          "text": "Le parcours municipal suggère de se placer à l’intérieur pour percevoir la relation de l’œuvre au son de la mer. Il s’agit d’une invitation à l’expérience artistique, sans garantie d’un effet acoustique identique selon le vent et le bruit."
+        }
+      ],
+      "route": [
+        "Parcourez d’abord Cimavilla pour situer la colline dans son contexte urbain.",
+        "Observez la sculpture de l’extérieur, puis depuis l’espace entre ses appuis si l’accès est autorisé.",
+        "Revenez par le quartier ou poursuivez vers le front de mer en suivant les indications et l’état du parcours."
+      ],
+      "notices": [
+        "Vent, pluie et état du sol peuvent modifier le confort de la promenade. Respectez fermetures et signalisation.",
+        "Avant de partir, consultez les avis locaux et la signalisation d’accès ; événements ou entretien peuvent modifier le parcours sur la colline."
+      ],
+      "photo": "La structure ouverte offre plusieurs cadrages avec l’horizon. Préservez le passage et respectez les éventuelles barrières temporaires.",
+      "stay": "Comparez le centre de Gijón, Cimavilla et le front de San Lorenzo pour associer art public, quartier ancien et plage. Vérifiez le trajet réel vers votre hébergement : la proximité sur une carte ne garantit pas un accès plat.",
+      "faq": [
+        {
+          "q": "Qui a créé Elogio del Horizonte ?",
+          "a": "Eduardo Chillida Juantegui. L’œuvre date de 1990 et fut inaugurée le 9 juin de cette année."
+        },
+        {
+          "q": "La colline et la sculpture se visitent-elles ensemble ?",
+          "a": "Oui. La sculpture se trouve sur la colline de Santa Catalina : vous pouvez découvrir l’œuvre en parcourant le promontoire face à la mer."
+        },
+        {
+          "q": "Combien de temps faut-il depuis San Lorenzo ?",
+          "a": "La durée dépend de votre accès à la plage, du parcours choisi et de votre rythme. Calculez le trajet sur la carte et prévoyez une marge pour la montée et les arrêts."
+        }
+      ],
+      "address": "Elogio del Horizonte, Cerro de Santa Catalina, Gijón, Asturies, Espagne"
+    },
+    "termas-romanas-campo-valdes": {
+      "title": "Thermes romains de Campo Valdés : guide du musée",
+      "tagline": "Comprendre les salles de bain et le chauffage romain sur place",
+      "description": "Musée des thermes romains de Campo Valdés à Gijón : visite, horaires ordinaires, entrée gratuite, groupes et liaison avec San Lorenzo.",
+      "intro": "Sous Campo Valdés, devant l’église San Pedro, le musée conserve les vestiges de thermes publics romains à leur emplacement d’origine. Cette visite archéologique intérieure complète la découverte de la plage et des rues de Cimavilla.",
+      "tips": [
+        "Commencez par organiser la visite du musée : son calendrier est distinct de la promenade extérieure.",
+        "Les groupes doivent contacter le musée en amont ; leurs modalités diffèrent des visites individuelles.",
+        "Pour un parcours adapté, faites confirmer les zones accessibles et la présence de passerelles ou de marches."
+      ],
+      "highlights": [
+        "Une succession de salles froides, tempérées et chaudes.",
+        "Le chauffage sous le sol, ou hypocaustum.",
+        "Maquettes, audiovisuel et objets pour lire le site.",
+        "Vestiges de peintures murales et archéologie conservée in situ."
+      ],
+      "about": "Les vestiges furent découverts en 1903. Le musée actuel ouvrit en 1995 pour conserver et expliquer l’ensemble à son emplacement d’origine. La visite relie l’organisation des bains aux techniques de chauffage et aux transformations ultérieures du site, dont un usage funéraire médiéval.",
+      "facts": [
+        [
+          "Nom",
+          "Museo de las Termas Romanas de Campo Valdés"
+        ],
+        [
+          "Lieu",
+          "Campo Valdés, face à San Pedro, Gijón"
+        ],
+        [
+          "Type",
+          "Musée de site archéologique"
+        ],
+        [
+          "Groupes et renseignements",
+          "Tél. +34 985 185 151"
+        ]
+      ],
+      "hours": "Horaires ordinaires publiés par Turismo Asturias et la municipalité, consultés le 10 novembre 2026 : du mardi au vendredi, 09:30–14:00 et 17:00–19:30 ; samedis, dimanches et jours fériés, 10:00–14:00 et 17:00–19:30. Fermeture le lundi, les 1er et 6 janvier, le mardi de Carnaval, le 15 août et les 24, 25 et 31 décembre. Confirmez auprès du musée les modifications ou fermetures temporaires.",
+      "admission": "L’entrée ordinaire est indiquée comme gratuite par les sources officielles consultées. Cela ne garantit pas la gratuité des programmes spéciaux, visites privées ou produits externes. Les groupes doivent se renseigner sur la réservation téléphonique ; des modalités particulières sont publiées pour les groupes de plus de 15 personnes du 1er juin au 30 septembre.",
+      "transport": "Depuis l’extrémité ouest de San Lorenzo, prenez San Pedro comme repère pour Campo Valdés. Depuis un autre lieu, sélectionnez le musée lui-même dans votre itinéraire. Consultez les informations municipales pour les bus et accès actuels.",
+      "appeal": [
+        {
+          "title": "Suivre l’eau et la chaleur",
+          "text": "La succession des salles explique le fonctionnement d’un bain romain. Le hypocaustum montre le chauffage par-dessous le sol, tandis que les maquettes facilitent la compréhension de vestiges parfois difficiles à interpréter au premier regard."
+        },
+        {
+          "title": "Plusieurs couches d’histoire",
+          "text": "Le récit dépasse la période romaine. Peintures et traces d’usages ultérieurs montrent les changements de Campo Valdés. Suivez les explications du musée pour distinguer les phases plutôt que d’attribuer tous les éléments à une même époque."
+        }
+      ],
+      "route": [
+        "Vérifiez les horaires puis empruntez l’entrée signalée du musée à Campo Valdés.",
+        "Commencez par l’introduction et les maquettes afin de comprendre le plan des salles.",
+        "Suivez le parcours de visite et repérez le système de chauffage avant de ressortir vers Cimavilla."
+      ],
+      "notices": [
+        "Les horaires constituent une vérification datée, sans garantie d’ouverture lors de chaque jour férié.",
+        "Les horaires particuliers des groupes ne s’appliquent pas à tous les visiteurs individuels. Contactez le musée pour l’accessibilité."
+      ],
+      "stay": "Le centre et les abords de San Lorenzo permettent d’associer musées et promenade maritime. Si cette visite est prioritaire, vérifiez le jour de fermeture avant de fixer nuits et déplacements.",
+      "faq": [
+        {
+          "q": "L’entrée est-elle gratuite ?",
+          "a": "L’entrée ordinaire est annoncée gratuite par les sources officielles consultées le 10 novembre 2026. Vérifiez séparément les activités spéciales."
+        },
+        {
+          "q": "Le musée ouvre-t-il le lundi ?",
+          "a": "Le calendrier ordinaire consulté indique une fermeture le lundi et à certaines dates fériées."
+        },
+        {
+          "q": "Est-ce un site extérieur ?",
+          "a": "Non. C’est un musée de site sous Campo Valdés, face à San Pedro, avec des vestiges conservés sur place."
+        }
+      ],
+      "address": "Museo de las Termas Romanas de Campo Valdés, Campo Valdés, Gijón, Asturies, Espagne"
+    },
+    "playa-de-poniente": {
+      "title": "Plage de Poniente : un autre littoral de Gijón",
+      "tagline": "Du port et des anciens chantiers navals au sable urbain",
+      "description": "Guide de la plage de Poniente ou Pando à Gijón : histoire, parcours depuis Cimavilla et le port, accessibilité et services saisonniers.",
+      "intro": "Poniente, aussi appelée plage de Pando, est une destination distincte de San Lorenzo. Près du port de plaisance, elle prolonge la promenade sur le front de mer occidental du centre de Gijón, avec une histoire liée à la transformation d’anciens chantiers navals.",
+      "tips": [
+        "Associez-la à Cimavilla et au port au lieu de la confondre avec un accès de San Lorenzo.",
+        "Distinguez l’accès à la plage de la saison et des horaires de surveillance.",
+        "Confirmez l’aide à la baignade ou le matériel adapté pour votre date précise."
+      ],
+      "highlights": [
+        "Une plage urbaine artificielle créée au milieu des années 1990.",
+        "Une étape du parcours piéton Cimavilla–Poniente.",
+        "Des ressources d’accessibilité décrites par les sources officielles.",
+        "Un paysage lié au port et à la régénération urbaine."
+      ],
+      "about": "Le sable a été aménagé dans les années 1990 sur des terrains auparavant occupés par des chantiers navals. Poniente illustre ainsi l’évolution du front de mer de Gijón. Son environnement portuaire et son histoire lui donnent un intérêt propre, distinct de San Lorenzo.",
+      "facts": [
+        [
+          "Nom",
+          "Playa de Poniente / Playa de Pando"
+        ],
+        [
+          "Lieu",
+          "Calle Rodríguez San Pedro, Gijón"
+        ],
+        [
+          "Type",
+          "Plage urbaine artificielle"
+        ],
+        [
+          "Liaison piétonne",
+          "Parcours Cimavilla–Poniente"
+        ]
+      ],
+      "transport": "Les sources municipales situent la plage près du port de plaisance et l’intègrent au parcours Cimavilla–Poniente. Depuis San Lorenzo, vous pouvez associer le quartier et le port avant de rejoindre le sable. Calculez le trajet depuis votre point de départ et consultez les transports actuels vers Calle Rodríguez San Pedro si vous arrivez d’un autre secteur.",
+      "appeal": [
+        {
+          "title": "Une plage qui raconte une mutation urbaine",
+          "text": "Son origine sur des terrains de chantiers navals la distingue de l’arc naturel de San Lorenzo. La promenade met en relation le port, les espaces reconvertis et un sable aménagé pour élargir les usages publics du littoral."
+        },
+        {
+          "title": "Des services à confirmer",
+          "text": "Turismo Asturias décrit notamment des toilettes et vestiaires adaptés, des passerelles vers la baignade et des fauteuils amphibies. Une liste d’équipements ne garantit pas leur fonctionnement le jour venu : confirmez l’aide nécessaire et ses modalités."
+        }
+      ],
+      "route": [
+        "Rejoignez le port de plaisance depuis Cimavilla ou votre point de départ dans le centre.",
+        "Poursuivez vers la promenade de Poniente et repérez un accès adapté à vos besoins.",
+        "Avant d’entrer dans l’eau, vérifiez les drapeaux, la mer et la présence des sauveteurs."
+      ],
+      "notices": [
+        "Une mer calme ou un drapeau précis ne sont jamais garantis. Les indications du jour et des sauveteurs priment.",
+        "Les sources officielles mentionnent des restrictions pour les animaux et les activités sur le sable ou dans l’eau, avec des exceptions pour les activités autorisées ou zones désignées. Consultez les règles municipales actuelles.",
+        "Le calendrier de surveillance publié ne constitue ni un horaire d’ouverture de la plage ni une garantie pour les années futures."
+      ],
+      "photo": "La promenade permet de montrer la plage dans son cadre portuaire. Respectez la vie privée des baigneurs et libérez passerelles et accès adaptés.",
+      "stay": "Comparez les abords de Poniente et le centre pour associer port et plage. Vérifiez les accès et services de chaque hébergement, notamment le stationnement ou les adaptations nécessaires.",
+      "faq": [
+        {
+          "q": "Poniente est-elle la même plage que San Lorenzo ?",
+          "a": "Non. Ce sont deux plages de Gijón. Poniente se situe près du port et résulte de la transformation d’anciens chantiers navals."
+        },
+        {
+          "q": "La baignade est-elle toujours sûre ?",
+          "a": "Aucune sécurité permanente ne peut être garantie. Respectez le drapeau, la mer et les consignes du jour."
+        },
+        {
+          "q": "Quels équipements adaptés sont décrits ?",
+          "a": "Les sources officielles évoquent des accès et toilettes adaptés, des passerelles et des fauteuils amphibies. Confirmez disponibilité et modalités auprès du service concerné."
+        }
+      ],
+      "address": "Playa de Poniente, Calle Rodríguez San Pedro, Gijón, Asturies, Espagne"
+    }
+  }
+}

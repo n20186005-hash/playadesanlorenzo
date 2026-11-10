@@ -1,0 +1,324 @@
+{
+  "labels": {
+    "title": "Qué ver cerca de San Lorenzo",
+    "description": "Cuatro visitas para continuar por la historia, el arte y el litoral de Gijón.",
+    "back": "Volver a San Lorenzo",
+    "intro": "Explora el lugar",
+    "tips": "Consejos para la visita",
+    "highlights": "Destacados",
+    "about": "Sobre este lugar",
+    "facts": "Información básica",
+    "hours": "Horarios",
+    "admission": "Entrada",
+    "transport": "Opciones para llegar",
+    "appeal": "Descubre su interés",
+    "route": "Recorrido propuesto",
+    "notices": "Antes de ir",
+    "photo": "Para fotografiar",
+    "stay": "Dónde alojarse",
+    "faq": "Preguntas frecuentes",
+    "map": "Dirección y mapa",
+    "sources": "Fuentes y revisión editorial",
+    "reviewed": "Contenido revisado por la redacción de Playa de San Lorenzo · 10 de noviembre de 2026",
+    "related": "Continúa explorando",
+    "mapCta": "Abrir ubicación en Google Maps",
+    "cta": "Leer la guía",
+    "practical": "Guías prácticas de San Lorenzo"
+  },
+  "pages": {
+    "cimavilla": {
+      "title": "Cimavilla: el barrio marinero de Gijón",
+      "tagline": "Calles, plazas y memoria del trabajo junto a San Lorenzo",
+      "description": "Guía de Cimavilla desde San Lorenzo: plazas, historia marinera y cigarreras, recorrido por el barrio y enlaces al cerro y a las termas.",
+      "intro": "Cimavilla, también escrito Cimadevilla, es el barrio alto de Gijón. Su interés no se reduce a una fachada o a un monumento: está en recorrer las calles que conectan la playa, las plazas y el puerto, y reconocer cómo convivieron aquí pescadores, artesanos, militares y cigarreras.",
+      "tips": [
+        "Empieza por el extremo occidental de San Lorenzo y el entorno de San Pedro para enlazar con el barrio.",
+        "La ruta oficial incluye calles estrechas y empinadas: revisa el recorrido si necesitas evitar escaleras o pendientes.",
+        "Separa el paseo por calles públicas de la visita a museos, iglesias u otros interiores."
+      ],
+      "highlights": [
+        "Plaza de Jovellanos y su entorno patrimonial.",
+        "Plaza del Lavaderu, oficialmente Plaza Periodista Arturo Arias.",
+        "Memoria del trabajo de las cigarreras y de la antigua Tabacalera.",
+        "Plaza del Marqués como enlace con el puerto deportivo."
+      ],
+      "about": "El Ayuntamiento sitúa en este barrio parte esencial de la historia marítima y social de Gijón. Los habitantes nacidos aquí reciben el nombre de playos. Las rutas culturales municipales permiten entender el barrio desde el entorno de San Pedro hasta las plazas interiores y el puerto; son recorridos distintos de una visita exclusiva a la playa.",
+      "facts": [
+        [
+          "Lugar",
+          "Cimavilla / Cimadevilla, Gijón, Asturias"
+        ],
+        [
+          "Tipo de visita",
+          "Barrio histórico y paseo urbano"
+        ],
+        [
+          "Relación con San Lorenzo",
+          "Continuación desde el entorno de San Pedro"
+        ],
+        [
+          "Interiores",
+          "Cada espacio tiene sus propias condiciones"
+        ]
+      ],
+      "transport": "A pie, utiliza San Pedro y Campo Valdés como referencias entre San Lorenzo y las calles del barrio. Si llegas desde otro punto de Gijón, calcula el trayecto con la dirección de tu primera parada. Para coche o transporte urbano, consulta la información municipal vigente; no se presupone acceso de vehículos por todas las calles.",
+      "appeal": [
+        {
+          "title": "Un barrio de oficios y vida cotidiana",
+          "text": "La historia local reúne la pesca, la artesanía y el trabajo de las cigarreras. La antigua Tabacalera, antes convento, ayuda a situar la presencia de estas trabajadoras en la economía del barrio. El entorno exterior de la antigua Tabacalera permite reconocer esta historia durante el paseo; consulta las condiciones de acceso si quieres visitar algún interior."
+        },
+        {
+          "title": "Plazas con nombres e historias diferentes",
+          "text": "Jovellanos, Lavaderu y Marqués ofrecen tres referencias para orientarse. El Palacio de Revillagigedo, junto a Marqués, es barroco pese a la apariencia medieval de sus torres. Observar estas diferencias aporta más que tratar el barrio como una sucesión indiferenciada de fachadas."
+        }
+      ],
+      "route": [
+        "Desde el entorno de San Pedro, entra en Campo Valdés; decide si visitar primero el museo de las termas.",
+        "Continúa hacia Plaza de Jovellanos y después busca Plaza del Lavaderu para conocer otra parte de la historia social.",
+        "Elige entre subir al cerro de Santa Catalina o continuar hacia Plaza del Marqués y el puerto."
+      ],
+      "notices": [
+        "Este es un barrio habitado: deja paso en calles estrechas y evita molestar al fotografiar viviendas.",
+        "Adapta las paradas a tus intereses y a la movilidad del grupo; consulta los accesos y las restricciones del día."
+      ],
+      "photo": "Las plazas de Jovellanos y del Marqués permiten observar escalas y estilos urbanos diferentes. Fotografía desde el espacio público sin bloquear accesos ni dar por permitido entrar en edificios.",
+      "stay": "Si el paseo histórico es la prioridad, compara alojamientos del centro y del entorno de Cimavilla con los situados frente a San Lorenzo. Antes de reservar, consulta el acceso con equipaje, las pendientes del recorrido y el ruido que pueda afectar a tu descanso.",
+      "faq": [
+        {
+          "q": "¿Cimavilla y Cimadevilla son dos lugares distintos?",
+          "a": "No. Ambos nombres designan el mismo barrio alto de Gijón."
+        },
+        {
+          "q": "¿Se puede combinar con la playa?",
+          "a": "Sí. La ruta cultural municipal toma San Pedro como referencia y conecta el barrio con el frente marítimo. Las termas y el cerro tienen guías propias para decidir qué añadir."
+        },
+        {
+          "q": "¿Hay una entrada u horario único?",
+          "a": "Planifica por separado los museos, iglesias y actividades que quieras añadir al paseo por las calles: cada espacio tiene sus horarios y condiciones de entrada."
+        }
+      ],
+      "address": "Cimavilla, Gijón, Asturias, España"
+    },
+    "cerro-de-santa-catalina": {
+      "title": "Cerro de Santa Catalina y Elogio del Horizonte",
+      "tagline": "El paisaje del Cantábrico y la escultura de Eduardo Chillida",
+      "description": "Visita al cerro de Santa Catalina y Elogio del Horizonte en Gijón: historia de la obra, paseo desde Cimavilla y consejos para el mirador.",
+      "intro": "El cerro de Santa Catalina prolonga Cimavilla hacia el mar. En este promontorio, el paisaje y el Elogio del Horizonte forman una sola visita: el espacio abierto ayuda a entender por qué la escultura se convirtió en una referencia visual de Gijón.",
+      "tips": [
+        "Combina la subida con Cimavilla, escogiendo el recorrido según tu movilidad.",
+        "Consulta la previsión y los avisos del lugar antes de organizar una visita al aire libre.",
+        "Observa la obra desde fuera y desde su espacio interior, dejando sitio a otras personas."
+      ],
+      "highlights": [
+        "Elogio del Horizonte, obra de Eduardo Chillida de 1990.",
+        "Escultura de hormigón armado ejecutada en el lugar.",
+        "Promontorio de Santa Catalina, también denominado L’Atalaya en la ruta cultural.",
+        "Continuidad con el barrio histórico y el frente de San Lorenzo."
+      ],
+      "about": "La posición del cerro tuvo importancia estratégica en la historia de la ciudad. Hoy, su paisaje se une a la obra de Chillida, inaugurada el 9 de junio de 1990. Al recorrer el promontorio y cambiar de posición ante la escultura, el mar y el cielo se ven a través de su estructura abierta.",
+      "facts": [
+        [
+          "Lugar",
+          "Cerro de Santa Catalina, Gijón"
+        ],
+        [
+          "Obra",
+          "Elogio del Horizonte"
+        ],
+        [
+          "Autor y fecha",
+          "Eduardo Chillida Juantegui · 1990"
+        ],
+        [
+          "Material y escala",
+          "Hormigón armado · unos 10 m de altura y 500 toneladas"
+        ]
+      ],
+      "transport": "Las rutas oficiales enlazan las calles de Cimavilla con el cerro; otra ruta municipal desciende desde Santa Catalina hacia San Lorenzo por el entorno del Club de Regatas. Elige el sentido del paseo según tu punto de partida y tu movilidad. Si necesitas evitar escalones o pendientes, consulta las características de la ruta antes de salir.",
+      "appeal": [
+        {
+          "title": "Una forma que encuadra el horizonte",
+          "text": "Dos apoyos sostienen una estructura elíptica abierta. La masa del hormigón contrasta con el cielo y el mar; cambiar de posición permite observar cómo varía el espacio enmarcado. La escala explica por qué la obra se percibe tanto como escultura como lugar de estancia."
+        },
+        {
+          "title": "Escuchar y observar con calma",
+          "text": "La ruta municipal propone situarse en el interior para percibir la relación de la obra con el sonido del mar. Es una sugerencia de observación artística, no una garantía de un efecto acústico idéntico con cualquier viento, ruido o tiempo."
+        }
+      ],
+      "route": [
+        "Recorre primero el barrio de Cimavilla para situar el cerro en su contexto urbano.",
+        "Al llegar a la obra, obsérvala desde el exterior y después desde el espacio entre los apoyos, si el acceso está permitido.",
+        "Regresa por el barrio o continúa hacia el frente marítimo siguiendo las indicaciones y el estado del recorrido."
+      ],
+      "notices": [
+        "El viento, la lluvia y el estado del pavimento pueden cambiar la comodidad del paseo. Atiende a cierres y señalización.",
+        "Antes de salir, revisa los avisos locales y la señalización de acceso al cerro; los eventos y las actuaciones de mantenimiento pueden afectar al recorrido."
+      ],
+      "photo": "La estructura abierta permite componer la escultura con el horizonte desde posiciones diferentes. Mantén la distancia necesaria para no obstruir el paso y respeta cualquier delimitación temporal.",
+      "stay": "Para combinar arte público, barrio histórico y playa, compara el centro de Gijón, Cimavilla y el frente de San Lorenzo. Revisa el acceso real a tu alojamiento: estar cerca en el mapa no garantiza un trayecto llano.",
+      "faq": [
+        {
+          "q": "¿Quién creó el Elogio del Horizonte?",
+          "a": "Eduardo Chillida Juantegui. La obra es de 1990 y fue inaugurada el 9 de junio de ese año."
+        },
+        {
+          "q": "¿El cerro y la escultura se visitan juntos?",
+          "a": "Sí. La escultura está en el cerro de Santa Catalina: puedes observar la obra mientras recorres el promontorio y disfrutas del horizonte marítimo."
+        },
+        {
+          "q": "¿Cuánto se tarda desde San Lorenzo?",
+          "a": "El tiempo depende del acceso de la playa desde el que salgas, del recorrido y de tu ritmo. Calcula la ruta en el mapa y deja margen para la subida y las paradas."
+        }
+      ],
+      "address": "Elogio del Horizonte, Cerro de Santa Catalina, Gijón, Asturias, España"
+    },
+    "termas-romanas-campo-valdes": {
+      "title": "Termas Romanas de Campo Valdés: guía del museo",
+      "tagline": "Un recorrido por las salas y la calefacción de las termas romanas",
+      "description": "Museo de las Termas Romanas de Campo Valdés en Gijón: qué ver, horario ordinario, entrada gratuita, grupos y paseo desde San Lorenzo.",
+      "intro": "Bajo Campo Valdés, frente a la iglesia de San Pedro, el museo conserva en su emplazamiento original restos de unas termas públicas romanas. Es una visita arqueológica interior que aporta un contrapunto a la playa y a las calles de Cimavilla.",
+      "tips": [
+        "Organiza primero la visita al museo si quieres combinarla con un paseo al aire libre: tiene un calendario propio.",
+        "Para grupos, consulta con el museo antes de acudir; las condiciones no son iguales a las de una visita individual.",
+        "Si necesitas un recorrido adaptado, confirma con el museo las zonas accesibles y el uso de pasarelas o escalones."
+      ],
+      "highlights": [
+        "Secuencia de salas frías, templadas y calientes.",
+        "Sistema de calefacción bajo el suelo, o hypocaustum.",
+        "Modelos, audiovisuales y piezas que explican la vida del conjunto.",
+        "Restos de pinturas murales y contexto arqueológico conservado in situ."
+      ],
+      "about": "Los restos fueron descubiertos en 1903. El museo actual abrió en 1995 para explicar y conservar el conjunto en el mismo lugar. La visita permite relacionar los espacios de baño con las técnicas de calefacción y con las transformaciones posteriores del enclave, incluida su utilización funeraria medieval.",
+      "facts": [
+        [
+          "Nombre",
+          "Museo de las Termas Romanas de Campo Valdés"
+        ],
+        [
+          "Ubicación",
+          "Campo Valdés, frente a San Pedro, Gijón"
+        ],
+        [
+          "Tipo",
+          "Museo arqueológico de sitio"
+        ],
+        [
+          "Grupos y consultas",
+          "Tel. +34 985 185 151"
+        ]
+      ],
+      "hours": "Horario ordinario publicado por Turismo Asturias y el Ayuntamiento, consultado el 10 de noviembre de 2026: martes a viernes, 09:30–14:00 y 17:00–19:30; sábados, domingos y festivos, 10:00–14:00 y 17:00–19:30. Cierra los lunes y los días 1 y 6 de enero, martes de Carnaval, 15 de agosto y 24, 25 y 31 de diciembre. Confirma posibles cambios o cierres temporales con el museo.",
+      "admission": "La entrada ordinaria figura como gratuita en las fuentes oficiales consultadas. Esto no supone que actividades especiales, visitas privadas u otros productos externos estén incluidos. Los grupos deben consultar la reserva telefónica; entre el 1 de junio y el 30 de septiembre se publican condiciones específicas para grupos de más de 15 personas.",
+      "transport": "Desde el extremo occidental de San Lorenzo, toma San Pedro como referencia para encontrar Campo Valdés. Si llegas desde otro punto, selecciona el museo, no solo la playa, al calcular la ruta. Para autobuses y accesos del día, consulta la información municipal.",
+      "appeal": [
+        {
+          "title": "Comprender el recorrido del agua y del calor",
+          "text": "La sucesión de salas explica cómo se organizaba un baño romano. El hypocaustum permite entender el calentamiento desde debajo del suelo, mientras que los modelos y materiales interpretativos ayudan a leer restos que no siempre resultan evidentes a primera vista."
+        },
+        {
+          "title": "Un lugar con varias capas de historia",
+          "text": "El interés no termina en la etapa romana. Los restos pictóricos y las evidencias de usos posteriores muestran que Campo Valdés cambió a lo largo del tiempo. Conviene seguir las explicaciones del museo para distinguir cada fase en lugar de atribuir todos los elementos a la misma época."
+        }
+      ],
+      "route": [
+        "Consulta el horario y entra por el acceso señalizado del museo en Campo Valdés.",
+        "Revisa primero la introducción y los modelos para comprender la distribución de las salas.",
+        "Sigue el itinerario de visita y localiza el sistema de calefacción antes de volver al exterior y continuar por Cimavilla."
+      ],
+      "notices": [
+        "El horario indicado es una consulta fechada, no una garantía de apertura en cualquier festivo.",
+        "No apliques el horario especial de grupos a todas las visitas individuales. Contacta con el museo si necesitas confirmar la accesibilidad."
+      ],
+      "stay": "El centro y el entorno de San Lorenzo permiten comparar una estancia orientada a museos y paseo marítimo. Si esta visita es prioritaria, revisa el día de cierre antes de organizar tus noches y desplazamientos.",
+      "faq": [
+        {
+          "q": "¿La entrada es gratuita?",
+          "a": "La entrada ordinaria aparece como gratuita en las fuentes oficiales consultadas el 10 de noviembre de 2026. Comprueba aparte las actividades o visitas especiales."
+        },
+        {
+          "q": "¿Abre los lunes?",
+          "a": "El calendario ordinario consultado indica cierre los lunes, además de determinadas fechas festivas."
+        },
+        {
+          "q": "¿Está al aire libre?",
+          "a": "No. Es un museo de sitio bajo Campo Valdés, frente a San Pedro, con restos conservados en su emplazamiento original."
+        }
+      ],
+      "address": "Museo de las Termas Romanas de Campo Valdés, Campo Valdés, Gijón, Asturias, España"
+    },
+    "playa-de-poniente": {
+      "title": "Playa de Poniente: otra costa urbana de Gijón",
+      "tagline": "Del puerto y los antiguos astilleros al paseo junto a la arena",
+      "description": "Guía de Playa de Poniente o Pando en Gijón: historia, paseo desde Cimavilla y el puerto, accesibilidad y servicios sujetos a temporada.",
+      "intro": "Poniente, también llamada playa de Pando, ofrece una visita distinta de San Lorenzo. Está junto al entorno del puerto deportivo y permite continuar el paseo por la costa occidental del centro, con una historia ligada a la transformación de antiguos terrenos de astilleros.",
+      "tips": [
+        "Combina el paseo con Cimavilla y el puerto deportivo en lugar de confundirla con otro acceso de San Lorenzo.",
+        "Distingue el acceso al arenal de la temporada y los horarios del servicio de salvamento.",
+        "Para apoyo al baño o equipamiento adaptado, confirma su disponibilidad en la fecha de tu visita."
+      ],
+      "highlights": [
+        "Playa urbana artificial creada a mediados de los años noventa.",
+        "Forma parte del recorrido peatonal Cimavilla–Poniente.",
+        "Recursos de accesibilidad descritos por las fuentes turísticas oficiales.",
+        "Otro paisaje litoral vinculado al puerto y a la regeneración urbana."
+      ],
+      "about": "El arenal se creó en los años noventa en una zona ocupada anteriormente por astilleros. Esa transformación permite leer Poniente como parte de la evolución del frente marítimo de Gijón. No es una extensión de San Lorenzo: su entorno portuario y su historia le dan un interés propio.",
+      "facts": [
+        [
+          "Nombre",
+          "Playa de Poniente / Playa de Pando"
+        ],
+        [
+          "Lugar",
+          "Calle Rodríguez San Pedro, Gijón"
+        ],
+        [
+          "Tipo",
+          "Playa urbana artificial"
+        ],
+        [
+          "Conexión peatonal",
+          "Recorrido Cimavilla–Poniente"
+        ]
+      ],
+      "transport": "Las fuentes municipales sitúan la playa junto al puerto deportivo y la incluyen en el recorrido Cimavilla–Poniente. Desde San Lorenzo puedes combinar el barrio y el puerto antes de llegar al arenal. Calcula el trayecto desde tu punto de partida y, si vienes de otro barrio, consulta el transporte vigente hacia Calle Rodríguez San Pedro.",
+      "appeal": [
+        {
+          "title": "Una playa que explica un cambio urbano",
+          "text": "Su origen sobre antiguos terrenos de astilleros la diferencia del arco natural de San Lorenzo. El paseo permite observar la relación entre el puerto, los espacios urbanos recuperados y un arenal concebido para ampliar el uso ciudadano del litoral."
+        },
+        {
+          "title": "Servicios y accesibilidad con comprobación previa",
+          "text": "Turismo Asturias describe aseos y vestuarios adaptados, pasarelas hacia la zona de baño y sillas anfibias, entre otros recursos. La existencia de una ficha de equipamiento no garantiza que todo funcione el día de la visita: confirma el apoyo que necesitas y sus condiciones."
+        }
+      ],
+      "route": [
+        "Llega al entorno del puerto deportivo desde Cimavilla o desde tu punto de partida en el centro.",
+        "Continúa hacia el paseo de Poniente y localiza el acceso que responda a tus necesidades.",
+        "Antes de entrar en el agua, comprueba las banderas, el estado del mar y la presencia de salvamento."
+      ],
+      "notices": [
+        "No se garantiza mar en calma ni una bandera concreta: la señalización y las instrucciones del día tienen prioridad.",
+        "Las fuentes oficiales recogen restricciones de mascotas y de actividades en arena y agua, con excepciones para actividades autorizadas o zonas señaladas. Revisa las reglas municipales vigentes.",
+        "El calendario de salvamento publicado por Turismo Asturias no debe interpretarse como horario de apertura de la playa ni como garantía para años futuros."
+      ],
+      "photo": "El paseo ofrece un punto para mostrar el arenal en su contexto portuario. Respeta la intimidad de quienes se bañan y no bloquees pasarelas ni accesos adaptados para tomar fotografías.",
+      "stay": "Compara el entorno de Poniente y del centro si quieres combinar paseo portuario y playa. Elige según el acceso y los servicios concretos de cada alojamiento, sin asumir que todos disponen de aparcamiento o apoyo adaptado.",
+      "faq": [
+        {
+          "q": "¿Poniente es la misma playa que San Lorenzo?",
+          "a": "No. Son playas distintas de Gijón. Poniente está en el entorno del puerto y tiene un origen artificial ligado a la transformación de antiguos astilleros."
+        },
+        {
+          "q": "¿Es siempre segura para bañarse?",
+          "a": "No puede garantizarse. Atiende a la bandera, al mar y a los avisos de salvamento del día."
+        },
+        {
+          "q": "¿Qué recursos de accesibilidad se describen?",
+          "a": "Las fuentes oficiales mencionan accesos y aseos adaptados, pasarelas y sillas anfibias. Confirma con el servicio correspondiente su disponibilidad y forma de uso."
+        }
+      ],
+      "address": "Playa de Poniente, Calle Rodríguez San Pedro, Gijón, Asturias, España"
+    }
+  }
+}

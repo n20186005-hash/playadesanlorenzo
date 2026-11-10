@@ -2,6 +2,7 @@ import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, getTranslations, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
+import { pageMetadata, siteUrl } from '@/lib/seo';
 import '../globals.css';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
@@ -13,21 +14,7 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'meta' });
-  const canonicalPath = locale === 'es' ? '/' : `/${locale}`;
-  return {
-    metadataBase: new URL('https://www.playadesanlorenzo.com'),
-    title: t('title'),
-    description: t('description'),
-    alternates: {
-      canonical: canonicalPath,
-      languages: {
-        'es': '/',
-        'en': '/en',
-        'fr': '/fr',
-        'zh-Hant': '/zh-Hant',
-      },
-    },
-  };
+  return {metadataBase: new URL(siteUrl), ...pageMetadata(locale, '', t('title'), t('description'))};
 }
 
 export default async function LocaleLayout({

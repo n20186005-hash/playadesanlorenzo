@@ -10,25 +10,37 @@
     "map": "Map",
     "privacy": "Privacy",
     "terms": "Terms",
-    "cookies": "Cookies"
+    "cookies": "Cookies",
+    "nearby": "Nearby",
+    "menu": "Navigation menu"
   },
   "hero": {
     "title": "Playa de San Lorenzo in Gijón, Asturias",
     "subtitle": "Guide to Gijón's iconic urban beach beside Paseo del Muro and the Cantabrian Sea",
     "rating": "4.7/5",
-    "reviewCount": "3,269",
+    "reviewCount": "3,302",
     "reviewLabel": "reviews",
-    "hours": "Open public access",
+    "hours": "Check today’s notices and services",
     "openMaps": "Open in Google Maps",
-    "tags": ["Gijón", "Asturias", "Paseo del Muro", "Map", "How to get there", "Surf", "Services", "Sunsets"]
+    "tags": [
+      "Gijón",
+      "Asturias",
+      "Paseo del Muro",
+      "Map",
+      "How to get there",
+      "Surf",
+      "Services",
+      "Sunsets"
+    ],
+    "ratingSource": "Google Maps · 10 Nov 2026"
   },
   "about": {
     "title": "Discover Playa de San Lorenzo",
-    "description": "Playa de San Lorenzo is one of the most emblematic beaches in Gijón, Asturias. Located in the heart of the city beside Paseo del Muro, it stretches for about 1,550 metres in a characteristic shell shape. This guide covers access, map, services, surf, accessibility and practical tips for visiting the beach.",
+    "description": "Playa de San Lorenzo is one of the most emblematic beaches in Gijón, Asturias. Located in the heart of the city beside Paseo del Muro, it stretches for about 1,500 metres in a characteristic shell shape. This guide covers access, map, services, surf, accessibility and practical tips for visiting the beach.",
     "highlights": {
       "title": "Highlights",
       "items": [
-        "About 1,550 metres of urban beach in central Gijón",
+        "About 1,500 metres of urban beach in central Gijón",
         "Located beside Paseo del Muro facing the Cantabrian Sea",
         "Popular for walks, running, surfing and sunsets",
         "Pedestrian access points and seasonal summer services",
@@ -39,26 +51,33 @@
     "keywords": {
       "title": "Related Keywords"
     },
-    "keywordsList": ["San Lorenzo Beach", "Gijón", "Asturias", "Urban beach", "Cantabrian Sea", "Surf"]
+    "keywordsList": [
+      "San Lorenzo Beach",
+      "Gijón",
+      "Asturias",
+      "Urban beach",
+      "Cantabrian Sea",
+      "Surf"
+    ]
   },
   "explore": {
     "title": "Explore the Maritime Environment",
     "items": [
       {
-        "title": "Seaside Promenade",
-        "description": "Walk along the 3 km promenade with views of the Cantabrian Sea. Perfect for walking, running or cycling while enjoying the fresh air and sunsets."
+        "title": "Paseo del Muro",
+        "description": "The promenade beside San Lorenzo connects beach and city without requiring a day of swimming. Choose your access according to the tide and your mobility."
       },
       {
-        "title": "Water Sports",
-        "description": "Enjoy surfing, paddle surfing and other water sports. The beach offers ideal conditions for beginners and experts with surf schools available."
+        "title": "Surf and sea conditions",
+        "description": "San Lorenzo has a surfing tradition, but suitability depends on the sea, experience and daily instructions. Ask a qualified operator before booking an activity."
       },
       {
-        "title": "Beach Bars and Gastronomy",
-        "description": "Relax at the beach bars tasting local tapas and drinks. Asturian gastronomy combines perfectly with the maritime atmosphere."
+        "title": "Towards Cimavilla",
+        "description": "From the western end, orient your walk towards San Pedro, Campo Valdés and the historic quarter. The nearby guides help you choose a specific cultural visit."
       },
       {
-        "title": "Family Areas",
-        "description": "Children's play areas, complete services and surveillance in high season. The beach is safe and accessible for the whole family."
+        "title": "Plan the services you need",
+        "description": "Lifeguards, assisted bathing and other resources may operate seasonally. Confirm what you need; an urban beach does not guarantee safe swimming conditions."
       }
     ]
   },
@@ -68,34 +87,73 @@
     "source": "Photo: Unsplash (last updated: 2026)",
     "viewAll": "View all photos on Google Maps",
     "images": [
-      { "alt": "Playa de San Lorenzo at sunrise", "caption": "Beach view at sunrise" },
-      { "alt": "Sand and shoreline at Playa de San Lorenzo", "caption": "Golden sand beside the Cantabrian Sea" },
-      { "alt": "Paseo del Muro facing Playa de San Lorenzo", "caption": "The promenade running next to the beach" },
-      { "alt": "Surf at Playa de San Lorenzo in Gijón", "caption": "Surfers making the most of the waves" },
-      { "alt": "Sunset over Playa de San Lorenzo", "caption": "Evening light over the bay" },
-      { "alt": "Families walking along Playa de San Lorenzo", "caption": "Summer atmosphere by the urban beach" },
-      { "alt": "Access points to Playa de San Lorenzo", "caption": "Beach entrances and sand beside the promenade" },
-      { "alt": "Panoramic view of Playa de San Lorenzo", "caption": "Wide view of Gijón's urban beach" },
-      { "alt": "Cantabrian waves at San Lorenzo", "caption": "Open sea and foam rolling into shore" },
-      { "alt": "San Lorenzo seafront promenade", "caption": "Walking route between the sea and the city" },
-      { "alt": "Playa de San Lorenzo in Gijón", "caption": "Wide beach view with the city behind" },
-      { "alt": "Low tide at Playa de San Lorenzo", "caption": "Extra sand visible during low tide" },
-      { "alt": "Gijón seafront beside Playa de San Lorenzo", "caption": "Urban frontage looking onto the beach" }
+      {
+        "alt": "Playa de San Lorenzo at sunrise",
+        "caption": "Beach view at sunrise"
+      },
+      {
+        "alt": "Sand and shoreline at Playa de San Lorenzo",
+        "caption": "Golden sand beside the Cantabrian Sea"
+      },
+      {
+        "alt": "Paseo del Muro facing Playa de San Lorenzo",
+        "caption": "The promenade running next to the beach"
+      },
+      {
+        "alt": "Surf at Playa de San Lorenzo in Gijón",
+        "caption": "Surfers making the most of the waves"
+      },
+      {
+        "alt": "Sunset over Playa de San Lorenzo",
+        "caption": "Evening light over the bay"
+      },
+      {
+        "alt": "Families walking along Playa de San Lorenzo",
+        "caption": "Summer atmosphere by the urban beach"
+      },
+      {
+        "alt": "Access points to Playa de San Lorenzo",
+        "caption": "Beach entrances and sand beside the promenade"
+      },
+      {
+        "alt": "Panoramic view of Playa de San Lorenzo",
+        "caption": "Wide view of Gijón's urban beach"
+      },
+      {
+        "alt": "Cantabrian waves at San Lorenzo",
+        "caption": "Open sea and foam rolling into shore"
+      },
+      {
+        "alt": "San Lorenzo seafront promenade",
+        "caption": "Walking route between the sea and the city"
+      },
+      {
+        "alt": "Playa de San Lorenzo in Gijón",
+        "caption": "Wide beach view with the city behind"
+      },
+      {
+        "alt": "Low tide at Playa de San Lorenzo",
+        "caption": "Extra sand visible during low tide"
+      },
+      {
+        "alt": "Gijón seafront beside Playa de San Lorenzo",
+        "caption": "Urban frontage looking onto the beach"
+      }
     ]
   },
   "reviews": {
     "title": "Ratings and reviews",
     "declaration": "We show a summary of the public rating available on Google Maps and link to the source so visitors can check the latest reviews, photos and updates directly.",
-    "summary": "Playa de San Lorenzo is consistently rated very highly for its central location, seaside promenade, Cantabrian views and atmosphere for walking, surfing or spending a day in Gijón.",
+    "summary": "Google Maps displayed 4.7/5 and 3,302 reviews when checked on 10 November 2026. These are that source’s figures and may change; they are not ratings collected by this site.",
     "rating": "4.7/5",
     "ratingLabel": "Rating",
-    "reviewCount": "3,269",
+    "reviewCount": "3,302",
     "reviewCountLabel": "Reviews",
     "updatedLabel": "Updated",
-    "updatedAt": "October 2026",
+    "updatedAt": "10 November 2026",
     "ctaTitle": "Check reviews at the original source",
     "ctaText": "For full opinions, recent photos and notices that may change, open the official Google Maps listing for Playa de San Lorenzo.",
-    "sourceNote": "This site does not publish invented reviews or unverifiable excerpts. Social proof is summarised here and referred back to Google Maps for the live source.",
+    "sourceNote": "Sources and review: Playa de San Lorenzo editorial team · 10 November 2026",
     "seeAll": "View reviews on Google Maps"
   },
   "comparison": {
@@ -103,26 +161,26 @@
     "description": "Discover other beaches in Gijón and useful tips for your visit to San Lorenzo.",
     "nearbyBeaches": {
       "title": "Nearby Beaches",
-      "poniente": "Quieter family beach, ideal for small children. Less waves and calmer waters.",
-      "arbeyal": "Smaller and more intimate beach, perfect for those seeking tranquility away from the crowds."
+      "poniente": "A separate urban beach near the marina, created in the 1990s. Its own guide covers history, accessibility and services.",
+      "arbeyal": "To add Arbeyal to your itinerary, consult its municipal listing and check access, services and bathing notices for your chosen date."
     },
     "tips": {
       "title": "Tips for Your Visit",
       "bestTime": "Best times are sunrise for photography and sunset for romantic walks.",
       "safety": "Always respect the beach flags and pay attention to currents. Swim near lifeguards in high season.",
-      "parking": "Arrive early in summer to find free parking near the beach. The promenade has several parking areas.",
-      "services": "Take advantage of sunbed and umbrella rental services in high season. Beach bars offer refreshments and local tapas."
+      "parking": "Check signs, charges and availability at each parking facility. Free parking beside the beach is not guaranteed.",
+      "services": "Confirm specific seasonal services before setting out. Sunbed and umbrella hire or continuous assistance should not be assumed."
     },
     "safety": {
       "title": "Safety Information",
-      "content": "San Lorenzo is a guarded beach in high season with signaling flags. Pay attention to sea conditions and always respect lifeguard instructions."
+      "content": "Check the day’s flags and notices. Lifeguard services may be seasonal; their presence or a beach description does not guarantee safe swimming."
     }
   },
   "practical": {
     "title": "Practical Information",
     "address": {
       "label": "Address",
-      "value": "Paseo del Muro and Av. Rufo García Rendueles, 33203 Gijón, Asturias, Spain"
+      "value": "Paseo del Muro · Playa de San Lorenzo, Gijón, Asturias, España"
     },
     "hours": {
       "label": "Access and season",
@@ -134,7 +192,7 @@
     },
     "parking": {
       "label": "Parking",
-      "value": "The surrounding area has underground car parks and street parking nearby. In summer, on holidays and at weekends, arriving early is usually the best option."
+      "value": "Check signs, charges and availability at each parking facility. Free parking beside the beach is not guaranteed."
     },
     "accessibility": {
       "label": "Accessibility",
@@ -143,7 +201,7 @@
   },
   "map": {
     "title": "Location and how to get there",
-    "address": "Playa de San Lorenzo, Gijón, Asturias, Spain",
+    "address": "Playa de San Lorenzo · Paseo del Muro · Gijón, Asturias",
     "description": "The beach sits along Paseo del Muro in the heart of Gijón. Use Google Maps to open the exact location and choose the best route on foot, by car or with local transport.",
     "iframeTitle": "Map of Playa de San Lorenzo in Gijón",
     "openMaps": "Open in Google Maps"
@@ -157,7 +215,7 @@
       },
       {
         "q": "How long is Playa de San Lorenzo?",
-        "a": "The main beach is about 1,550 metres long, making it one of the most representative urban beaches in northern Spain."
+        "a": "The main beach is about 1,500 metres long, making it one of the most representative urban beaches in northern Spain."
       },
       {
         "q": "How do I get to Playa de San Lorenzo?",
@@ -207,7 +265,7 @@
       "description": "Guide to reaching Playa de San Lorenzo: walking routes, car access, Google Maps, local transport and practical tips for moving around Gijón."
     },
     "backHome": "Back to home",
-    "lastUpdated": "Updated: October 2026",
+    "lastUpdated": "Sources and review: Playa de San Lorenzo editorial team · 10 November 2026",
     "title": "How to get to Playa de San Lorenzo in Gijón",
     "description": "Playa de San Lorenzo lies beside Paseo del Muro in one of the best-known parts of Gijón. The best way to reach it depends on where you start, whether you are driving and the time of year, because weekends and summer bring more traffic and more pedestrians.",
     "highlightsTitle": "What matters before you leave",
@@ -283,7 +341,7 @@
       "description": "Parking tips for Playa de San Lorenzo: what to expect in summer, nearby options, busy times and practical advice for arriving with less stress."
     },
     "backHome": "Back to home",
-    "lastUpdated": "Updated: October 2026",
+    "lastUpdated": "Sources and review: Playa de San Lorenzo editorial team · 10 November 2026",
     "title": "Where to park near Playa de San Lorenzo",
     "description": "Finding parking near Playa de San Lorenzo depends heavily on the day, the time and the season. The urban area offers several options, but in summer, on holidays and at weekends it helps to leave more margin and accept that the closest spot to the sand may not be available.",
     "highlightsTitle": "What to keep in mind",
@@ -359,7 +417,7 @@
       "description": "What services Playa de San Lorenzo may offer depending on season: access, lifeguards, showers, accessibility, surf, promenade and useful visit advice."
     },
     "backHome": "Back to home",
-    "lastUpdated": "Updated: October 2026",
+    "lastUpdated": "Sources and review: Playa de San Lorenzo editorial team · 10 November 2026",
     "title": "Services at Playa de San Lorenzo",
     "description": "Playa de San Lorenzo is a very visitor-friendly urban beach, but some services depend on the season and local operations. It helps to distinguish between what is usually stable, such as access points and the promenade, and what may change, such as lifeguards, showers or assisted bathing services.",
     "highlightsTitle": "Key service points",
@@ -431,11 +489,11 @@
   },
   "references": {
     "title": "Data & References",
-    "disclaimer": "This site is an independent third-party tourism information portal. Information comes from public resources (tourist offices and Wikipedia) and Google Maps base data.",
+    "disclaimer": "This is an independent tourism information site. Linked official sources support the guides; Google Maps figures are a dated external observation.",
     "sources": {
       "google": "Google Maps — Ratings, reviews and geographic data",
       "unsplash": "Unsplash — Photos used in the gallery",
-      "wikipedia": "Wikipedia — Historical and cultural information"
+      "wikipedia": "Sources and review: Playa de San Lorenzo editorial team · 10 November 2026"
     }
   },
   "footer": {
@@ -448,20 +506,20 @@
   "privacy": {
     "backHome": "Back to Home",
     "title": "Privacy Policy",
-    "lastUpdated": "Last updated: March 2026",
-    "intro": "This Privacy Policy explains how playadesanlorenzo.com collects, uses and protects your personal information when you visit our website.",
+    "lastUpdated": "Last updated: 10 November 2026",
+    "intro": "This page describes the visible resources and browsing preferences on playadesanlorenzo.com.",
     "sections": [
       {
         "title": "Information We Collect",
-        "content": "We collect the minimum data necessary to provide our services. This may include: browsing data (IP address, browser type, pages visited), cookies and similar technologies, as well as any information you voluntarily provide through contact forms or email."
+        "content": "The site provides public tourism content without contact forms, accounts or bookings. External resource providers may receive technical connection data when their resources load."
       },
       {
         "title": "How We Use Your Information",
-        "content": "We use the collected information to: improve site content and user experience, analyze traffic and usage patterns, respond to requests and comply with our legal obligations."
+        "content": "The theme preference is stored in the browser. The settings on this page should not be interpreted as controls over external services or hosting tools."
       },
       {
         "title": "Third Party Services",
-        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis) and Unsplash (for photographs). These services have their own privacy policies."
+        "content": "Google Maps supplies the embedded map and Google Fonts supplies fonts. Those providers apply their own policies. Gallery images are served by this site."
       },
       {
         "title": "Your Rights",
@@ -476,7 +534,7 @@
   "terms": {
     "backHome": "Back to Home",
     "title": "Terms of Service",
-    "lastUpdated": "Last updated: March 2026",
+    "lastUpdated": "Last updated: 10 November 2026",
     "intro": "By accessing and using playadesanlorenzo.com, you agree to be bound by these Terms of Service.",
     "sections": [
       {
@@ -489,7 +547,7 @@
       },
       {
         "title": "Intellectual Property",
-        "content": "The website design and original content are protected by copyright. Photographs come from Unsplash under their license terms. Google Maps data is used in accordance with Google's Terms of Service."
+        "content": "Photograph credits appear in the gallery. External resources and services have their own terms of use."
       },
       {
         "title": "Limitation of Liability",
@@ -504,28 +562,28 @@
   "cookieSettings": {
     "backHome": "Back to Home",
     "title": "Cookie Settings",
-    "lastUpdated": "Last updated: March 2026",
-    "intro": "We use cookies to improve your browsing experience. You can manage your preferences below.",
+    "lastUpdated": "Last updated: 10 November 2026",
+    "intro": "The site stores the theme preference in the browser. The legacy switches on this page only save a local choice; they do not enable or disable external services.",
     "necessary": {
       "title": "Essential Cookies",
-      "description": "Necessary for the proper functioning of the website. Cannot be disabled.",
+      "description": "Navigation resources and browser preferences are described here without claiming that specific essential cookies are installed by this site.",
       "status": "Always active"
     },
     "analytics": {
       "title": "Analytics Cookies",
-      "description": "Help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "description": "No analytics initializer is present in the site code. This switch does not control any hosting-provider services.",
       "enabled": "Enabled",
       "disabled": "Disabled"
     },
     "preferences": {
       "title": "Preference Cookies",
-      "description": "Remember your settings such as language and theme preferences.",
+      "description": "The theme choice is stored separately; this legacy switch does not control that storage.",
       "enabled": "Enabled",
       "disabled": "Disabled"
     },
     "marketing": {
       "title": "Marketing Cookies",
-      "description": "Used to display relevant advertising and measure campaign effectiveness.",
+      "description": "No advertising service is initialized by the site code. This switch only saves a local choice.",
       "enabled": "Enabled",
       "disabled": "Disabled"
     },

@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { pageMetadata } from '@/lib/seo';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import GuidePage from '@/components/GuidePage';
 
@@ -23,21 +24,7 @@ type FaqItem = {
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'guideHowToGet.meta' });
-  const canonical = locale === 'es' ? '/como-llegar' : `/${locale}/como-llegar`;
-
-  return {
-    title: t('title'),
-    description: t('description'),
-    alternates: {
-      canonical,
-      languages: {
-        es: '/como-llegar',
-        en: '/en/como-llegar',
-        fr: '/fr/como-llegar',
-        'zh-Hant': '/zh-Hant/como-llegar',
-      },
-    },
-  };
+  return pageMetadata(locale, '/como-llegar', t('title'), t('description'));
 }
 
 export default async function ComoLlegarPage({ params }: { params: Promise<{ locale: string }> }) {
