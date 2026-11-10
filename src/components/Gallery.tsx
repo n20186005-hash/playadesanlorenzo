@@ -36,11 +36,20 @@ export default function Gallery() {
     const dialog = dialogRef.current;
     if (!lightboxOpen || !dialog) return;
     const previousOverflow = document.body.style.overflow;
+    const rootStyle = document.documentElement.style;
+    const previousGutter = rootStyle.getPropertyValue('scrollbar-gutter');
+    const previousGutterPriority = rootStyle.getPropertyPriority('scrollbar-gutter');
+    rootStyle.setProperty('scrollbar-gutter', 'stable', previousGutterPriority);
     document.body.style.overflow = 'hidden';
     if (!dialog.open) dialog.showModal();
     return () => {
       if (dialog.open) dialog.close();
       document.body.style.overflow = previousOverflow;
+      if (previousGutter) {
+        rootStyle.setProperty('scrollbar-gutter', previousGutter, previousGutterPriority);
+      } else {
+        rootStyle.removeProperty('scrollbar-gutter');
+      }
       triggerRef.current?.focus({ preventScroll: true });
     };
   }, [lightboxOpen]);
