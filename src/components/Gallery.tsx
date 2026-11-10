@@ -1,5 +1,5 @@
 'use client';
-import { useState } from 'react';
+import { useEffect, useId, useRef, useState } from 'react';
 import { useTranslations } from 'next-intl';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination } from 'swiper/modules';
@@ -27,8 +27,28 @@ export default function Gallery() {
   const t = useTranslations('gallery');
   const [lightboxIndex, setLightboxIndex] = useState<number | null>(null);
   const images = t.raw('images') as Array<{ alt: string; caption: string }>;
+  const dialogRef = useRef<HTMLDialogElement>(null);
+  const triggerRef = useRef<HTMLButtonElement | null>(null);
+  const dialogTitleId = useId();
+  const lightboxOpen = lightboxIndex !== null;
+
+  useEffect(() => {
+    const dialog = dialogRef.current;
+    if (!lightboxOpen || !dialog) return;
+    const previousOverflow = document.body.style.overflow;
+    document.body.style.overflow = 'hidden';
+    if (!dialog.open) dialog.showModal();
+    return () => {
+      if (dialog.open) dialog.close();
+      document.body.style.overflow = previousOverflow;
+      triggerRef.current?.focus({ preventScroll: true });
+    };
+  }, [lightboxOpen]);
 
   const closeLightbox = () => setLightboxIndex(null);
+  const changeImage = (direction: number) => setLightboxIndex(index =>
+    index === null ? null : (index + direction + PHOTOS.length) % PHOTOS.length
+  );
 
   return (
     <section id="gallery" className="section">
@@ -53,20 +73,28 @@ export default function Gallery() {
         >
           {PHOTOS.map((src, i) => (
             <SwiperSlide key={i}>
-              <div 
-                className="gallery-item cursor-pointer"
-                onDoubleClick={() => setLightboxIndex(i)}
+              <button
+                type="button"
+                className="gallery-item gallery-trigger cursor-pointer"
+                aria-label={t('openImage', { number: i + 1, description: images[i]?.alt ?? 'Playa de San Lorenzo' })}
+                aria-haspopup="dialog"
+                onClick={event => {
+                  if (event.defaultPrevented) return;
+                  triggerRef.current = event.currentTarget;
+                  setLightboxIndex(i);
+                }}
               >
-                <img 
-                  src={src} 
+                <img
+                  src={src}
                   alt={images[i]?.alt ?? images[images.length - 1]?.alt ?? 'Playa de San Lorenzo'}
-                  loading="lazy" 
+                  loading="lazy"
+                  draggable={false}
                   className="w-full h-full object-cover select-none"
                 />
-                <div className="caption">
+                <span className="caption">
                   {images[i]?.caption ?? images[images.length - 1]?.caption ?? 'Playa de San Lorenzo'}
-                </div>
-              </div>
+                </span>
+              </button>
             </SwiperSlide>
           ))}
         </Swiper>
@@ -75,9 +103,9 @@ export default function Gallery() {
       <p className="mt-6 text-sm text-center" style={{ color: 'var(--text-muted)' }}>
         {t('source')}{' '}
         <a
-            href="https://maps.app.goo.gl/aqnvo1aDhdaWHtMQA"
-            target="_blank"
-            rel="noopener noreferrer"
+          href="https://maps.app.goo.gl/aqnvo1aDhdaWHtMQA"
+          target="_blank"
+          rel="noopener noreferrer"
           style={{ color: 'var(--accent)' }}
           className="hover:underline"
         >
@@ -85,29 +113,48 @@ export default function Gallery() {
         </a>
       </p>
 
-      {/* Lightbox */}
-      {lightboxIndex !== null && (
-        <div 
-          className="fixed inset-0 z-50 flex items-center justify-center bg-black/90 p-4 cursor-pointer"
-          onClick={closeLightbox}
-          style={{ backdropFilter: 'blur(4px)' }}
-        >
-          <div className="relative max-w-7xl max-h-[90vh] w-full h-full flex items-center justify-center">
-            <button 
-              className="absolute top-4 right-4 text-white hover:text-gray-300 z-50 p-2"
-              onClick={closeLightbox}
-            >
-              <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+      <dialog
+        ref={dialogRef}
+        className="gallery-dialog"
+        aria-labelledby={dialogTitleId}
+        onClose={event => {
+          if (!event.currentTarget.open) closeLightbox();
+        }}
+        onClick={event => {
+          if (event.target !== event.currentTarget) return;
+          const bounds = event.currentTarget.getBoundingClientRect();
+          if (event.clientX < bounds.left || event.clientX > bounds.right ||
+              event.clientY < bounds.top || event.clientY > bounds.bottom) closeLightbox();
+        }}
+      >
+        {lightboxIndex !== null && <>
+          <div className="gallery-dialog-header">
+            <h2 id={dialogTitleId}>{t('lightboxTitle')}</h2>
+            <button type="button" className="gallery-dialog-control" onClick={closeLightbox} autoFocus>
+              {t('close')}
             </button>
-            <img 
+          </div>
+          <figure className="gallery-dialog-figure">
+            <img
               src={PHOTOS[lightboxIndex]}
               alt={images[lightboxIndex]?.alt ?? 'Playa de San Lorenzo'}
-              className="max-w-full max-h-full object-contain shadow-2xl rounded-lg cursor-default"
-              onClick={(e) => e.stopPropagation()} // Prevent closing when clicking the image itself
+              draggable={false}
             />
+            <figcaption>{images[lightboxIndex]?.caption}</figcaption>
+          </figure>
+          <div className="gallery-dialog-navigation">
+            <button type="button" className="gallery-dialog-control" onClick={() => changeImage(-1)}>
+              ← {t('previous')}
+            </button>
+            <p className="gallery-dialog-count" aria-live="polite" aria-atomic="true">
+              {t('imageCount', { current: lightboxIndex + 1, total: PHOTOS.length })}
+            </p>
+            <button type="button" className="gallery-dialog-control" onClick={() => changeImage(1)}>
+              {t('next')} →
+            </button>
           </div>
-        </div>
-      )}
+        </>}
+      </dialog>
     </section>
   );
 }

@@ -139,7 +139,13 @@
         "alt": "Fachada urbana junto a Playa de San Lorenzo",
         "caption": "La ciudad de Gijón frente a la playa"
       }
-    ]
+    ],
+    "openImage": "Abrir imagen {number}: {description}",
+    "lightboxTitle": "Fotos de la galería",
+    "close": "Cerrar",
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "imageCount": "Imagen {current} de {total}"
   },
   "reviews": {
     "title": "Valoraciones y opiniones",

@@ -335,3 +335,24 @@ img, iframe { transition: none; }
  .mobile-nav nav {position: absolute; top: 100%; right: 0; width: 220px; padding: 1rem; background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 12px;}
  .mobile-nav nav a {display: block; padding: .5rem;}
 }
+
+/* Gallery activation and native modal */
+.gallery-trigger {display: block; width: 100%; text-align: left; background: var(--bg-secondary); color: inherit; font: inherit;}
+.gallery-trigger .caption {display: block;}
+.gallery-trigger:focus-visible {outline: 3px solid var(--accent); outline-offset: -3px;}
+.gallery-dialog {width: min(calc(100vw - 2rem), 1100px); max-width: none; max-height: calc(100dvh - 2rem); margin: auto; padding: 0; border: 1px solid var(--border-color); border-radius: 16px; background: var(--card-bg); color: var(--text-primary); box-shadow: 0 12px 60px rgba(0,0,0,.4); overflow: auto;}
+.gallery-dialog::backdrop {background: rgba(0,0,0,.85); backdrop-filter: blur(4px);}
+.gallery-dialog-header {display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: 1rem;}
+.gallery-dialog-header h2 {font-size: 1.25rem;}
+.gallery-dialog-control {border: 1px solid var(--border-color); border-radius: 8px; padding: .65rem .9rem; background: var(--bg-secondary); color: var(--text-primary); font-size: .9rem; line-height: 1.4; cursor: pointer;}
+.gallery-dialog-control:focus-visible {outline: 3px solid var(--accent); outline-offset: 2px;}
+.gallery-dialog-figure img {display: block; width: 100%; height: min(62dvh, 720px); object-fit: contain; background: #080810;}
+.gallery-dialog-figure figcaption {padding: .75rem 1rem; color: var(--text-secondary); font-size: .9rem;}
+.gallery-dialog-navigation {display: flex; align-items: center; justify-content: space-between; gap: .75rem; padding: 0 1rem 1rem;}
+.gallery-dialog-count {font-size: .85rem; color: var(--text-secondary); text-align: center;}
+@media(max-width: 480px) {
+ .gallery-dialog-header h2 {font-size: 1.1rem;}
+ .gallery-dialog-navigation {flex-wrap: wrap;}
+ .gallery-dialog-count {order: -1; width: 100%;}
+ .gallery-dialog-control {padding: .65rem .75rem;}
+}

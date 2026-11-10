@@ -139,7 +139,13 @@
         "alt": "Playa de San Lorenzo 旁的城市海岸線",
         "caption": "希洪面向海灘的城市立面"
       }
-    ]
+    ],
+    "openImage": "開啟第 {number} 張圖片：{description}",
+    "lightboxTitle": "圖庫照片",
+    "close": "關閉",
+    "previous": "上一張",
+    "next": "下一張",
+    "imageCount": "第 {current} 張，共 {total} 張"
   },
   "reviews": {
     "title": "評分與評論",

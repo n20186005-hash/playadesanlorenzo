@@ -139,7 +139,13 @@
         "alt": "Façade urbaine face à Playa de San Lorenzo",
         "caption": "Le front urbain de Gijón face à la plage"
       }
-    ]
+    ],
+    "openImage": "Ouvrir l’image {number} : {description}",
+    "lightboxTitle": "Photos de la galerie",
+    "close": "Fermer",
+    "previous": "Précédente",
+    "next": "Suivante",
+    "imageCount": "Image {current} sur {total}"
   },
   "reviews": {
     "title": "Notes et avis",

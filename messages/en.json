@@ -139,7 +139,13 @@
         "alt": "Gijón seafront beside Playa de San Lorenzo",
         "caption": "Urban frontage looking onto the beach"
       }
-    ]
+    ],
+    "openImage": "Open image {number}: {description}",
+    "lightboxTitle": "Gallery photos",
+    "close": "Close",
+    "previous": "Previous",
+    "next": "Next",
+    "imageCount": "Image {current} of {total}"
   },
   "reviews": {
     "title": "Ratings and reviews",
